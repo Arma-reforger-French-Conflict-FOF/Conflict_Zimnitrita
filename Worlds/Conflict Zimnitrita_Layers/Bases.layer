@@ -1,14 +1,14 @@
 GenericEntity : "{0A36F69A7D518F10}Prefabs/Compositions/Locations/Eden/Base_MilitaryHospital_FIA_01.et" {
- coords 3901.866 93.641 8450.657
+ coords 3901.866 93.641 8450.656
  {
   GenericEntity {
    ID "5E6ACA2F09C2D1E6"
-   coords -30.749 20.274 -24.242
+   coords -30.749 20.274 -24.241
    angleY -174.377
   }
   GenericEntity {
    ID "5E6ACA2F09C2D141"
-   coords 5.529 -7.52 35.692
+   coords 5.529 -7.52 35.693
    Flags 1049603
    {
     GenericEntity {
@@ -27,12 +27,12 @@ GenericEntity : "{0A36F69A7D518F10}Prefabs/Compositions/Locations/Eden/Base_Mili
   }
   GenericEntity {
    ID "5E6ACA2F09C2D183"
-   coords -38.449 23.228 -14.75
+   coords -38.449 23.23 -14.749
    angleY -89.275
   }
   SCR_SpawnPoint {
    ID "5E6ACA2F09C2D12F"
-   coords -1.257 -3.98 36.176
+   coords -1.257 -3.98 36.177
    angleY 94.724
    Flags 1048579
   }
@@ -60,7 +60,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 8.052 0 11.997
+    coords 8.053 0 11.996
    }
   }
  }
@@ -80,16 +80,16 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 125
    }
   }
-  coords 10106.732 86.531 9443.695
+  coords 10106.732 86.531 9443.694
   angleY 13.665
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -23.543 0.067 30.407
+    coords -23.544 0.064 30.408
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    coords 27.971 0 47.241
+    coords 27.971 0 47.242
    }
   }
  }
@@ -109,22 +109,22 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 100
    }
   }
-  coords 10477.487 -13.88 4671.589
+  coords 10575.812 15.594 4617.885
   angleX -4.292
   angleY -123.664
   angleZ -1.89
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 75.381 37.203 -8.902
+    coords 74.305 4.603 -6.454
    }
    GenericEntity {
     ID "5EEEC471C30578EB"
-    coords 37.593 30.071 0.928
+    coords 36.571 -0.923 3.255
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    coords 14.633 42.912 36.095
+    coords 13.3 2.5 39.128
    }
   }
  }
@@ -137,16 +137,16 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_sMapLocationName "LocationTyrone_MilitaryHospital"
    }
   }
-  coords 11186.749 30.312 5657.802
+  coords 15109.433 50 14613.938
   angleY 4.346
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 28.201 0 -39.966
+    coords 28.2 0 -39.968
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    coords -13.349 0 66.54
+    coords -13.351 0 66.538
    }
   }
  }
@@ -166,12 +166,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 100
    }
   }
-  coords 8916.386 106.531 9164.288
+  coords 8923.279 106.531 9182.295
   angleY -18.505
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -84.277 -1.108 63.42
+    coords -84.276 -0.569 63.42
     angleY 83.818
    }
    GenericEntity {
@@ -180,11 +180,11 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    coords 107.706 -2.942 37.792
+    coords 107.707 -8.049 37.792
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords 84.283 0 -9.841
+    coords 84.283 -0.141 -9.841
    }
   }
  }
@@ -213,7 +213,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    GenericEntity {
     ID "5EEEC471C30578EB"
-    coords -149.042 -0.216 43.395
+    coords -149.043 11.303 43.396
    }
    GenericEntity {
     ID "606078EE23DE48AC"
@@ -221,7 +221,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords -20.19 -0.003 55.56
+    coords -20.19 -0.004 55.56
    }
   }
  }
@@ -241,27 +241,27 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 150
    }
   }
-  coords 13531.902 48.029 8965.237
+  coords 7535.212 58.063 5726.152
   angleX 4.436
   angleY 179.717
   angleZ -6.245
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -41.081 2.73 94.368
+    coords -42.067 -6.277 93.665
     angleY -175.311
    }
    GenericEntity {
     ID "5EEEC471C30578EB"
-    coords 121.841 -11.749 48.879
+    coords 118.666 -40.759 46.615
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    coords 24.4 -0.056 -45.049
+    coords 24.497 0.83 -44.98
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords -46.54 2.603 7.847
+    coords -46.377 4.092 7.963
    }
   }
  }
@@ -286,15 +286,15 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -54.232 -0.148 -0.676
+    coords -54.232 0 -0.675
    }
    GenericEntity {
     ID "5EEEC471C30578EB"
-    coords 41.549 9.219 67.349
+    coords 41.549 0 67.35
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    coords -136.629 -7.988 3.137
+    coords -136.629 0 3.138
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
@@ -318,24 +318,24 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 150
    }
   }
-  coords 10001.988 122.813 7086.112
+  coords 9998.651 122.813 7090.12
   angleY -76.653
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 45.386 0 4.914
+    coords 45.387 0 4.913
    }
    GenericEntity {
     ID "5EEEC471C30578EB"
-    coords 2.845 0 -67.711
+    coords 2.846 0.175 -67.712
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    coords -44.833 0 51.633
+    coords -44.833 0 51.632
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords -12.474 0 -55.143
+    coords -12.474 0 -55.145
    }
   }
  }
@@ -355,12 +355,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 100
    }
   }
-  coords 8819.117 4.451 3909.07
-  angleY -89.149
+  coords 13699.047 28.926 5042.894
+  angleY -60.663
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -10.649 0.671 25.384
+    coords -10.648 0.517 25.385
    }
   }
  }
@@ -379,9 +379,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 100
    }
   }
-  coords 9452.499 0 2946.152
+  coords 13796.481 18.655 3894.466
   angleX -2
-  angleY 30.644
+  angleY 59.13
   angleZ -0.842
  }
  SmallBasePennantsPass {
@@ -399,12 +399,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 100
    }
   }
-  coords 8232.763 156.336 2164.719
-  angleY -58.216
+  coords 12351.713 8.163 3789.394
+  angleY -29.73
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -0.002 3.229 12
+    coords -0.002 -0.324 11.999
    }
   }
  }
@@ -423,13 +423,13 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 150
    }
   }
-  coords 6311.912 0.51 5226.068
-  angleY -70.199
+  coords 12123.532 22.386 7396.257
+  angleY -41.713
   angleZ -3.464
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 18.505 -1.631 11.999
+    coords 18.538 -1.079 11.999
     angleY -162.033
    }
   }
@@ -449,12 +449,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 100
    }
   }
-  coords 4451.37 202.848 5010.427
-  angleY -89.382
+  coords 10385.395 79.614 8094.11
+  angleY -60.896
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -7.958 -0.48 17.784
+    coords -7.957 0.103 17.783
    }
   }
  }
@@ -473,12 +473,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 150
    }
   }
-  coords 3319.675 234.051 4438.134
-  angleY 142.86
+  coords 9117.76 81.72 8130.867
+  angleY 171.346
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 0.001 -1.807 15
+    coords 0.001 -2.941 14.999
    }
   }
  }
@@ -497,17 +497,17 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 150
    }
   }
-  coords 4509.177 170.933 6231.707
-  angleY -154.496
+  coords 11018.691 60.153 9139.959
+  angleY -126.01
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 14.217 2.247 21.013
+    coords 14.217 -1.234 21.013
     angleY 35.382
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords -6.676 -0.187 -0.117
+    coords -6.677 -2.635 -0.117
     angleY 35.382
    }
   }
@@ -527,8 +527,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 100
    }
   }
-  coords 3789.583 194.603 6997.688
-  angleY -49.512
+  coords 10751.557 39.729 10156.414
+  angleY -21.026
  }
  SmallBaseMaidensBay {
   components {
@@ -545,12 +545,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 175
    }
   }
-  coords 5345.854 193.94 10536.602
-  angleY -18.599
+  coords 13807.298 49.563 12524.605
+  angleY 9.887
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -9.602 2.851 17.477
+    coords -9.602 0 17.477
    }
   }
  }
@@ -569,12 +569,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 100
    }
   }
-  coords 5464.142 130.905 7993.323
-  angleY -54.336
+  coords 12698.246 21.625 10232.823
+  angleY -25.85
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 0.002 0.839 12
+    coords 0.002 0.95 12
    }
   }
  }
@@ -593,14 +593,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 125
    }
   }
-  coords 6970.651 0 8271.547
+  coords 15515.688 52.125 4519.036
   angleX 1.659
   angleY -118.159
   angleZ 2.341
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 0.019 -0.459 15.867
+    coords 0.02 -0.459 15.866
    }
   }
  }
@@ -619,8 +619,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 100
    }
   }
-  coords 6635.185 216.809 3119.359
-  angleY 169.959
+  coords 11402.866 42.022 5390.422
+  angleY -161.555
  }
  TownBaseChotain {
   components {
@@ -638,14 +638,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 125
    }
   }
-  coords 7084.424 0 6017.588
+  coords 13180.032 40.335 7723.497
   angleX 2.328
-  angleY -42.416
+  angleY -13.93
   angleZ 0.018
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -0.001 -0.487 11.979
+    coords 0 -0.425 11.981
    }
   }
  }
@@ -665,14 +665,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 100
    }
   }
-  coords 8827.942 0 2769.363
+  coords 13163.219 16.959 4036.963
   angleX -0.218
-  angleY -105.021
+  angleY -76.535
   angleZ 1.708
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 10.226 0.312 1.89
+    coords 10.225 0.343 1.891
    }
   }
  }
@@ -692,14 +692,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 100
    }
   }
-  coords 5754.045 0 7053.081
+  coords 12504.602 41.376 9268.146
   angleX 2.118
-  angleY -11.989
+  angleY 16.497
   angleZ 1.426
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 0.938 -0.8 22.261
+    coords 0.924 -0.203 22.283
     angleY -153.647
    }
   }
@@ -720,12 +720,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 150
    }
   }
-  coords 5281.364 81.896 5361.537
-  angleY 178.943
+  coords 11282.36 33.609 8006.843
+  angleY -152.571
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 15.965 15.642 33.845
+    coords 15.964 -0.097 33.844
    }
   }
  }
@@ -745,12 +745,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 125
    }
   }
-  coords 7573.111 51.259 5525.154
-  angleY 147.881
+  coords 13662.237 44.864 8690.602
+  angleY 176.367
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 0.001 11.493 24.577
+    coords 0.001 0.866 24.576
    }
   }
  }
@@ -770,14 +770,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 125
    }
   }
-  coords 2570.692 280.136 5423.875
+  coords 8929.604 103.934 9354.494
   angleX 1.228
-  angleY 60.349
+  angleY 88.835
   angleZ 3.75
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -12.988 1.743 26.602
+    coords -11.619 -19.149 26.153
     angleY 177.758
    }
   }
@@ -798,12 +798,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 125
    }
   }
-  coords 7463.167 0 4736.242
-  angleY -77.147
+  coords 12901.781 22.67 6416.644
+  angleY -48.66
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -0.002 0 11.985
+    coords -0.002 -0.095 11.985
    }
   }
  }
@@ -823,14 +823,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 200
    }
   }
-  coords 4464.711 134.166 9468.255
+  coords 12523.285 20.187 12005.862
   angleX 1.057
-  angleY 64.743
+  angleY 93.229
   angleZ -0.499
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 10.44 9.865 38.117
+    coords 10.398 5.087 38.029
     angleY -146.665
    }
   }
@@ -851,14 +851,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 250
    }
   }
-  coords 4731.928 141.687 6970.114
+  coords 11566.657 42.074 9682.727
   angleX -1.591
-  angleY -91.148
+  angleY -62.662
   angleZ -0.256
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 0.019 5.899 14.887
+    coords 0.002 2.057 14.992
    }
   }
  }
@@ -878,12 +878,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 150
    }
   }
-  coords 5596.906 75.844 6027.447
-  angleY 9.853
+  coords 11877.31 0 8441.635
+  angleY 38.339
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 13.098 -1.323 0.833
+    coords 13.098 0 0.832
    }
   }
  }
@@ -903,12 +903,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 200
    }
   }
-  coords 7241.147 218.795 2312.1
-  angleY 0.084
+  coords 11550.444 15.64 4391.884
+  angleY 28.57
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -9.898 -0.66 18.123
+    coords -9.898 -4.548 18.124
     angleY -56.707
    }
   }
@@ -929,12 +929,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 100
    }
   }
-  coords 4940.354 131.342 9058.517
-  angleY 79.804
+  coords 12745.917 53.564 11418.875
+  angleY 108.29
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -5.795 3.009 15
+    coords -5.796 -0.33 14.999
    }
   }
  }
@@ -954,14 +954,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 200
    }
   }
-  coords 9198.983 0 2112.621
+  coords 13176.104 6.139 3282.765
   angleX 0.721
-  angleY -155.859
+  angleY -127.373
   angleZ -1.224
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -0.013 -0.375 29.822
+    coords -0.021 -0.692 29.818
     angleY -177.463
    }
   }
@@ -982,12 +982,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 125
    }
   }
-  coords 2885.242 253.847 6402.407
-  angleY -31.685
+  coords 9672.783 7.391 10064.53
+  angleY -3.199
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -5.898 1.292 23.887
+    coords -5.898 1.171 23.886
     angleY -20.893
    }
   }
@@ -1008,12 +1008,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 125
    }
   }
-  coords 4106.323 91.525 7794.186
-  angleY 35.678
+  coords 11409.839 24.548 10705.41
+  angleY 64.164
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 14.755 -1.634 15
+    coords 14.754 -1.808 15
     angleY 89.983
    }
   }
@@ -1033,13 +1033,13 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 150
    }
   }
-  coords 6384.868 0 9675.053
-  angleY 140.857
+  coords 14309.603 49.563 11271.808
+  angleY 169.343
   angleZ -1.378
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 8.543 -0.205 18.685
+    coords 8.544 -0.205 18.687
     angleY 131.656
    }
   }
@@ -1060,16 +1060,16 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 5244.656 229.942 11354.579
-  angleY 142.609
+  coords 14108.485 49.563 13291.814
+  angleY 171.095
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -8.03 0.68 12
+    coords -8.03 0 12
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords 0 0 0
+    coords -0.001 0 0
    }
   }
  }
@@ -1089,12 +1089,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 4544.261 129.676 10478.396
-  angleY 142.609
+  coords 13074.993 33.125 12855.768
+  angleY 171.095
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -20.544 2.482 -36.91
+    coords -20.545 0 -36.91
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
@@ -1118,16 +1118,16 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 2203.623 139.622 7478.578
-  angleY 142.609
+  coords 9586.973 65.195 11335.507
+  angleY 171.095
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -0.001 -6.601 17.277
+    coords 0 1.474 17.276
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords -0.001 0 -0.001
+    coords 0 0.001 -0.001
    }
   }
  }
@@ -1147,8 +1147,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 2482.494 274.877 4232.124
-  angleY 142.609
+  coords 8283.68 53.34 8349.095
+  angleY 171.095
  }
  SmallBaseFiringRange {
   components {
@@ -1166,16 +1166,16 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 7631.984 0.512 8097.089
-  angleY 142.609
+  coords 14653.114 41.094 9290.073
+  angleY 171.095
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -25.27 1.082 -3.054
+    coords -25.271 -0.587 -3.054
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords 0 0 0
+    coords -0.001 0 0
    }
   }
  }
@@ -1194,16 +1194,16 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 6550.764 0 7092.843
-  angleY 142.609
+  coords 13223.822 32.152 8923.101
+  angleY 171.095
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -31.289 0 22.629
+    coords -31.29 -1.152 22.629
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords -0.002 0 -0.001
+    coords -0.003 0.002 -0.001
    }
   }
  }
@@ -1223,8 +1223,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 7463.338 0 9524.694
-  angleY 142.609
+  coords 15185.787 83.114 10625.275
+  angleY 171.095
  }
  SmallBasePerelle {
   components {
@@ -1242,12 +1242,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 9319.43 51.296 5046.667
-  angleY 142.609
+  coords 14681.362 62.125 5804.137
+  angleY 171.095
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -14.344 0.261 12
+    coords -14.345 0 12
    }
   }
  }
@@ -1267,8 +1267,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 11707.554 0 2249.905
-  angleY 142.609
+  coords 15446.44 14.181 2206.963
+  angleY 171.095
  }
  SmallBaseCave {
   components {
@@ -1286,12 +1286,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 10600.378 0 2438.645
-  angleY 142.609
+  coords 14563.325 51.411 2900.921
+  angleY 171.095
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -20.12 0 22.29
+    coords -20.121 -0.661 22.29
    }
   }
  }
@@ -1310,12 +1310,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 9903.581 0 2578.014
-  angleY 142.609
+  coords 14017.364 38.667 3355.753
+  angleY 171.095
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -19.214 0 -0.409
+    coords -19.214 0.148 -0.409
    }
   }
  }
@@ -1334,12 +1334,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 11145.481 0 1808.795
-  angleY -120.702
+  coords 14742.033 49.532 2087.338
+  angleY -92.216
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -23.767 0 -7.179
+    coords -23.767 0.825 -7.18
     angleY -36.701
    }
   }
@@ -1359,12 +1359,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 180
    }
   }
-  coords 9716.862 0 1526.447
-  angleY 142.609
+  coords 13351.707 4.352 2520.557
+  angleY 171.095
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -0.001 0 46.762
+    coords -0.002 1.966 46.762
    }
   }
  }
@@ -1384,8 +1384,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 9329.601 0 317.23
-  angleY 142.609
+  coords 12434.596 4.363 1642.443
+  angleY 171.095
  }
  SmallBaseCastle {
   components {
@@ -1403,12 +1403,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 9337.43 0 1171.087
-  angleY 142.609
+  coords 12848.725 8.29 2389.19
+  angleY 171.095
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 15.828 0 23.342
+    coords 15.829 -1.789 23.342
     angleY 117.576
    }
   }
@@ -1429,12 +1429,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 10355.196 0 350.046
-  angleY 21.274
+  coords 13351.673 48.036 1182.129
+  angleY 49.76
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 14.835 0 -0.794
+    coords 14.835 2.377 -0.795
    }
   }
  }
@@ -1454,12 +1454,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 7896.114 34.726 1456.076
-  angleY 142.609
+  coords 11717.834 4.199 3327.112
+  angleY 171.095
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -28.216 1.222 21.628
+    coords -28.217 -2.146 21.628
    }
   }
  }
@@ -1478,8 +1478,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 2932.089 163.881 2070.882
-  angleY 142.609
+  coords 7648.035 69.51 6235.077
+  angleY 171.095
  }
  SmallBaseArgent {
   components {
@@ -1496,12 +1496,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 10944.773 49.388 8689.265
+  coords 15622.55 74.344 5707.752
   angleY 142.609
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -14.434 0.853 -7.073
+    coords -14.434 -0 -7.074
    }
   }
  }
@@ -1513,12 +1513,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_sBaseNameUpper "ERQUY"
    }
   }
-  coords 10923.335 22.099 11718.213
-  angleY 142.609
+  coords 19273.084 0 10902.979
+  angleY 171.095
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 17.937 2.133 -23.489
+    coords 17.94 0 -23.488
    }
   }
  }
@@ -1529,12 +1529,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_sBaseNameUpper "ERQUY LIGHTHOUSE"
    }
   }
-  coords 11347.522 24.006 11237.517
-  angleY 142.609
+  coords 19416.641 0 10278.157
+  angleY 171.095
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -8.643 1.375 34.855
+    coords -8.644 0 34.854
    }
   }
  }
@@ -1553,12 +1553,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 5263.431 203.443 9399.235
-  angleY 142.609
+  coords 13192.386 49.563 11564.253
+  angleY 171.095
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 19.715 1.409 17.448
+    coords 19.715 0 17.448
    }
   }
  }
@@ -1578,16 +1578,16 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 10755.524 0 2845.76
-  angleY 38.298
+  coords 14893.862 53.438 3184.749
+  angleY 66.784
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 3.725 0 16.769
+    coords 3.726 0 16.771
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords 0.002 0 0.001
+    coords 0.003 0 0.002
    }
   }
  }
@@ -1606,16 +1606,16 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 1154.921 152.78 11495.364
-  angleY 142.609
+  coords 10581.044 19.591 15366.158
+  angleY 171.095
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -22.04 -7.786 -9.565
+    coords -22.04 5.528 -9.565
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords -0.001 0 -0.001
+    coords -0.001 0 -0.002
    }
   }
  }
@@ -1635,12 +1635,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 6053.254 146.801 10159.83
-  angleY -49.512
+  coords 14249.352 49.563 11856.057
+  angleY -21.026
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 18.823 4.514 -9.702
+    coords 18.822 0 -9.702
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
@@ -1666,8 +1666,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_fOperationalRadius 75
    }
   }
-  coords 8422.677 0 809.545
-  angleY 142.609
+  coords 11872.281 0 2507.712
+  angleY 171.095
   {
    GenericEntity {
     ID "5CCED514A5908822"
@@ -1695,16 +1695,16 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 5848.77 80.044 9654.499
-  angleY 53.155
+  coords 13828.604 49.563 11509.437
+  angleY 81.641
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -32.617 12.868 5.874
+    coords -32.615 0 5.873
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords 0 0 0
+    coords 0.001 0 0
    }
   }
  }
@@ -1724,12 +1724,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 11667.637 0 1446.685
-  angleY 142.609
+  coords 15028.26 31.003 1520.027
+  angleY 171.095
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 17.159 0 -2.455
+    coords 17.159 -1.831 -2.455
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
@@ -1753,16 +1753,16 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIgnoreNonPlayableAttackers 0
    }
   }
-  coords 9628.166 40.252 5379.434
-  angleY -96.805
+  coords 15111.438 62.125 5949.364
+  angleY -68.319
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -8.121 0.985 15.606
+    coords -8.121 0 15.606
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords 0.001 0 -0.002
+    coords 0.001 0 -0.001
    }
   }
  }
@@ -1886,7 +1886,7 @@ GenericEntity : "{1A7FB3493A1B029F}Prefabs/Compositions/Locations/Eden/Base_Levi
     }
     GenericEntity {
      ID "5E3A731B1F444C45"
-     coords -15.778 0 3.963
+     coords -15.778 0 3.962
      angleY 0.669
      Flags 1048579
     }
@@ -2023,12 +2023,12 @@ GenericEntity : "{2390B74D062A2D13}Prefabs/Compositions/Locations/Eden/Base_Chot
  {
   GenericEntity {
    ID "5E6ACA2FA4C6BE5C"
-   coords -61.208 6.063 24.482
+   coords -61.208 6.062 24.482
    angleY 126.732
    {
     GenericEntity {
      ID "5E3A731E2F167706"
-     coords 10.501 1.636 0.911
+     coords 10.502 1.636 0.911
      angleY 72.268
      Flags 1048579
     }
@@ -2046,7 +2046,7 @@ GenericEntity : "{2390B74D062A2D13}Prefabs/Compositions/Locations/Eden/Base_Chot
     }
     GenericEntity {
      ID "5E3A731E87593015"
-     coords -3.438 -0.514 -0.223
+     coords -3.438 -0.513 -0.223
      angleY 1.067
      Flags 1048579
     }
@@ -2054,7 +2054,7 @@ GenericEntity : "{2390B74D062A2D13}Prefabs/Compositions/Locations/Eden/Base_Chot
   }
   GenericEntity {
    ID "5E6ACA2FA4C6BEA5"
-   coords -8.583 0.933 -13.958
+   coords -8.583 0.932 -13.957
    Flags 1049603
    {
     GenericEntity {
@@ -2097,24 +2097,24 @@ GenericEntity : "{2390B74D062A2D13}Prefabs/Compositions/Locations/Eden/Base_Chot
   }
   GenericEntity {
    ID "5E6ACA2FA4C6B1C1"
-   coords 8.425 0.051 53.821
+   coords 8.425 -35.048 53.821
    angleY 127
    {
     GenericEntity {
      ID "5E3A731E4FBE0623"
-     coords 9.654 0.117 2.851
+     coords 9.654 35.216 2.851
      angleY -88.567
      Flags 1048579
     }
     GenericEntity {
      ID "5E3A731E4FBE0621"
-     coords -2.87 -0.388 2.681
+     coords -2.87 34.711 2.681
      angleY 89.198
      Flags 1048579
     }
     GenericEntity {
      ID "5E3A731E72E52CA8"
-     coords -0.241 0.081 -0.88
+     coords -0.241 35.18 -0.88
      Flags 1048579
     }
    }
@@ -2159,7 +2159,7 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
     m_sBaseNameUpper "#AR-Campaign_MapLocation_Tower_Regina-UC"
    }
   }
-  coords 7689.867 155.572 3055.818
+  coords 9329.776 68.422 5662.471
   angleY 165.717
  }
  Relay15 {
@@ -2169,12 +2169,12 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
     m_sBaseNameUpper "#AR-Campaign_MapLocation_Tower_EntreDeux-UC"
    }
   }
-  coords 9611.989 76.219 4319.492
+  coords 9314.595 69.483 5652.474
   angleY 107.764
   {
    GenericEntity {
     ID "5C727AD606EB0C1C"
-    coords 11.153 -0 5.15
+    coords 11.152 0.263 5.149
    }
   }
  }
@@ -2192,7 +2192,7 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
     m_sBaseNameUpper "PINS TOWER"
    }
   }
-  coords 1409.724 232.108 11227.979
+  coords 14611.704 63.503 8719.833
   angleY 90
   scale 0.01
   {
@@ -2203,7 +2203,7 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
        m_eGroupType FIRETEAM
       }
      }
-     coords 7.75 -6.494 149.422
+     coords 7.75 -6.004 149.5
      angleY -90
     }
     {
@@ -2212,7 +2212,7 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
        m_eGroupType FIRETEAM
       }
      }
-     coords -50.375 -4.15 13.063
+     coords -50.375 -0.633 13.125
      angleY -90
     }
     {
@@ -2221,7 +2221,7 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
        m_eGroupType FIRETEAM
       }
      }
-     coords -113 7.422 -321.844
+     coords -113 3.664 -321.875
      angleY -90
     }
     {
@@ -2230,7 +2230,7 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
        m_eGroupType FIRETEAM
       }
      }
-     coords -1.125 -0.879 16.516
+     coords -1.187 -0.242 16.5
      angleY -90
     }
     {
@@ -2240,17 +2240,17 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
        m_bPickRandomGroupType 1
       }
      }
-     coords -85.25 2.344 -178.984
+     coords -85.25 1.857 -179
      angleY -90
     }
    }
    StaticModelEntity : "{DBCDEC45DB834E8A}Prefabs/Structures/Infrastructure/Towers/TransmitterTower_01/TransmitterTower_01.et" {
-    coords 0.125 0.098 -2.625
+    coords 0.125 0.051 -2.625
     angleY -90
     {
      LightEntity {
       ID "5A42CACBB0302214"
-      coords -2 757.635 -2
+      coords -1.875 0 -1.937
      }
     }
    }
@@ -2270,13 +2270,13 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
     m_sBaseNameUpper "EASTERN SEA RELAY"
    }
   }
-  coords 16030.136 126.74 14391.467
-  angleY 180
+  coords 12453.354 39.264 15886.886
+  angleY -180
   scale 0.05
   {
    GenericEntity {
     ID "5C727AD606EB0C1C"
-    coords -6.875 -0.666 -1.625
+    coords -6.875 0.761 -1.625
     angleY -90
    }
    $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
@@ -2286,8 +2286,8 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
        m_eGroupType FIRETEAM
       }
      }
-     coords 32.219 -3.222 210.094
-     angleY 180
+     coords 32.234 5.37 210.094
+     angleY -180
      Flags 524291
     }
     {
@@ -2296,8 +2296,8 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
        m_eGroupType FIRETEAM
       }
      }
-     coords 260.906 22.53 -42.938
-     angleY 180
+     coords 260.906 -7.833 -42.938
+     angleY -180
      Flags 524291
     }
    }
@@ -2317,7 +2317,7 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
     m_sBaseNameUpper "ESTRAPADE TOWER"
    }
   }
-  coords 3402.537 98.26 1621.985
+  coords 8241.723 1.25 11619.95
   angleY 90
   {
    $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
@@ -2327,7 +2327,7 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
        m_eGroupType FIRETEAM
       }
      }
-     coords -28.317 3.039 17.288
+     coords -28.317 0.124 17.288
      angleY -90
     }
     {
@@ -2336,7 +2336,7 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
        m_eGroupType FIRETEAM
       }
      }
-     coords 31.519 -5.883 13.059
+     coords 31.519 18.768 13.059
      angleY -90
     }
     {
@@ -2345,7 +2345,7 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
        m_eGroupType FIRETEAM
       }
      }
-     coords 137.352 -13.238 3.627
+     coords 137.352 57.416 3.627
      angleY -90
     }
     {
@@ -2354,7 +2354,7 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
        m_eGroupType FIRETEAM
       }
      }
-     coords 14.935 2.248 -66.504
+     coords 14.935 2.553 -66.504
      angleY -90
     }
     {
@@ -2364,12 +2364,12 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
        m_bPickRandomGroupType 1
       }
      }
-     coords 4.834 -1.074 5.103
+     coords 4.834 1.645 5.102
      angleY -90
     }
    }
    StaticModelEntity : "{DBCDEC45DB834E8A}Prefabs/Structures/Infrastructure/Towers/TransmitterTower_01/TransmitterTower_01.et" {
-    coords -0.006 0.151 -2.624
+    coords -0.006 -0.171 -2.624
     angleY -90
    }
   }
@@ -2388,7 +2388,7 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
     m_sBaseNameUpper "ST PHILLIPE RELAY"
    }
   }
-  coords 3924.682 32.252 10769.628
+  coords 16166.385 68.771 14502.819
   angleY -66.143
   {
    $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
@@ -2398,7 +2398,7 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
        m_eGroupType FIRETEAM
       }
      }
-     coords -5.934 -1.68 -22.326
+     coords -5.934 -0.204 -22.325
      angleY 66.143
     }
     {
@@ -2407,7 +2407,7 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
        m_eGroupType FIRETEAM
       }
      }
-     coords -8.012 -2.115 -31.998
+     coords -8.012 -0.93 -31.997
      angleY 66.143
     }
    }

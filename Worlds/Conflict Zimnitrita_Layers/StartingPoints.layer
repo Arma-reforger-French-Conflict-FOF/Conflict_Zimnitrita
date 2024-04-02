@@ -18,11 +18,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 5438.156 17.963 10011.485
-  angleY -151.09
+  coords 14033.766 49.563 12785.719
+  angleY -118.889
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    coords 0.001 0 12
     Flags 2097155
    }
   }
@@ -46,11 +47,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 2946.001 90.617 4839.52
-  angleY -9.064
+  coords 9168.827 7.817 9737.365
+  angleY 23.137
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    coords 0.001 -3.258 12.004
     Flags 2097155
    }
   }
@@ -74,11 +76,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 8355.991 237.817 4765.673
-  angleY 95.846
+  coords 13707.301 46.188 6791.913
+  angleY 128.047
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    coords 0 0.012 12.004
     Flags 2097155
    }
   }
@@ -102,11 +105,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 7545.375 6.253 6055.137
-  angleY -106.699
+  coords 13708.525 61.554 8315.006
+  angleY -74.498
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    coords 0.002 -0.092 11.996
     Flags 2097155
    }
   }
@@ -130,11 +134,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 7306.169 42.909 7652.432
-  angleY -12.215
+  coords 14357.311 52.264 9794.076
+  angleY 19.986
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    coords 0.004 0.516 12.001
     Flags 2097155
    }
   }
@@ -158,16 +163,17 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 5493.17 1.095 8749.016
-  angleY -169.82
+  coords 13407.551 49.563 11688.123
+  angleY -137.619
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    coords 0.001 0 12.002
     Flags 2097155
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords 0 0 0
+    coords 0.003 0 -0.002
    }
   }
  }
@@ -190,11 +196,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 5697.871 0.786 11142.059
-  angleY -106.828
+  coords 14856.012 49.563 13603.984
+  angleY -74.627
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    coords 0.002 0 12.004
     Flags 2097155
    }
   }
@@ -218,11 +225,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 4631.512 9.467 11562.355
-  angleY -105.009
+  coords 14177.654 30.488 14527.893
+  angleY -72.808
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    coords -0.002 0.062 12
     Flags 2097155
    }
   }
@@ -246,11 +254,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 3924.418 8.079 9033.013
-  angleY -106.49
+  coords 12231.446 16.376 12764.42
+  angleY -74.289
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    coords 0.005 0.667 12
     Flags 2097155
    }
   }
@@ -274,11 +283,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 3198.338 6.768 7140.297
-  angleY 62.186
+  coords 10608.434 28.028 11549.772
+  angleY 94.387
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    coords 0 -0.836 11.998
     Flags 2097155
    }
   }
@@ -302,11 +312,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 2112.23 1.336 6649.768
-  angleY -106.329
+  coords 9427.985 79.632 11713.479
+  angleY -74.128
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    coords -0.002 0.307 12.001
     Flags 2097155
    }
   }
@@ -330,12 +341,13 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 2481.562 83.393 6091.053
-  angleY 12.361
+  coords 9442.769 65.876 11043.885
+  angleY 44.562
   angleZ -1.402
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    coords 0.266 10.892 12.002
     Flags 2097155
    }
   }
@@ -359,11 +371,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 1883.111 71.079 5071.709
-  angleY 9.453
+  coords 8393.165 0.626 10500.252
+  angleY 41.654
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    coords 0.001 1.2 12
     Flags 2097155
    }
   }
@@ -387,11 +400,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 3775.095 122.41 5412.004
-  angleY 1.897
+  coords 10175.472 64.165 9779.973
+  angleY 34.098
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    coords -0.001 12.64 11.996
     Flags 2097155
    }
   }
@@ -415,11 +429,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 5652.349 40.368 4210.594
-  angleY 157.964
+  coords 11123.735 37.681 7762.977
+  angleY -169.835
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    coords 0.001 -0.078 12
     Flags 2097155
    }
   }
@@ -443,11 +458,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 6437.161 106.295 5938.728
-  angleY -107.257
+  coords 12708.744 55.25 8807.064
+  angleY -75.056
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    coords 0.002 0 11.998
     Flags 2097155
    }
   }
@@ -471,17 +487,18 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 3323.721 8.967 3516.163
+  coords 8783.234 71.049 8416.284
   angleX -1.395
-  angleY 174.562
+  angleY -153.237
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    coords -0.001 1.358 11.968
     Flags 2097155
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords 0 0 0
+    coords -0.002 0 0.001
    }
   }
  }
@@ -504,16 +521,17 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 6331.261 75.492 8452.521
-  angleY 143.861
+  coords 13958.725 49.563 10990.619
+  angleY 176.062
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    coords -0.004 0 11.997
     Flags 2097155
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords 0 0.001 0
+    coords 0 0 -0.004
    }
   }
  }
@@ -536,12 +554,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 12042.441 26.868 1876.018
-  angleY -151.09
+  coords 15286.814 59.344 2382.245
+  angleY -118.889
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -0.001 0.364 12
+    coords -0.001 0 11.997
     Flags 2097155
    }
   }
@@ -565,12 +583,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 9820.109 3.108 242.956
-  angleY -8.751
+  coords 12536.072 2.971 2184.655
+  angleY 23.45
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 16.727 4.206 20.167
+    coords 16.73 -0.294 20.166
     Flags 2097155
    }
   }
@@ -594,12 +612,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 8599.161 276.562 1653.965
-  angleY -151.09
+  coords 12254.85 13.367 4029.262
+  angleY -118.889
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -0.001 0.377 11.999
+    coords 0 -1.047 12
     Flags 2097155
    }
   }
@@ -635,94 +653,94 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "USSR"
    }
   }
-  coords 377.14 99.765 534.736
-  angleY -174.33
+  coords 4701.105 -0.001 7463.683
+  angleY -142.129
   Flags 524291
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 8.839 0.008 0.308
+    coords 8.838 -1.532 0.308
     Flags 2097155
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords 0 0.011 0
+    coords 0 0 0
    }
    $grp SCR_DestructibleBuildingEntity : "{0BDA77618F7586C5}PrefabLibrary/Infrastructure/Naval/PierConcrete_01_flat.et" {
     {
-     coords -19.296 -3.994 -5.934
+     coords -19.298 -3.267 -5.935
      angleY -5.67
     }
     {
-     coords 0.597 -3.994 -3.972
+     coords 0.597 -2.413 -3.972
      angleY -5.67
     }
     {
-     coords -9.349 -3.993 -4.922
+     coords -9.35 -2.531 -4.924
      angleY -5.67
     }
     {
-     coords 20.492 -3.994 -2.026
+     coords 20.492 -7.133 -2.025
      angleY -5.67
     }
     {
-     coords 10.545 -3.992 -2.976
+     coords 10.544 -3.837 -2.977
      angleY -5.67
     }
     {
-     coords 19.697 -3.995 5.872
+     coords 19.697 -2.216 5.872
      angleY -5.67
     }
     {
-     coords -20.093 -3.994 1.963
+     coords -20.093 1.564 1.963
      angleY -5.67
     }
     {
-     coords -10.147 -3.993 2.98
+     coords -10.146 2.37 2.98
      angleY -5.67
     }
     {
-     coords -0.198 -3.994 3.936
+     coords -0.196 2.426 3.938
      angleY -5.67
     }
     {
-     coords 9.748 -3.991 4.923
+     coords 9.748 0.94 4.924
      angleY -5.67
     }
     {
-     coords 29.611 -3.991 6.902
+     coords 29.611 -6.603 6.901
      angleY -5.67
     }
     {
-     coords 30.406 -3.991 -0.993
+     coords 30.406 -11.572 -0.993
      angleY -5.67
     }
    }
    $grp SCR_DestructibleBuildingEntity : "{94636E81E0D938E4}PrefabLibrary/Infrastructure/Naval/PierConcrete_01_20m_T.et" {
     {
-     coords -0.335 -3.994 11.871
+     coords -0.335 7.476 11.871
      angleY 174.33
     }
     {
-     coords 1.775 -3.995 -11.828
+     coords 1.774 -6.992 -11.829
      angleY -5.67
     }
    }
    $grp SCR_DestructibleBuildingEntity : "{F09400CC1A27BE39}PrefabLibrary/Infrastructure/Naval/PierConcrete_01_20m.et" {
     {
-     coords -17.491 -3.994 -13.731
+     coords -17.49 -7.738 -13.731
      angleY -5.67
     }
     {
-     coords 21.226 -3.994 -9.9
+     coords 21.227 -11.58 -9.9
      angleY -5.67
     }
     {
-     coords -20.779 -3.994 9.91
+     coords -20.78 6.535 9.909
      angleY 174.33
     }
     {
-     coords 18.954 -3.994 13.778
+     coords 18.955 3.483 13.778
      angleY 174.33
     }
    }

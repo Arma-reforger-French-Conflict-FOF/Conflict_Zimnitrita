@@ -10,7 +10,7 @@ $grp GenericEntity : "{0DDAFCA92FF4451C}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 4542.139 14.593 9435.462
+  coords 7366.922 0 14535.371
   angleY -16.511
  }
  {
@@ -24,7 +24,7 @@ $grp GenericEntity : "{0DDAFCA92FF4451C}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 4602.208 18.564 10677.342
+  coords 7426.991 47.098 15777.252
   angleY -104.119
  }
  {
@@ -38,7 +38,7 @@ $grp GenericEntity : "{0DDAFCA92FF4451C}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 4785.245 162.528 7127.867
+  coords 7610.029 0 12227.777
   angleY -121.276
  }
  {
@@ -52,7 +52,7 @@ $grp GenericEntity : "{0DDAFCA92FF4451C}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 5100.01 14.25 3992.659
+  coords 7924.794 3.108 9092.566
   angleY -173.287
  }
  {
@@ -66,7 +66,7 @@ $grp GenericEntity : "{0DDAFCA92FF4451C}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 1296.087 38.019 6031.241
+  coords 4120.871 45.667 11131.148
   angleY -172.126
  }
  {
@@ -80,7 +80,7 @@ $grp GenericEntity : "{0DDAFCA92FF4451C}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 7248.583 136.872 2202.72
+  coords 10073.365 88.58 7302.629
   angleY -83.538
  }
  {
@@ -94,7 +94,7 @@ $grp GenericEntity : "{0DDAFCA92FF4451C}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 9805.248 8.219 1588.069
+  coords 12630.032 17.281 6687.978
   angleY -176.594
  }
 }

@@ -1,154 +1,154 @@
 $grp GenericEntity : "{07D58C64654F71A3}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_USSR_03.et" {
  {
-  coords 5078.837 177.69 7034.13
+  coords 10516.33 10.663 10605.35
   angleY -47.903
  }
  {
-  coords 4915.191 49.294 8944.543
+  coords 10352.685 17.031 12515.763
   angleY -2.558
  }
  {
-  coords 9090.266 79.253 2372.775
+  coords 14527.759 62.125 5943.995
   angleY -36.985
   angleZ -3.193
   {
    GenericEntity {
     ID "5CD2AC4DDB8764D9"
-    coords 1.682 0.014 0.736
+    coords 1.676 -0.094 0.736
     angleY 93.99
    }
    GenericEntity {
     ID "5CD2AC4DDB8764B7"
-    coords -1.896 0.092 -0.855
+    coords -1.896 0.106 -0.855
     angleY -146.054
    }
   }
  }
  {
-  coords 2817.325 82.102 6478.756
+  coords 8254.816 0 10049.977
   angleX -2.879
   angleY -26.065
  }
  {
-  coords 4801.93 119.512 8158.622
+  coords 10239.423 36.231 11729.842
   angleX -1.268
   angleY -30.076
   angleZ 2.834
  }
  {
-  coords 3093.548 118.296 5221.799
+  coords 8531.041 63.878 8793.021
   angleY -127.182
  }
  {
-  coords 7359.513 163.998 4274.676
+  coords 12797.007 28.876 7845.895
   angleY -68.172
  }
  {
-  coords 5238.511 35.028 10668.831
+  coords 10676.005 59.036 14240.051
   angleY -124.783
  }
 }
 $grp GenericEntity : "{172D03072FE6ECAB}Prefabs/Compositions/Slotted/SlotRoadMedium/Barricade_M_US_01.et" {
  {
-  coords 4958.035 29.426 10620.853
+  coords 10395.525 16.213 14192.071
   angleY 141.836
   angleZ -2.13
   {
    GenericEntity {
     ID "5CC6B4BF606E2876"
-    coords -1.837 -0.067 -1.133
+    coords -1.85 -0.381 -1.132
     angleY 88.49
    }
    GenericEntity {
     ID "5CC6B4BF606E2850"
-    coords 1.253 -0.073 -1.752
+    coords 1.227 -0.703 -1.752
     angleY -102.765
    }
   }
  }
  {
-  coords 4032.127 110.687 6698.924
+  coords 9469.619 55.914 10270.144
   angleX 7.851
   angleY 59.906
   angleZ -5.909
   {
    GenericEntity {
     ID "5CC6B4BF606E2876"
-    coords -1.842 0.034 -1.284
+    coords -1.813 0.297 -1.246
     angleY 88.49
     angleZ -8.668
    }
    GenericEntity {
     ID "5CC6B4BF606E2850"
-    coords 2.021 -0.539 3.068
+    coords 1.632 -4.308 2.545
     angleY 92.235
    }
   }
  }
  {
-  coords 7093.163 116.934 5439.261
+  coords 12530.655 55.25 9010.483
   angleY -110.046
   {
    GenericEntity {
     ID "5CC6B4BF606E2876"
-    coords -1.829 0.093 -1.133
+    coords -1.833 0 -1.134
     angleY 88.49
    }
    GenericEntity {
     ID "5CC6B4BF606E2850"
-    coords 1.256 -0.001 -1.752
+    coords 1.253 0 -1.753
     angleY -102.765
    }
   }
  }
  {
-  coords 4392.816 1.593 11045.454
+  coords 9830.31 1.615 14616.672
   angleY -151.936
  }
  {
-  coords 4913.443 27.585 11545.98
+  coords 10350.936 4.522 15117.197
   angleY 164.501
  }
  {
-  coords 4635.907 109.896 8248.565
+  coords 10073.4 74.951 11819.785
   {
    StaticModelEntity {
     ID "5CC6B49A31F9DC0C"
-    coords -0.732 -0.274 2.103
+    coords -0.731 7.306 2.103
     angleX 6.547
     angleY 143.035
    }
    StaticModelEntity {
     ID "5CC6B49A31F9DD9B"
-    coords 1.258 -0.139 0.899
+    coords 1.258 7.337 0.899
     angleX 9.349
     angleY 169.186
    }
    StaticModelEntity {
     ID "5CC6B49A31F9DDA1"
-    coords 4.215 -0.075 0.94
+    coords 4.215 5.514 0.94
     angleY -89.228
     angleZ 5.656
    }
    StaticModelEntity {
     ID "5CC6B49A31F9DDF8"
-    coords -2.655 -0.019 0.94
+    coords -2.655 2.542 0.94
     angleY -137.501
    }
   }
  }
  {
-  coords 8830.251 94.754 2732.313
+  coords 14267.744 60.678 6303.533
   angleY 145.413
   {
    GenericEntity {
     ID "5CC6B4BF606E2876"
-    coords -2.487 0.109 -1.15
+    coords -2.486 0.058 -1.149
     angleY 88.49
    }
    GenericEntity {
     ID "5CC6B4BF606E2850"
-    coords 1.255 -0.01 -1.752
+    coords 1.254 6.982 -1.751
     angleY -102.765
    }
   }
@@ -156,11 +156,11 @@ $grp GenericEntity : "{172D03072FE6ECAB}Prefabs/Compositions/Slotted/SlotRoadMed
 }
 $grp GenericEntity : "{18B92018CF634D22}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_US_03.et" {
  {
-  coords 3876.591 15.281 8414.389
+  coords 9314.084 71.746 11985.607
   angleY -178.575
  }
  {
-  coords 7540.508 132.559 4806.127
+  coords 12978.001 36.978 8377.347
   angleX 0.362
   angleY 46.253
   angleZ -5.636
@@ -168,35 +168,35 @@ $grp GenericEntity : "{18B92018CF634D22}Prefabs/Compositions/Slotted/SlotFlatSma
 }
 $grp GenericEntity : "{24B7F96197053B39}Prefabs/Compositions/Slotted/SlotRoadSmall/Barricade_S_US_01.et" {
  {
-  coords 4973.613 29.354 10627.645
+  coords 10411.104 17.595 14198.862
   angleX 2.489
   angleY 132.026
   angleZ 3.278
   {
    GenericEntity {
     ID "5CC6B4B0E08C8E09"
-    coords -1.492 -0.001 -1.905
+    coords -1.443 -0.888 -1.942
     angleY 61.821
    }
    GenericEntity {
     ID "5CC6B4B0E08C8E56"
-    coords 1.697 -0.055 -1.823
+    coords 1.709 -0.345 -1.834
     angleY -92.358
    }
   }
  }
  {
-  coords 5884.955 99.627 5914.506
+  coords 11322.448 48.357 9485.726
   angleY 102.858
   {
    StaticModelEntity {
     ID "5CC6AA09EB402A13"
-    coords -0.924 -0.037 1.661
+    coords -0.924 -0.119 1.661
     angleY -47.952
    }
    StaticModelEntity {
     ID "5CC6AA09EB402A57"
-    coords 1.818 -0.087 1.292
+    coords 1.816 0.167 1.292
     angleX -1.468
     angleY 51.017
     angleZ -2.991
@@ -204,468 +204,502 @@ $grp GenericEntity : "{24B7F96197053B39}Prefabs/Compositions/Slotted/SlotRoadSma
   }
  }
  {
-  coords 4650.622 110.889 8242.632
+  coords 10088.114 78.128 11813.852
   angleY 13.646
   {
    GenericEntity {
     ID "5CC6AA09EB402D5F"
-    coords 1.152 0.316 0.301
+    coords 1.154 -2.413 0.301
     angleY 18.331
    }
    GenericEntity {
     ID "5CC6AA09EB402D7A"
-    coords -1.025 -0.21 0.192
+    coords -1.023 0.083 0.192
     angleY -7.903
    }
    GenericEntity {
     ID "5CC6B4B0E08C8E09"
-    coords -1.493 0.014 -1.905
+    coords -1.492 0.593 -1.905
     angleY 61.821
    }
    GenericEntity {
     ID "5CC6B4B0E08C8E56"
-    coords 1.694 0.503 -1.821
+    coords 1.696 -3.257 -1.82
     angleY -92.358
    }
    StaticModelEntity {
     ID "5CC6AA09EB402AA0"
-    coords -0.223 -0.073 0.203
+    coords -0.222 0.066 0.201
     angleY -115.019
    }
    StaticModelEntity {
     ID "5CC6AA09EB402A0C"
-    coords 0.989 0.301 -0.775
+    coords 0.991 -7.42 -0.775
     angleY -1.886
     angleZ -12.365
    }
    StaticModelEntity {
     ID "5CC6AA09EB402A13"
-    coords -0.924 -0.351 1.661
+    coords -0.922 0.529 1.661
     angleY -47.952
    }
    StaticModelEntity {
     ID "5CC6AA09EB402A57"
-    coords 1.82 0.593 1.292
+    coords 1.82 1.325 1.292
     angleX 22.569
     angleY 50.979
    }
    StaticModelEntity {
     ID "5CC6AA09EB402AFE"
-    coords -1.871 -0.068 -1.099
+    coords -1.87 1.36 -1.098
     angleY -120.553
    }
    StaticModelEntity {
     ID "5CC6AA09EB402A8E"
-    coords 2.002 0.653 0.267
+    coords 2.004 2.793 0.268
     angleX -15.234
     angleY -74.751
    }
    StaticModelEntity {
     ID "5CC6AA09EB402AD9"
-    coords -1.984 -0.189 -0.132
+    coords -1.982 0.007 -0.132
     angleY -99.697
    }
   }
  }
  {
-  coords 4928.456 27.781 11548.407
+  coords 10365.949 5.875 15119.626
   angleY 130.994
  }
  {
-  coords 5874.926 99.964 5905.864
+  coords 11312.419 49.678 9477.084
   angleY 151.618
   {
    StaticModelEntity {
     ID "5CC6AA09EB402A57"
-    coords 1.82 -0.028 1.292
+    coords 1.819 0.323 1.291
     angleY 50.979
    }
   }
  }
  {
-  coords 3826.151 11.48 8496.094
+  coords 9263.644 62.061 12067.313
   angleX -3.905
   angleY -58.981
  }
  {
-  coords 8796.678 202.263 3997.239
+  coords 14234.171 59.503 7568.458
   angleY -115.994
   {
    GenericEntity {
     ID "5CC6AA09EB402D5F"
-    coords 1.152 -0.04 0.301
+    coords 1.152 0.005 0.301
     angleY 18.331
    }
    GenericEntity {
     ID "5CC6AA09EB402D7A"
-    coords -1.025 -0.015 0.193
+    coords -1.023 -0.028 0.193
     angleY -7.903
    }
    GenericEntity {
     ID "5CC6B4B0E08C8E09"
-    coords -1.493 0.152 -1.904
+    coords -1.493 0.072 -1.904
     angleY 61.821
    }
    GenericEntity {
     ID "5CC6B4B0E08C8E56"
-    coords 1.694 0.089 -1.821
+    coords 1.695 0.125 -1.822
     angleY -92.358
    }
    StaticModelEntity {
     ID "5CC6AA09EB402AA0"
-    coords -0.223 -0.021 0.203
+    coords -0.222 -0.015 0.202
     angleY -115.019
    }
    StaticModelEntity {
     ID "5CC6AA09EB402A0C"
-    coords 0.989 0.031 -0.774
+    coords 0.989 0.057 -0.775
     angleY -1.886
    }
    StaticModelEntity {
     ID "5CC6AA09EB402A13"
-    coords -0.924 -0.128 1.661
+    coords -0.923 -0.104 1.66
     angleY -47.952
    }
    StaticModelEntity {
     ID "5CC6AA09EB402A57"
-    coords 1.82 -0.129 1.292
+    coords 1.82 -0.034 1.291
     angleY 50.979
    }
    StaticModelEntity {
     ID "5CC6AA09EB402AFE"
-    coords -1.871 0.098 -1.098
+    coords -1.869 0.023 -1.098
     angleY -120.553
    }
    StaticModelEntity {
     ID "5CC6AA09EB402A8E"
-    coords 1.944 -0.057 0.325
+    coords 1.945 0.018 0.324
     angleY -74.751
    }
    StaticModelEntity {
     ID "5CC6AA09EB402AD9"
-    coords -1.984 0.026 -0.133
+    coords -1.983 -0.029 -0.135
     angleY -99.697
    }
   }
  }
  {
-  coords 3050.367 113.766 5161.983
+  coords 8487.859 49.381 8733.201
   angleY -28.246
  }
 }
 $grp GenericEntity : "{27F6A0815E6FF6EF}Prefabs/Compositions/Slotted/SlotRoadMedium/Barricade_M_USSR_01.et" {
  {
-  coords 5408.59 78.761 5704.873
+  coords 10846.083 69.941 9276.093
   angleY -6.469
   angleZ -2.784
   {
    GenericEntity {
     ID "5CC6B4BF5DDEF861"
-    coords -2.797 0.021 -2.25
+    coords -2.655 2.943 -2.25
     angleY -76.767
    }
    GenericEntity {
     ID "5E5AD06D797113DE"
-    coords 2.198 0.102 -2.338
+    coords 2.264 1.532 -2.338
     angleY -99.208
    }
   }
  }
  {
-  coords 5612.623 212.711 7091.615
+  coords 11050.115 23.512 10662.835
   angleX -10.08
   angleY -113.711
   angleZ 3.665
  }
  {
-  coords 3793.866 115.466 4961.892
+  coords 9231.358 67.375 8533.11
   angleY -71.489
   angleZ -1.413
   {
    GenericEntity {
     ID "5CC6B4BF5DDEF861"
-    coords -2.799 -0.05 -2.25
+    coords -2.795 0.069 -2.25
     angleY -76.767
    }
    GenericEntity {
     ID "5E5AD06D797113DE"
-    coords 2.197 0.148 -2.338
+    coords 2.194 -0.054 -2.338
     angleY -99.208
    }
    GenericEntity {
     ID "5CC6B499BAC8A7E5"
-    coords 0.478 0 0.057
+    coords 0.48 -0.012 0.056
     {
      GenericEntity {
       ID "5DB68EF62AC701CB"
-      coords 0.665 0.474 -1.05
+      coords 0.653 -0.016 -1.049
+      angleX 13.496
+      angleY -78.767
      }
      GenericEntity {
       ID "5CB0D990A16A1125"
-      coords 1.739 0.66 -0.314
+      coords 1.72 -0.042 -0.312
+      angleX -13.533
+      angleY -120.547
      }
      GenericEntity {
       ID "5CB0D990A16A1126"
-      coords -2.907 0.981 0.125
+      coords -2.93 0.072 0.126
+      angleX 1.539
+      angleY -70.869
      }
      StaticModelEntity {
       ID "5CB0D990A16A1124"
-      coords 3.304 0 0.467
+      coords 3.302 -0.081 0.468
+      angleY -47.942
      }
      StaticModelEntity {
       ID "5CB0D990A16A1139"
-      coords -1.07 0 -0.836
+      coords -1.068 0.027 -0.834
+      angleY -93.565
      }
      StaticModelEntity {
       ID "5CB0D990A16A5AAF"
-      coords -3.93 0 0.364
+      coords -3.928 0.097 0.368
+      angleY 30.193
      }
      StaticModelEntity {
       ID "5CB0D990A16ADE92"
-      coords 2.451 0 -0.594
+      coords 2.448 -0.06 -0.593
+      angleY -70.171
      }
      StaticModelEntity {
       ID "5CB0D990A16ADE93"
-      coords 3.424 0 -0.594
+      coords 3.422 -0.084 -0.592
+      angleY 76.052
      }
     }
    }
    GenericEntity {
     ID "5CC6B499BAC8A62B"
-    coords 2.427 0 -0.43
+    coords 2.428 -0.06 -0.431
+    angleY 9.076
     {
      DecalEntity {
       ID "56E0B29E17039037"
-      coords 0.001 0 0
+      coords -0.001 0 0.001
+      angleX -90
+      angleY -178.794
+      angleZ -178.781
      }
     }
    }
    GenericEntity {
     ID "5CC6B499BAC8A65C"
-    coords -0.946 0 -0.409
+    coords -0.944 0.023 -0.408
+    angleY -28.957
     {
      DecalEntity {
       ID "56E0B29E17039037"
-      coords 0 0 0
+      coords 0 0 -0.002
+      angleX -90
+      angleY -176.269
+      angleZ -177.626
      }
     }
    }
    GenericEntity {
     ID "5CC6B499BAC8A67A"
-    coords -3.274 0 -0.242
+    coords -3.27 0.081 -0.243
+    angleY 22.868
     {
      DecalEntity {
       ID "56E0B29E17039037"
-      coords 0 0 0
+      coords 0 0 0.001
+      angleX -90
+      angleY -178.781
+      angleZ -177.563
      }
     }
    }
    GenericEntity {
     ID "5CC6B499BAC8A60D"
-    coords 0.842 0.1 -1.578
+    coords 0.842 -0.021 -1.579
+    angleY -21.916
     {
      DecalEntity {
       ID "56E0B29E1E7CD512"
-      coords 0 0 0
+      coords -0.001 0 0.001
+      angleX -90
+      angleY -178.761
+      angleZ -178.808
      }
     }
    }
    GenericEntity {
     ID "5CC6B499BAC8A617"
-    coords -0.651 0.1 -1.813
+    coords -0.651 0.016 -1.813
+    angleY -72.114
     {
      DecalEntity {
       ID "56E0B29E1E7CD512"
       coords 0 0 0
+      angleX -90
+      angleY -179.363
+      angleZ -178.831
      }
     }
    }
    StaticModelEntity {
     ID "5CC6B499BAC8A798"
-    coords -3.458 0 -0.471
+    coords -3.453 0.085 -0.472
+    angleY -68.078
    }
    StaticModelEntity {
     ID "5CC6B499BAC8A7AC"
-    coords 0.415 0 0.058
+    coords 0.416 -0.01 0.058
+    angleY -86.076
    }
    StaticModelEntity {
     ID "5CC6B499BAC8A78D"
-    coords -1.963 0 -0.204
+    coords -1.96 0.048 -0.205
+    angleY 61.582
    }
   }
  }
  {
-  coords 8126.671 220.855 4127.225
+  coords 13564.163 42.437 7698.444
   angleY 131.417
  }
  {
-  coords 4922.665 36.26 9180.522
+  coords 10360.157 15.523 12751.74
   angleY -51.224
  }
  {
-  coords 6830.525 72.153 4835.044
+  coords 12268.017 6.781 8406.264
   angleY 158.005
  }
  {
-  coords 6810.771 71.358 4819.805
+  coords 12248.263 28.562 8391.026
   angleY 116.324
   {
    GenericEntity {
     ID "5CC6B4BF5DDEF861"
-    coords -2.137 -0.364 -2.892
+    coords -2.136 0 -2.889
     angleY -76.767
    }
    GenericEntity {
     ID "5E5AD06D797113DE"
-    coords 2.177 -0.188 -2.971
+    coords 2.178 0 -2.97
     angleY -99.208
    }
   }
  }
  {
-  coords 1074.117 2.813 6199.68
+  coords 6511.61 0 9770.9
   angleY -173.077
  }
  {
-  coords 4993.671 28.254 11985.85
+  coords 10431.163 32.452 15557.068
   angleY 91.816
  }
  {
-  coords 7492.978 165.76 4243.532
+  coords 12930.472 31.35 7814.752
   angleY -161.833
  }
  {
-  coords 5249.472 34.883 10667.516
+  coords 10686.966 62.205 14238.735
   angleY -89.262
  }
  {
-  coords 8193.315 220.896 2213.693
+  coords 13630.809 25.69 5784.913
   angleY 33.149
  }
  {
-  coords 3873.115 61.409 7032.324
+  coords 9310.607 62.051 10603.544
   angleY 5.136
  }
  {
-  coords 7452.53 110.303 5334.355
+  coords 12890.021 30.557 8905.573
   angleX -8.538
   angleY 74.959
   angleZ 0.98
   {
    GenericEntity {
     ID "5CC6B4BF5DDEF861"
-    coords -2.802 0.244 -2.286
+    coords -2.793 -0.402 -2.188
     angleY -76.767
    }
    GenericEntity {
     ID "5E5AD06D797113DE"
-    coords 2.191 0.098 -2.352
+    coords 2.198 -0.332 -2.288
     angleY -99.208
    }
   }
  }
  {
-  coords 5185.511 171.443 6970.962
+  coords 10623.005 6.607 10542.182
   angleY 133.807
   {
    GenericEntity {
     ID "5CC6B4BF5DDEF861"
-    coords -2.798 0.072 -2.25
+    coords -2.798 0.229 -2.25
     angleY -76.767
    }
    GenericEntity {
     ID "5E5AD06D797113DE"
-    coords 2.193 0.067 -2.338
+    coords 2.193 0.004 -2.338
     angleY -99.208
    }
   }
  }
  {
-  coords 5534.842 88.882 5895.88
+  coords 10972.335 76.526 9467.1
   angleY -175.522
  }
  {
-  coords 4974.254 24.918 9975.905
+  coords 10411.747 23.107 13547.124
   angleY -106.182
  }
  {
-  coords 4903.307 109.304 8162.869
+  coords 10340.8 23.216 11734.089
   angleX -15.909
   angleY 117.641
  }
  {
-  coords 4799.112 118.685 8121.223
+  coords 10236.603 63.288 11692.443
   angleY -150
  }
  {
-  coords 3067.575 118.438 5248.037
+  coords 8505.065 63.785 8819.257
   angleY 16.395
  }
 }
 $grp GenericEntity : "{2A27606856B8A914}Prefabs/Compositions/Slotted/SlotRoadLarge/Barricade_L_USSR_01.et" {
  {
-  coords 6821.552 72.265 4828.395
+  coords 12259.045 25.55 8399.612
   angleY 146.881
   {
    GenericEntity {
     ID "5CC6B48215782EDE"
-    coords -0.038 -0.067 -1.405
+    coords -0.04 -6.541 -1.407
     angleY -8.013
    }
    GenericEntity {
     ID "5CC6B48215782EF3"
-    coords -1.432 -0.084 -1.551
-    angleY 180
+    coords -1.435 -11.406 -1.552
+    angleY -180
    }
    GenericEntity {
     ID "5CC6B48215782EA5"
-    coords 1.139 -0.066 -1.337
+    coords 1.136 -2.689 -1.338
     angleY 2.199
    }
    GenericEntity {
     ID "5CC6B48215783114"
-    coords -2.695 -0.072 -1.513
+    coords -2.696 -14.986 -1.514
     angleY -177.801
    }
   }
  }
  {
-  coords 7601.853 163.538 4536.515
+  coords 13039.348 42.578 8107.736
   angleY 90.276
   {
    StaticModelEntity {
     ID "5CC6B48215782E1C"
-    coords -6.16 -0.329 1.276
+    coords -6.159 -0.58 1.274
     angleY 146.264
    }
   }
  }
  {
-  coords 6618.426 82.731 5167.05
+  coords 12055.919 6.906 8738.271
   angleX 3.167
   angleY -1.967
  }
  {
-  coords 2858.825 81.201 6436.084
+  coords 8296.317 0 10007.304
   angleY -115.542
  }
  {
-  coords 7141.792 150.901 2093.433
+  coords 12579.285 14.366 5664.653
   angleY 74.639
   {
    GenericEntity {
     ID "5CC6B4BFC0D1751C"
-    coords 0.011 0.297 -2.35
+    coords 0.011 0.031 -2.349
     angleY 83.204
    }
    GenericEntity {
     ID "5CC6B4BFC0D175FB"
-    coords 5.2 0.908 -3.35
+    coords 5.2 -0.018 -3.35
     angleY -99.761
    }
    GenericEntity {
     ID "5E5AD06C0CDBE61A"
-    coords -4.404 0.292 -2.352
+    coords -4.405 0.082 -2.354
     angleY -92.459
    }
   }
@@ -673,289 +707,303 @@ $grp GenericEntity : "{2A27606856B8A914}Prefabs/Compositions/Slotted/SlotRoadLar
 }
 $grp GenericEntity : "{3AE1A95C1023F894}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_USSR_04.et" {
  {
-  coords 4890.51 2.505 3890.655
+  coords 10328.003 87.535 7461.874
   angleX 3.237
   angleY -57.24
  }
  {
-  coords 3826.443 58.945 7065.731
+  coords 9263.936 54.912 10636.951
   angleX -2.807
   angleY -19.137
   angleZ 0.791
  }
  {
-  coords 7358.398 122.306 5202.508
+  coords 12795.892 55.25 8773.728
   angleY -45.886
  }
  {
-  coords 4922.656 24.75 9985.346
+  coords 10360.148 25.481 13556.564
   angleY -141.883
  }
  {
-  coords 3033.113 114.225 5196.171
+  coords 8470.604 53.5 8767.391
   angleY -159.663
  }
 }
 $grp GenericEntity : "{83A10E8547281E58}Prefabs/Compositions/Slotted/SlotRoadSmall/Barricade_S_USSR_01.et" {
  {
-  coords 1532.973 54.908 5960.152
+  coords 6970.465 0 9531.37
   angleY 86.772
   angleZ -13.587
   {
    GenericEntity {
     ID "5CC6B4B0D5E06055"
-    coords 0.88 -0.003 -1.487
+    coords 0.829 -0.201 -1.486
     angleY 115.873
    }
    GenericEntity {
     ID "5CC6B4B0D5E06037"
-    coords -1.599 0.124 -1.835
+    coords -1.543 0.373 -1.833
     angleY -81.269
    }
   }
  }
  {
-  coords 4937.25 36.368 9183.537
+  coords 10374.743 16.003 12754.757
   angleY -10.478
  }
  {
-  coords 8652.866 181.214 3689.198
+  coords 14090.358 55.792 7260.417
   angleY -165.017
   {
    GenericEntity {
     ID "5CC6B4B0D5E06055"
-    coords 0.881 0.125 -1.487
+    coords 0.879 -0.075 -1.489
     angleY 115.873
    }
    GenericEntity {
     ID "5CC6B4B0D5E06037"
-    coords -1.629 -0.032 -1.835
+    coords -1.63 0.054 -1.838
     angleY -81.269
    }
    StaticModelEntity {
     ID "5CC6ADB1E43AE880"
-    coords -1.125 -0.185 0.799
+    coords -1.127 0.073 0.797
     angleY -28.97
    }
   }
  }
  {
-  coords 3799.757 115.662 4975.071
+  coords 9237.25 69.107 8546.291
   angleY -98.098
   {
    GenericEntity {
     ID "5CC6B4B0D5E06037"
-    coords -2.017 0.049 -2.881
+    coords -2.02 -1.732 -2.883
     angleY -81.269
    }
    GenericEntity {
     ID "5CC6ADB1E43AEBC1"
-    coords -1.384 0.1 0.204
+    coords -1.386 0.121 0.202
+    angleY -13.237
     {
      DecalEntity {
       ID "56E0B29E17039037"
-      coords 0 0 0
+      coords 0.002 0.001 0.001
+      angleX -90
+      angleY 180
+      angleZ -180
      }
     }
    }
    GenericEntity {
     ID "5CC6ADB1E43AEBF8"
-    coords 1.248 0.1 0.118
+    coords 1.246 -1.732 0.115
+    angleY 8.332
     {
      DecalEntity {
       ID "56E0B29E17039037"
-      coords 0 0 0
+      coords 0.001 0 0.003
+      angleX -90
+      angleY 180
+      angleZ -180
      }
     }
    }
    GenericEntity {
     ID "5CC6B4B0D5E06055"
-    coords 0.881 0 -1.487
+    coords 0.88 -1.732 -1.487
+    angleY 115.873
    }
    StaticModelEntity {
     ID "5CC6ADB1E43AEB22"
-    coords -0.001 0 -0.061
+    coords -0.001 0.095 -0.062
+    angleY 67.454
    }
    StaticModelEntity {
     ID "5CC6ADB1E43AE880"
-    coords -1.126 0 0.799
+    coords -1.128 -1.732 0.799
+    angleY -28.97
    }
    StaticModelEntity {
     ID "5CC6ADB1E43AEB7B"
-    coords 1.323 0 -0.475
+    coords 1.323 -1.732 -0.477
+    angleY -125.843
    }
    StaticModelEntity {
     ID "5CC6ADB1E43AEB04"
-    coords 2.052 0.1 0.083
+    coords 2.049 -1.732 0.081
+    angleY -63.171
    }
    StaticModelEntity {
     ID "5CC6ADB1E43AEB54"
-    coords -2.089 0 -0.387
+    coords -2.091 -0.119 -0.389
+    angleY -90.121
    }
   }
  }
  {
-  coords 3001.729 28.808 6953.782
+  coords 8439.221 0 10525.002
   angleY -30.772
  }
  {
-  coords 2982.901 28.323 6961.399
+  coords 8420.394 0 10532.618
   angleY -10.631
   angleZ 8.598
  }
  {
-  coords 2994.963 28.27 6954.054
+  coords 8432.456 0 10525.274
   angleX -13.479
   angleY -1.525
   angleZ -2.438
  }
  {
-  coords 8567.273 126.273 3312.435
+  coords 14004.765 48.408 6883.655
   angleY 98.442
  }
  {
-  coords 8112.218 221.341 4124.841
+  coords 13549.711 41.971 7696.06
   angleY 167.249
  }
  {
-  coords 9395.452 46.06 1904.65
+  coords 14832.945 58.765 5475.87
   angleY -77.81
   {
    GenericEntity {
     ID "5CC6B4B0D5E06037"
-    coords 1.217 0 1.862
+    coords 1.217 0.038 1.862
     angleY 109.879
    }
   }
  }
  {
-  coords 8659.794 180.755 3677.787
+  coords 14097.287 56.456 7249.006
   angleY -131.52
   {
    GenericEntity {
     ID "5CC6B4B0D5E06055"
-    coords 0.881 0.164 -1.486
+    coords 0.881 -0.014 -1.486
     angleY 115.873
    }
    GenericEntity {
     ID "5CC6B4B0D5E06037"
-    coords -1.629 0.207 -1.835
+    coords -1.629 0.115 -1.838
     angleY -81.269
    }
   }
  }
  {
-  coords 6800.69 71.14 4809.055
+  coords 12238.183 29.602 8380.275
   angleY 122.331
  }
  {
-  coords 5211.261 73.481 5097.009
+  coords 10648.755 69.345 8668.229
   angleY -67.059
  }
  {
-  coords 5595.281 210.204 7108.624
+  coords 11032.772 25.048 10679.844
   angleX 2.608
   angleY 11.361
   angleZ -9.167
  }
  {
-  coords 5608.718 212.241 7107.867
+  coords 11046.211 24.653 10679.087
   angleX -9.422
   angleY -85.754
   angleZ -1.423
   {
    GenericEntity {
     ID "5CC6B4B0D5E06055"
-    coords 0.889 0.327 -1.541
+    coords 0.876 -0.249 -1.446
     angleY 115.873
    }
    GenericEntity {
     ID "5CC6B4B0D5E06037"
-    coords -1.633 -0.167 -1.807
+    coords -1.64 -0.377 -1.771
     angleY -81.269
    }
   }
  }
  {
-  coords 5589.996 209.336 7109.917
+  coords 11027.489 25.284 10681.137
   angleX 3.612
   angleY 17.709
   angleZ -8.823
  }
  {
-  coords 10073.04 2.531 1552.692
+  coords 15510.531 46.656 5123.912
   angleY -64.773
  }
  {
-  coords 10108.094 2.313 1515.578
+  coords 15545.587 43.939 5086.798
   angleY -85.998
  }
  {
-  coords 7510.135 166.701 4212.704
+  coords 12947.627 28.542 7783.923
   angleY -97.461
  }
  {
-  coords 6686.01 11.34 3051.485
+  coords 12123.503 17.031 6622.705
   angleY -177.529
  }
  {
-  coords 4070.744 32.822 7839.666
+  coords 9508.237 59.895 11410.886
   angleY 127.526
  }
  {
-  coords 7456.592 137.147 4737.094
+  coords 12894.085 39.157 8308.313
   angleX 0.359
   angleY -99.802
   angleZ 2.769
  }
  {
-  coords 4900.436 53.001 5895.594
+  coords 10337.928 80.911 9466.813
   angleY -114.641
  }
  {
-  coords 4894.743 110.981 8149.581
+  coords 10332.234 24.474 11720.801
   angleX 7.733
   angleY -102.294
   angleZ 7.266
  }
  {
-  coords 4792.181 118.635 8125.515
+  coords 10229.675 60.103 11696.735
   angleY -142.213
  }
 }
 $grp GenericEntity : "{8E1DF47DD56E69E6}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_USSR_01.et" {
  {
-  coords 10096.037 2.316 1500.206
+  coords 15533.527 42.39 5071.425
   angleY -76.452
  }
  {
-  coords 7517.815 5.65 6775.177
+  coords 12955.308 27.245 10346.396
   angleY 34.028
  }
  {
-  coords 4904.209 2.167 3880.523
+  coords 10341.702 87.097 7451.743
   angleY -149.431
  }
  {
-  coords 9406.517 210.439 2956.115
+  coords 14844.01 62.125 6527.334
   angleX 0.001
   angleY -22.957
   {
    GenericEntity {
     ID "5CCCBEE868D6B36C"
-    coords -2.592 -0.212 -0.007
+    coords -2.592 0 -0.007
     angleX -3.232
     angleY -93.313
    }
   }
  }
  {
-  coords 6594.271 83.941 5164.249
+  coords 12031.763 6.906 8735.469
   angleY -142.204
   {
    GenericEntity {
     ID "5CCCBEE868D6B36C"
-    coords -2.564 -0.229 -0.049
+    coords -2.565 0 -0.05
     angleX -3.371
     angleY -92.852
     angleZ 5.278
@@ -963,37 +1011,37 @@ $grp GenericEntity : "{8E1DF47DD56E69E6}Prefabs/Compositions/Slotted/SlotFlatSma
   }
  }
  {
-  coords 6964.668 119.319 6033.064
+  coords 12402.16 43.431 9604.284
   angleX 1.548
   angleY -60.464
   angleZ -2.122
  }
  {
-  coords 8885.481 95.157 2756.451
+  coords 14322.974 61.972 6327.671
   angleY -10.422
  }
  {
-  coords 5962.567 217.848 7100.559
+  coords 11400.058 14.554 10671.78
   angleX -5.658
   angleY 120.598
   angleZ 2.518
  }
  {
-  coords 3977.217 27.137 7825.073
+  coords 9414.71 64.018 11396.293
   angleY -147.45
  }
  {
-  coords 4582.566 22.792 9768.056
+  coords 10020.058 22.61 13339.275
   angleX 0.001
   angleY -7.943
  }
  {
-  coords 7325.523 138.117 2239.69
+  coords 12763.015 18.59 5810.91
   angleY -7.204
   {
    GenericEntity {
     ID "5CCCBEE868D6B36C"
-    coords -2.605 -0.049 -0.008
+    coords -2.602 -0.02 -0.009
     angleX -0.692
     angleY -93.314
     angleZ 0.128
@@ -1001,13 +1049,13 @@ $grp GenericEntity : "{8E1DF47DD56E69E6}Prefabs/Compositions/Slotted/SlotFlatSma
   }
  }
  {
-  coords 9053.273 78.893 2280.208
+  coords 14490.765 70.859 5851.427
   angleY 139.41
   angleZ -1.827
   {
    GenericEntity {
     ID "5CCCBEE868D6B36C"
-    coords -2.604 -0.048 -0.011
+    coords -2.405 6.22 -0.011
     angleX -0.982
     angleY -93.141
     angleZ 3.229
@@ -1015,17 +1063,17 @@ $grp GenericEntity : "{8E1DF47DD56E69E6}Prefabs/Compositions/Slotted/SlotFlatSma
   }
  }
  {
-  coords 4812.064 54.56 5720.312
+  coords 10249.556 86.796 9291.532
   angleY 145.215
   angleZ -2.866
  }
  {
-  coords 6871.241 41.384 4429.408
+  coords 12308.732 28.901 8000.627
   angleY -149.444
  }
 }
 GenericEntity : "{917158017F425567}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_US_01.et" {
- coords 8748.716 196.681 3943.449
+ coords 14186.209 56.407 7514.669
  angleY -79.972
  angleZ -0.764
 }
@@ -1036,7 +1084,7 @@ $grp StaticModelEntity : "{A46D45922F8CAD6C}Prefabs/Props/Military/Fortification
     Enabled 1
    }
   }
-  coords 7605.314 0.018 4521.362
+  coords 13042.808 12.511 8092.581
   angleY -168.376
  }
  {
@@ -1045,7 +1093,7 @@ $grp StaticModelEntity : "{A46D45922F8CAD6C}Prefabs/Props/Military/Fortification
     Enabled 1
    }
   }
-  coords 5422.777 -0.325 5699.89
+  coords 10860.269 -9.464 9271.109
   angleX 19.095
   angleY 104.18
   angleZ 6.993
@@ -1056,7 +1104,7 @@ $grp StaticModelEntity : "{A46D45922F8CAD6C}Prefabs/Props/Military/Fortification
     Enabled 1
    }
   }
-  coords 9406.904 0.055 1910.442
+  coords 14844.396 -2.472 5481.662
   angleY -60.486
  }
  {
@@ -1065,7 +1113,7 @@ $grp StaticModelEntity : "{A46D45922F8CAD6C}Prefabs/Props/Military/Fortification
     Enabled 1
    }
   }
-  coords 8555.275 0.045 3306.082
+  coords 13992.767 0.68 6877.302
   angleY -1.216
  }
  {
@@ -1074,162 +1122,162 @@ $grp StaticModelEntity : "{A46D45922F8CAD6C}Prefabs/Props/Military/Fortification
     Enabled 1
    }
   }
-  coords 5372.84 -0.082 9963.026
+  coords 10810.333 9.936 13534.244
   angleY -31.436
  }
 }
 $grp GenericEntity : "{AF770C825EA592CF}Prefabs/Compositions/Slotted/SlotRoadLarge/Barricade_L_US_01.et" {
  {
-  coords 4939.848 27.791 11549.804
+  coords 10377.343 6.638 15121.024
   angleY -172.888
  }
  {
-  coords 7454.021 137.523 4727.203
+  coords 12891.513 39.847 8298.423
   angleY -65.152
  }
 }
 $grp GenericEntity : "{B04F2A9C5356C02D}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_FIA_01.et" {
  {
-  coords 4868.331 25.179 12046.349
+  coords 10305.823 0.498 15617.567
   angleX 0.04
   angleY -116.259
   angleZ 2.669
   {
    GenericEntity {
     ID "5E5CB3014284530D"
-    coords -0.956 -0.045 0.779
+    coords -0.961 0.014 0.777
     angleY 97.378
    }
   }
  }
  {
-  coords 3432.623 175.225 5834.696
+  coords 8870.115 64.358 9405.914
   angleY -63.375
  }
  {
-  coords 6846.407 81.463 8224.989
+  coords 12283.9 25.85 11796.207
   angleY -167.997
   angleZ 0.001
  }
  {
-  coords 9404.046 212.933 2884.087
+  coords 14841.539 62.125 6455.307
   angleX -0.001
   angleY -79.194
   {
    GenericEntity {
     ID "5E5CB3014284530D"
-    coords -0.963 -0.057 0.779
+    coords -0.963 0 0.778
     angleY 97.378
    }
    GenericEntity {
     ID "5D1ED93DEBE99308"
-    coords -2.52 0.151 0.375
+    coords -2.521 0 0.374
     angleY -95.729
    }
    GenericEntity {
     ID "5D1ED93DEBE99369"
-    coords 5.43 -0.337 -1.508
+    coords 5.429 0 -1.509
     angleY -73.983
    }
   }
  }
  {
-  coords 5359.073 30.227 8283.862
+  coords 10796.563 22.77 11855.082
   angleY 126.21
   angleZ -7.656
  }
  {
-  coords 6038.329 213.366 7182.896
+  coords 11475.821 25.9 10754.113
   angleY 135.099
   angleZ -2.911
  }
  {
-  coords 5172.657 51.698 5513.975
+  coords 10610.149 71.239 9085.193
   angleY 26.369
  }
  {
-  coords 2429.25 113.841 5528.771
+  coords 7866.742 0 9099.991
   angleY 86.294
  }
  {
-  coords 7502.382 126.814 4900.806
+  coords 12939.875 38.554 8472.027
   angleY 49.425
   {
    GenericEntity {
     ID "5E5CB3014284530D"
-    coords -0.963 -0.004 0.779
+    coords -0.962 -0.008 0.779
     angleY 97.378
    }
    GenericEntity {
     ID "5D1ED93DEBE99308"
-    coords -2.52 0.105 0.375
+    coords -2.52 -0.016 0.375
     angleY -95.729
    }
    GenericEntity {
     ID "5D1ED93DEBE99369"
-    coords 5.43 -0.065 -1.509
+    coords 5.431 0.016 -1.51
     angleY -73.983
    }
   }
  }
  {
-  coords 5631.312 90.437 5873.712
+  coords 11068.805 85.746 9444.933
   angleY 158.599
   angleZ 2.974
   {
    GenericEntity {
     ID "5E5CB3014284530D"
-    coords -0.955 -0.064 0.779
+    coords -0.184 -14.916 0.777
     angleY 97.378
    }
    GenericEntity {
     ID "5D1ED93DEBE99308"
-    coords -2.516 -0.09 0.375
+    coords -2.631 2.126 0.376
     angleY -95.729
    }
    GenericEntity {
     ID "5D1ED93DEBE99369"
-    coords 5.418 0.237 -1.51
+    coords 6.184 -14.476 -1.511
     angleY -73.983
    }
   }
  }
  {
-  coords 7372.612 139.496 2226.202
+  coords 12810.103 16.963 5797.421
   angleY 69.525
   {
    GenericEntity {
     ID "5E5CB3014284530D"
-    coords -0.963 0 0.779
+    coords -0.963 -0.024 0.781
     angleY 97.378
    }
    GenericEntity {
     ID "5D1ED93DEBE99308"
-    coords -2.52 0.127 0.375
+    coords -2.52 -0.094 0.378
     angleY -95.729
    }
    GenericEntity {
     ID "5D1ED93DEBE99369"
-    coords -9.388 -0.379 0.245
+    coords -9.389 -0.388 0.247
     angleY -116.218
    }
   }
  }
  {
-  coords 2983.557 79.38 6518.584
+  coords 8421.05 0 10089.804
   angleY 66.994
  }
  {
-  coords 9038.502 124.559 2762.438
+  coords 14475.995 62.125 6333.658
   angleY -75.732
  }
  {
-  coords 4833.334 54.063 5755.912
+  coords 10270.826 86.531 9327.132
   angleY 160.389
   angleZ -1.714
  }
  {
-  coords 6579.031 6.297 2339.851
+  coords 12016.521 17.609 5911.071
   angleY -38.896
  }
 }
@@ -1240,7 +1288,7 @@ $grp StaticModelEntity : "{DA1B42FB9AEC02BE}Prefabs/Structures/Military/Fortific
     Enabled 1
    }
   }
-  coords 7097.957 0 5426.217
+  coords 12535.45 0 8997.438
   angleY -93.048
  }
  {
@@ -1249,7 +1297,7 @@ $grp StaticModelEntity : "{DA1B42FB9AEC02BE}Prefabs/Structures/Military/Fortific
     Enabled 1
    }
   }
-  coords 4032.151 -0.152 6711.98
+  coords 9469.644 -8.465 10283.197
   angleX 9.05
   angleY -148.634
   angleZ 7.09
@@ -1257,21 +1305,21 @@ $grp StaticModelEntity : "{DA1B42FB9AEC02BE}Prefabs/Structures/Military/Fortific
 }
 $grp GenericEntity : "{E249C09D69AAE6C8}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_USSR_02.et" {
  {
-  coords 6673.324 9.577 3185.764
+  coords 12110.816 18.185 6756.983
   angleX 0.053
   angleY 16.655
   angleZ 1.102
  }
  {
-  coords 8178.215 221.407 2175.938
+  coords 13615.708 23.191 5747.158
   angleY -98.944
  }
  {
-  coords 5060.851 54.344 5428.83
+  coords 10498.347 76.835 9000.05
   angleY -85.979
  }
  {
-  coords 3119.89 119.191 5246.343
+  coords 8557.385 48.225 8817.563
   angleX 2.69
   angleY 50.231
  }
@@ -1283,7 +1331,7 @@ $grp StaticModelEntity : "{EF39F5715EF2323E}Prefabs/Structures/Walls/BarbedWire/
     Enabled 1
    }
   }
-  coords 5420.354 0 5700.112
+  coords 10857.848 1.28 9271.332
   angleY 93.526
  }
  {
@@ -1292,7 +1340,7 @@ $grp StaticModelEntity : "{EF39F5715EF2323E}Prefabs/Structures/Walls/BarbedWire/
     Enabled 1
    }
   }
-  coords 7605.167 -0.202 4521.281
+  coords 13042.659 12.538 8092.5
   angleY -65.344
  }
  {
@@ -1301,7 +1349,7 @@ $grp StaticModelEntity : "{EF39F5715EF2323E}Prefabs/Structures/Walls/BarbedWire/
     Enabled 1
    }
   }
-  coords 7099.184 -0.346 5425.8
+  coords 12536.679 0 8997.021
   angleY -58.583
  }
  {
@@ -1310,7 +1358,7 @@ $grp StaticModelEntity : "{EF39F5715EF2323E}Prefabs/Structures/Walls/BarbedWire/
     Enabled 1
    }
   }
-  coords 7096.707 -0.204 5426.541
+  coords 12534.2 0 8997.761
   angleY -72.176
  }
  {
@@ -1319,7 +1367,7 @@ $grp StaticModelEntity : "{EF39F5715EF2323E}Prefabs/Structures/Walls/BarbedWire/
     Enabled 1
    }
   }
-  coords 8556.104 0.004 3305.012
+  coords 13993.596 0.645 6876.232
   angleY -156.671
  }
  {
@@ -1328,7 +1376,7 @@ $grp StaticModelEntity : "{EF39F5715EF2323E}Prefabs/Structures/Walls/BarbedWire/
     Enabled 1
    }
   }
-  coords 8557.322 0.007 3306.203
+  coords 13994.814 0.617 6877.422
   angleY -123.296
  }
 }

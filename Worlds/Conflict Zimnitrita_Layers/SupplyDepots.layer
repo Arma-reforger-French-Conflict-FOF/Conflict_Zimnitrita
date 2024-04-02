@@ -1,6 +1,6 @@
 $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupplyDepot.et" {
  {
-  coords 8504.755 128.823 3303.259
+  coords 13758.787 41.151 6551.415
   angleX 3.401
   angleY -16.235
   angleZ -7.462
@@ -13,7 +13,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
       }
      }
-     coords -8.176 1.692 7.5
+     coords -8.306 0.679 7.441
      angleX 3.215
      angleY 31.756
      angleZ 7.544
@@ -28,7 +28,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_iGroupMultiplier 3
       }
      }
-     coords -179.356 49.703 -62.542
+     coords -182.901 22.611 -64.164
      angleX -8.166
      angleY 149.7
      angleZ -0.71
@@ -38,7 +38,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
         Hierarchy "{5CD0765889102122}" {
         }
        }
-       coords -197.378 -45.183 1.49
+       coords -200.52 -21.321 -1.58
        angleY -54.336
       }
      }
@@ -47,7 +47,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
   }
  }
  {
-  coords 6912.457 57.718 4482.109
+  coords 12166.489 25.171 7730.268
   angleX 5.237
   angleY 9.194
   angleZ -9.891
@@ -60,7 +60,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
       }
      }
-     coords 2.197 -0.451 14.954
+     coords 1.945 -1.892 14.82
      angleX 4.671
      angleY -52.501
      angleZ 10.169
@@ -75,7 +75,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_iGroupMultiplier 3
       }
      }
-     coords 261.329 17.713 -34.628
+     coords 251.113 -40.875 -40.081
      angleX 16.097
      angleY 138.824
      angleZ -6.652
@@ -85,7 +85,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
         Hierarchy "{5CD0765889102122}" {
         }
        }
-       coords 166.878 16.67 -189.955
+       coords 162.25 71.546 -171.73
        angleX -19.166
        angleY -58.915
        angleZ 19.472
@@ -96,7 +96,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
   }
  }
  {
-  coords 4814.289 53.445 5819.508
+  coords 10068.319 76.317 9067.663
   angleX -2.998
   angleY 102.085
   angleZ 1.187
@@ -109,7 +109,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
       }
      }
-     coords 15.159 1.911 21.139
+     coords 15.184 0.57 21.212
      angleX 1.136
      angleY -47.81
      angleZ -3.018
@@ -124,7 +124,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_iGroupMultiplier 3
       }
      }
-     coords 211.941 6.148 -106.438
+     coords 212.323 -12.537 -105.458
      angleX -5.266
      angleY 47.417
      angleZ 0.709
@@ -134,7 +134,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
         Hierarchy "{5CD0765889102122}" {
         }
        }
-       coords -234.25 -15.034 -74.851
+       coords -234.011 3.964 -77.577
        angleY -54.336
       }
      }
@@ -143,7 +143,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
   }
  }
  {
-  coords 4995.1 25.473 9943.72
+  coords 10249.133 25.125 13191.877
   angleX -0.895
   {
    $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
@@ -154,7 +154,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
       }
      }
-     coords 2.86 0.161 -15.868
+     coords 2.859 0.501 -15.872
      angleX 0.522
      angleY 54.339
      angleZ 0.727
@@ -169,7 +169,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_iGroupMultiplier 3
       }
      }
-     coords 139.267 -5.251 -344.776
+     coords 139.267 -8.909 -344.72
      angleX -8.939
      angleY 149.632
      angleZ -0.253
@@ -179,7 +179,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
         Hierarchy "{5CD0765889102122}" {
         }
        }
-       coords -57.957 -53.904 -378.419
+       coords -57.929 -51.403 -378.779
        angleY -54.336
       }
      }
@@ -188,7 +188,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
   }
  }
  {
-  coords 4841.866 112.853 8100.993
+  coords 10095.896 73.21 11349.147
   angleX 2.686
   angleY 158.742
   angleZ -2.961
@@ -201,7 +201,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
       }
      }
-     coords 9.012 -1 -18.064
+     coords 8.965 -1.838 -18.104
      angleX 3.536
      angleY -104.418
      angleZ 1.865
@@ -216,7 +216,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_iGroupMultiplier 3
       }
      }
-     coords -212.207 -11.708 -53.921
+     coords -212.993 -26.849 -54.636
      angleX -10.336
      angleY -9.659
      angleZ 2.691
@@ -226,7 +226,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
         Hierarchy "{5CD0765889102122}" {
         }
        }
-       coords 223.375 22.473 1.878
+       coords 223.545 35.846 -0.043
        angleY -54.336
       }
      }
@@ -235,7 +235,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
   }
  }
  {
-  coords 6458.873 162.267 6496.987
+  coords 11712.904 0 9745.144
   angleX -1.957
   angleY 165.525
   angleZ -0.419
@@ -248,7 +248,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
       }
      }
-     coords 12.978 -0.107 -1.21
+     coords 13.374 54.018 -3.061
      angleX -0.317
      angleY -111.176
      angleZ -1.976
@@ -263,7 +263,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_iGroupMultiplier 3
       }
      }
-     coords -256.299 -42.727 -320.895
+     coords -255.768 29.844 -323.375
      angleX -6.169
      angleY -15.802
      angleZ -0.842
@@ -273,7 +273,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
         Hierarchy "{5CD0765889102122}" {
         }
        }
-       coords 348.598 62.376 227.941
+       coords 348.371 44.11 230.564
        angleY -54.336
       }
      }
@@ -282,7 +282,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
   }
  }
  {
-  coords 3079.382 117.506 5184.799
+  coords 8333.413 50.197 8432.955
   angleX 4.398
   angleY -31.517
   angleZ -4.777
@@ -295,7 +295,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
       }
      }
-     coords -8.675 -0.807 10.233
+     coords -8.594 0.159 10.306
      angleX -5.082
      angleY 85.849
      angleZ -4.041
@@ -310,7 +310,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_iGroupMultiplier 3
       }
      }
-     coords 470.978 -38.639 27.003
+     coords 471.458 -32.903 27.446
      angleX -3.656
      angleY -178.483
      angleZ -5.403
@@ -320,7 +320,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
         Hierarchy "{5CD0765889102122}" {
         }
        }
-       coords 487.549 -7.876 22.447
+       coords 487.502 -11.422 22.956
        angleY -54.336
       }
      }
@@ -329,7 +329,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
   }
  }
  {
-  coords 6589.783 7.228 2329.923
+  coords 11843.813 24.814 5578.08
   angleX 1.196
   angleY -10.146
   angleZ 1.604
@@ -342,7 +342,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
       }
      }
-     coords 9.514 0.069 17.185
+     coords 9.537 -0.687 17.169
      angleX 0.933
      angleY -99.319
      angleZ -1.77
@@ -357,7 +357,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_iGroupMultiplier 3
       }
      }
-     coords 112.828 39.703 -181.688
+     coords 114.187 -8.74 -182.699
      angleX -6.49
      angleY -4.081
      angleZ 0.391
@@ -367,7 +367,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
         Hierarchy "{5CD0765889102122}" {
         }
        }
-       coords -117.115 -18.989 235.081
+       coords -118.826 32.36 230.424
        angleY -54.336
       }
      }
