@@ -1,9 +1,9 @@
 $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupplyDepot.et" {
  {
-  coords 13758.787 41.151 6551.415
-  angleX 3.401
-  angleY -16.235
-  angleZ -7.462
+  coords 13758.787 41.151 6551.414
+  angleX 0.43
+  angleY -16.229
+  angleZ -0.125
   {
    $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
     {
@@ -13,10 +13,10 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
       }
      }
-     coords -8.306 0.679 7.441
-     angleX 3.215
-     angleY 31.756
-     angleZ 7.544
+     coords -8.324 -0.002 7.452
+     angleX -0.432
+     angleY 31.44
+     angleZ -0.117
     }
     {
      components {
@@ -28,18 +28,20 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_iGroupMultiplier 3
       }
      }
-     coords -182.901 22.611 -64.164
-     angleX -8.166
-     angleY 149.7
-     angleZ -0.71
+     coords -184.289 -4.255 -64.029
+     angleX 2.554
+     angleY 148.938
+     angleZ 0.531
      {
       SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
        components {
         Hierarchy "{5CD0765889102122}" {
         }
        }
-       coords -200.52 -21.321 -1.58
-       angleY -54.336
+       coords -201.64 2.262 -1.223
+       angleX -2.022
+       angleY -53.845
+       angleZ 1.31
       }
      }
     }
@@ -48,9 +50,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
  }
  {
   coords 12166.489 25.171 7730.268
-  angleX 5.237
-  angleY 9.194
-  angleZ -9.891
+  angleX -3.53
+  angleY 9.282
+  angleZ -0.576
   {
    $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
     {
@@ -60,10 +62,10 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
       }
      }
-     coords 1.945 -1.892 14.82
-     angleX 4.671
-     angleY -52.501
-     angleZ 10.169
+     coords 2.226 0.724 14.884
+     angleX 2.966
+     angleY -52.615
+     angleZ -4.026
     }
     {
      components {
@@ -75,20 +77,20 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_iGroupMultiplier 3
       }
      }
-     coords 251.113 -40.875 -40.081
-     angleX 16.097
-     angleY 138.824
-     angleZ -6.652
+     coords 254.419 -5.811 -39.658
+     angleX 1.529
+     angleY 142.201
+     angleZ 3.74
      {
       SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
        components {
         Hierarchy "{5CD0765889102122}" {
         }
        }
-       coords 162.25 71.546 -171.73
-       angleX -19.166
-       angleY -58.915
-       angleZ 19.472
+       coords 165.436 21.508 -181.946
+       angleX -3.966
+       angleY -56.708
+       angleZ -0.773
       }
      }
     }
@@ -96,10 +98,10 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
   }
  }
  {
-  coords 10068.319 76.317 9067.663
-  angleX -2.998
-  angleY 102.085
-  angleZ 1.187
+  coords 10068.317 76.316 9067.661
+  angleX 2.58
+  angleY 102.363
+  angleZ 2.852
   {
    $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
     {
@@ -109,10 +111,10 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
       }
      }
-     coords 15.184 0.57 21.212
-     angleX 1.136
-     angleY -47.81
-     angleZ -3.018
+     coords 15.159 -1.057 21.21
+     angleX 1.186
+     angleY -47.749
+     angleZ 2.437
     }
     {
      components {
@@ -124,18 +126,20 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_iGroupMultiplier 3
       }
      }
-     coords 212.323 -12.537 -105.458
-     angleX -5.266
-     angleY 47.417
-     angleZ 0.709
+     coords 212.596 3.935 -105.576
+     angleX -1.181
+     angleY 47.292
+     angleZ -5.531
      {
       SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
        components {
         Hierarchy "{5CD0765889102122}" {
         }
        }
-       coords -234.011 3.964 -77.577
-       angleY -54.336
+       coords -233.906 17.002 -76.119
+       angleX 3.963
+       angleY -53.784
+       angleZ 5.324
       }
      }
     }
@@ -143,8 +147,10 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
   }
  }
  {
-  coords 10249.133 25.125 13191.877
-  angleX -0.895
+  coords 10249.133 25.126 13191.877
+  angleX -2.673
+  angleY 0.139
+  angleZ -4.469
   {
    $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
     {
@@ -154,10 +160,10 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
       }
      }
-     coords 2.859 0.501 -15.872
-     angleX 0.522
-     angleY 54.339
-     angleZ 0.727
+     coords 2.889 -0.218 -15.872
+     angleX 0.681
+     angleY 54.297
+     angleZ 1.707
     }
     {
      components {
@@ -169,18 +175,20 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_iGroupMultiplier 3
       }
      }
-     coords 139.267 -8.909 -344.72
-     angleX -8.939
-     angleY 149.632
-     angleZ -0.253
+     coords 138.149 -30.441 -343.939
+     angleX -10.781
+     angleY 150.132
+     angleZ 0.036
      {
       SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
        components {
         Hierarchy "{5CD0765889102122}" {
         }
        }
-       coords -57.929 -51.403 -378.779
-       angleY -54.336
+       coords -54.866 -41.805 -380.412
+       angleX 6.142
+       angleY -56.265
+       angleZ -10.742
       }
      }
     }
@@ -188,10 +196,10 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
   }
  }
  {
-  coords 10095.896 73.21 11349.147
-  angleX 2.686
-  angleY 158.742
-  angleZ -2.961
+  coords 10095.896 73.21 11349.146
+  angleX 2.467
+  angleY 158.694
+  angleZ 12.287
   {
    $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
     {
@@ -201,10 +209,10 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
       }
      }
-     coords 8.965 -1.838 -18.104
-     angleX 3.536
-     angleY -104.418
-     angleZ 1.865
+     coords 9.132 0.513 -18.106
+     angleX -0.219
+     angleY -103.967
+     angleZ 3.404
     }
     {
      components {
@@ -216,18 +224,20 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_iGroupMultiplier 3
       }
      }
-     coords -212.993 -26.849 -54.636
-     angleX -10.336
-     angleY -9.659
-     angleZ 2.691
+     coords -198.432 -82.14 -54.315
+     angleX -0.032
+     angleY -9.284
+     angleZ -12.233
      {
       SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
        components {
         Hierarchy "{5CD0765889102122}" {
         }
        }
-       coords 223.545 35.846 -0.043
-       angleY -54.336
+       coords 223.411 35.812 7.921
+       angleX 7.388
+       angleY -52.589
+       angleZ 9.334
       }
      }
     }
@@ -235,10 +245,8 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
   }
  }
  {
-  coords 11712.904 0 9745.144
-  angleX -1.957
+  coords 11712.904 54.219 9745.144
   angleY 165.525
-  angleZ -0.419
   {
    $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
     {
@@ -248,10 +256,8 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
       }
      }
-     coords 13.374 54.018 -3.061
-     angleX -0.317
-     angleY -111.176
-     angleZ -1.976
+     coords 12.979 -0.031 -1.211
+     angleY -111.189
     }
     {
      components {
@@ -263,18 +269,16 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_iGroupMultiplier 3
       }
      }
-     coords -255.768 29.844 -323.375
-     angleX -6.169
-     angleY -15.802
-     angleZ -0.842
+     coords -255.979 -15.219 -322.23
+     angleY -15.825
      {
       SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
        components {
         Hierarchy "{5CD0765889102122}" {
         }
        }
-       coords 348.371 44.11 230.564
-       angleY -54.336
+       coords 347.796 15.188 235.105
+       angleY -54.677
       }
      }
     }
@@ -283,9 +287,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
  }
  {
   coords 8333.413 50.197 8432.955
-  angleX 4.398
-  angleY -31.517
-  angleZ -4.777
+  angleX -1.036
+  angleY -32.08
+  angleZ 5.91
   {
    $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
     {
@@ -295,10 +299,10 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
       }
      }
-     coords -8.594 0.159 10.306
-     angleX -5.082
-     angleY 85.849
-     angleZ -4.041
+     coords -8.475 -0.452 10.396
+     angleX 2.125
+     angleY 86.61
+     angleZ -3.158
     }
     {
      components {
@@ -310,18 +314,20 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_iGroupMultiplier 3
       }
      }
-     coords 471.458 -32.903 27.446
-     angleX -3.656
-     angleY -178.483
-     angleZ -5.403
+     coords 469.365 57.597 22.062
+     angleX 0.905
+     angleY -179.372
+     angleZ -1.067
      {
       SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
        components {
         Hierarchy "{5CD0765889102122}" {
         }
        }
-       coords 487.502 -11.422 22.956
-       angleY -54.336
+       coords 483.277 -68.1 11.022
+       angleX 7.469
+       angleY -53.644
+       angleZ 1.503
       }
      }
     }
@@ -330,9 +336,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
  }
  {
   coords 11843.813 24.814 5578.08
-  angleX 1.196
-  angleY -10.146
-  angleZ 1.604
+  angleX -0.6
+  angleY -10.506
+  angleZ 11.342
   {
    $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
     {
@@ -342,10 +348,10 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
       }
      }
-     coords 9.537 -0.687 17.169
-     angleX 0.933
-     angleY -99.319
-     angleZ -1.77
+     coords 9.577 1.178 17.134
+     angleX -11.294
+     angleY -99.195
+     angleZ 1.208
     }
     {
      components {
@@ -357,18 +363,20 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_iGroupMultiplier 3
       }
      }
-     coords 114.187 -8.74 -182.699
-     angleX -6.49
-     angleY -4.081
-     angleZ 0.391
+     coords 114.021 4.856 -182.947
+     angleX 1.811
+     angleY -4.462
+     angleZ -12.355
      {
       SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
        components {
         Hierarchy "{5CD0765889102122}" {
         }
        }
-       coords -118.826 32.36 230.424
-       angleY -54.336
+       coords -117.032 9.023 233.419
+       angleX -3.003
+       angleY -54.405
+       angleZ 6.505
       }
      }
     }

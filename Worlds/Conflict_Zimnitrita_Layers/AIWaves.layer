@@ -9,18 +9,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 11433.694 28.42 5862.453
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 11433.693 19.715 5862.453
+  angleX 1.76
+  angleY 31.537
+  angleZ 0.555
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords -427.337 18.508 145.957
-    angleY -54.336
+    coords -427.627 -25.428 143.475
+    angleX -1.469
+    angleY -54.709
+    angleZ 1.116
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -35,18 +37,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 12113.231 33.553 7670.043
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 12113.231 25.388 7670.043
+  angleX 4.034
+  angleY 31.795
+  angleZ 1.972
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords 378.188 -11.549 157.234
-    angleY -54.336
+    coords 377.473 1.109 159.312
+    angleX -3.887
+    angleY -55.432
+    angleZ -2.197
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -61,18 +65,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 13668.842 56.429 9879.161
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 13668.842 36.085 9879.16
+  angleX 12.235
+  angleY 33.616
+  angleZ 6.986
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords 327.754 -38.859 -98.043
-    angleY -54.336
+    coords 328.513 56.9 -85.431
+    angleX -18.235
+    angleY -57.42
+    angleZ 5.673
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -87,18 +93,18 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 15011.257 58.256 10982.682
-  angleX -5.515
+  coords 15011.257 51.063 10982.682
   angleY 31.466
-  angleZ -3.449
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords 30.031 -23.358 -349.58
-    angleY -54.336
+    coords 31.383 4.815 -350.031
+    angleX -0.412
+    angleY -54.616
+    angleZ 0.176
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -113,20 +119,21 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 11806.992 37.287 11924.366
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 11806.992 41.268 11924.365
+  angleX -6.495
+  angleY 30.993
+  angleZ 25.645
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords 278.753 -59.062 -409.32
-    angleY -54.336
+    coords 487.378 175.855 -582.952
+    angleX -13.39
+    angleY -53.206
+    angleZ -16.565
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
-    CompletionRadius 200
    }
   }
  }
@@ -140,45 +147,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 11744.051 40.782 10955.344
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 11744.051 32.718 10955.344
+  angleX -4.574
+  angleY 31.42
+  angleZ -2.789
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords -275.552 47.437 373.809
-    angleY -54.336
-    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
-    CompletionRadius 200
-   }
-  }
- }
- {
-  components {
-   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-    m_eGroupType FIRETEAM
-    m_iRespawnPeriod 30
-    m_fAILimitThreshold 0.95
-    m_iRespawnWaves 3
-    m_iGroupMultiplier 5
-   }
-  }
-  coords 12278.334 40.567 11716.494
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
-  {
-   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
-    components {
-     Hierarchy "{5CD0765889102122}" {
-     }
-    }
-    coords -293.735 -28.166 -440.086
-    angleY -54.336
+    coords -275.924 41.246 374.236
+    angleX 5.634
+    angleY -55.566
+    angleZ -10.325
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
     CompletionRadius 200
    }
@@ -194,122 +176,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 8846.643 21.705 12354.24
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 12278.334 30.966 11716.494
+  angleX 3.845
+  angleY 30.396
+  angleZ -6.521
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords -477.032 17.527 -13.975
-    angleY -54.336
-    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
-   }
-  }
- }
- {
-  components {
-   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-    m_eGroupType FIRETEAM
-    m_iRespawnPeriod 30
-    m_fAILimitThreshold 0.95
-    m_iRespawnWaves 3
-    m_iGroupMultiplier 5
-   }
-  }
-  coords 8192.216 23.622 12090.016
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
-  {
-   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
-    components {
-     Hierarchy "{5CD0765889102122}" {
-     }
-    }
-    coords -272.148 104.891 612.738
-    angleY -54.336
-    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
-   }
-  }
- }
- {
-  components {
-   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-    m_eGroupType FIRETEAM
-    m_iRespawnPeriod 30
-    m_fAILimitThreshold 0.95
-    m_iRespawnWaves 3
-    m_iGroupMultiplier 5
-   }
-  }
-  coords 12808.898 26.844 13159.961
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
-  {
-   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
-    components {
-     Hierarchy "{5CD0765889102122}" {
-     }
-    }
-    coords 8.237 38.788 414.943
-    angleY -54.336
-    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
-   }
-  }
- }
- {
-  components {
-   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-    m_eGroupType FIRETEAM
-    m_iRespawnPeriod 30
-    m_fAILimitThreshold 0.95
-    m_iRespawnWaves 3
-    m_iGroupMultiplier 5
-   }
-  }
-  coords 13098.92 29.526 14316.914
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
-  {
-   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
-    components {
-     Hierarchy "{5CD0765889102122}" {
-     }
-    }
-    coords 232.316 -77.465 -575.553
-    angleY -54.336
-    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
-   }
-  }
- }
- {
-  components {
-   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-    m_eGroupType FIRETEAM
-    m_iRespawnPeriod 30
-    m_fAILimitThreshold 0.95
-    m_iRespawnWaves 3
-    m_iGroupMultiplier 5
-   }
-  }
-  coords 13199.071 40.881 14493.42
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
-  {
-   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
-    components {
-     Hierarchy "{5CD0765889102122}" {
-     }
-    }
-    coords 401.444 3.241 374.768
-    angleY -54.336
+    coords -294.059 66.603 -435.711
+    angleX 4.311
+    angleY -52.494
+    angleZ 14.119
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
     CompletionRadius 200
    }
@@ -325,18 +205,132 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 14203.351 39.844 15017.022
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 8846.643 3.331 12354.24
+  angleX 10.458
+  angleY 33.516
+  angleZ 7.375
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords -170.339 -57.064 -356.34
-    angleY -54.336
+    coords -473.193 -55.334 -31.505
+    angleX -13.416
+    angleY -57.001
+    angleZ 0.11
+    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_iRespawnPeriod 30
+    m_fAILimitThreshold 0.95
+    m_iRespawnWaves 3
+    m_iGroupMultiplier 5
+   }
+  }
+  coords 8192.216 38.782 12090.016
+  angleX -1.736
+  angleY 31.708
+  angleZ 3.656
+  {
+   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
+    components {
+     Hierarchy "{5CD0765889102122}" {
+     }
+    }
+    coords -282.162 15.825 616.469
+    angleX -3.824
+    angleY -53.894
+    angleZ 8.172
+    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_iRespawnPeriod 30
+    m_fAILimitThreshold 0.95
+    m_iRespawnWaves 3
+    m_iGroupMultiplier 5
+   }
+  }
+  coords 12808.897 19.679 13159.961
+  angleX -1.979
+  angleY 31.294
+  angleZ -2.771
+  {
+   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
+    components {
+     Hierarchy "{5CD0765889102122}" {
+     }
+    }
+    coords 7.697 11.372 416.615
+    angleX 0.7
+    angleY -54.318
+    angleZ 1.645
+    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_iRespawnPeriod 30
+    m_fAILimitThreshold 0.95
+    m_iRespawnWaves 3
+    m_iGroupMultiplier 5
+   }
+  }
+  coords 13098.92 23.944 14316.914
+  angleX 4.145
+  angleY 31.185
+  angleZ -1.668
+  {
+   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
+    components {
+     Hierarchy "{5CD0765889102122}" {
+     }
+    }
+    coords 234.583 26.591 -579.231
+    angleX -3.869
+    angleY -54.653
+    angleZ 4.582
+    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_iRespawnPeriod 30
+    m_fAILimitThreshold 0.95
+    m_iRespawnWaves 3
+    m_iGroupMultiplier 5
+   }
+  }
+  coords 13199.071 25.94 14493.42
+  angleX 3.834
+  angleY 30.991
+  angleZ -2.906
+  {
+   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
+    components {
+     Hierarchy "{5CD0765889102122}" {
+     }
+    }
+    coords 402.126 -39.648 371.883
+    angleX -44.854
+    angleY -43.501
+    angleZ -17.505
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
     CompletionRadius 200
    }
@@ -352,200 +346,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 15011.696 50.724 15052.42
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 14203.351 32.943 15017.022
+  angleX 0.99
+  angleY 30.881
+  angleZ -5.13
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords -331.104 -6.225 146.846
-    angleY -54.336
-    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
-   }
-  }
- }
- {
-  components {
-   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-    m_eGroupType FIRETEAM
-    m_iRespawnPeriod 30
-    m_fAILimitThreshold 0.95
-    m_iRespawnWaves 3
-    m_iGroupMultiplier 5
-   }
-  }
-  coords 14403.923 7.193 15694.557
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
-  {
-   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
-    components {
-     Hierarchy "{5CD0765889102122}" {
-     }
-    }
-    coords 501.139 -22.22 -280.576
-    angleY -54.336
-    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
-   }
-  }
- }
- {
-  components {
-   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-    m_eGroupType FIRETEAM
-    m_iRespawnPeriod 30
-    m_fAILimitThreshold 0.95
-    m_iRespawnWaves 3
-    m_iGroupMultiplier 5
-   }
-  }
-  coords 14801.097 51.381 14052.978
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
-  {
-   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
-    components {
-     Hierarchy "{5CD0765889102122}" {
-     }
-    }
-    coords -248.228 -15.585 -315.791
-    angleY -54.336
-    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
-   }
-  }
- }
- {
-  components {
-   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-    m_eGroupType FIRETEAM
-    m_iRespawnPeriod 30
-    m_fAILimitThreshold 0.95
-    m_iRespawnWaves 3
-    m_iGroupMultiplier 5
-   }
-  }
-  coords 13954.289 38.707 13892.455
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
-  {
-   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
-    components {
-     Hierarchy "{5CD0765889102122}" {
-     }
-    }
-    coords 303.333 19.998 263.867
-    angleY -54.336
-    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
-   }
-  }
- }
- {
-  components {
-   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-    m_eGroupType FIRETEAM
-    m_iRespawnPeriod 30
-    m_fAILimitThreshold 0.95
-    m_iRespawnWaves 3
-    m_iGroupMultiplier 5
-   }
-  }
-  coords 13892.904 56.756 12928.698
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
-  {
-   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
-    components {
-     Hierarchy "{5CD0765889102122}" {
-     }
-    }
-    coords 288.408 10.807 291.43
-    angleY -54.336
-    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
-   }
-  }
- }
- {
-  components {
-   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-    m_eGroupType FIRETEAM
-    m_iRespawnPeriod 30
-    m_fAILimitThreshold 0.95
-    m_iRespawnWaves 3
-    m_iGroupMultiplier 5
-   }
-  }
-  coords 12742.84 49.655 10494.616
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
-  {
-   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
-    components {
-     Hierarchy "{5CD0765889102122}" {
-     }
-    }
-    coords -243.782 53.341 324.701
-    angleY -54.336
-    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
-   }
-  }
- }
- {
-  components {
-   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-    m_eGroupType FIRETEAM
-    m_iRespawnPeriod 30
-    m_fAILimitThreshold 0.95
-    m_iRespawnWaves 3
-    m_iGroupMultiplier 5
-   }
-  }
-  coords 11638.854 19.381 4448.039
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
-  {
-   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
-    components {
-     Hierarchy "{5CD0765889102122}" {
-     }
-    }
-    coords -196.164 2.841 -352.253
-    angleY -54.336
-    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
-   }
-  }
- }
- {
-  components {
-   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-    m_eGroupType FIRETEAM
-    m_iRespawnPeriod 30
-    m_fAILimitThreshold 0.95
-    m_iRespawnWaves 3
-    m_iGroupMultiplier 5
-   }
-  }
-  coords 12683.104 15.287 3674.362
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
-  {
-   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
-    components {
-     Hierarchy "{5CD0765889102122}" {
-     }
-    }
-    coords -155.033 60.149 407.742
-    angleY -54.336
+    coords -169.963 11.149 -359.555
+    angleX 3.635
+    angleY -54.075
+    angleZ 2.811
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
     CompletionRadius 200
    }
@@ -561,18 +375,208 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 13391.314 15.493 3872.944
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 15011.695 44.359 15052.42
+  angleX -3.983
+  angleY 31.457
+  angleZ -0.341
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords -378.513 12.099 -173.652
-    angleY -54.336
+    coords -330.153 -7.088 144.686
+    angleX -1.516
+    angleY -54.101
+    angleZ 7.771
+    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_iRespawnPeriod 30
+    m_fAILimitThreshold 0.95
+    m_iRespawnWaves 3
+    m_iGroupMultiplier 5
+   }
+  }
+  coords 14403.923 13.875 15694.557
+  angleY 31.466
+  {
+   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
+    components {
+     Hierarchy "{5CD0765889102122}" {
+     }
+    }
+    coords 501.568 28.496 -278.512
+    angleX -0.468
+    angleY -54.682
+    angleZ -0.508
+    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_iRespawnPeriod 30
+    m_fAILimitThreshold 0.95
+    m_iRespawnWaves 3
+    m_iGroupMultiplier 5
+   }
+  }
+  coords 14801.097 44.188 14052.979
+  angleY 31.466
+  {
+   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
+    components {
+     Hierarchy "{5CD0765889102122}" {
+     }
+    }
+    coords -246.84 -0.311 -317.26
+    angleX 0.235
+    angleY -54.697
+    angleZ -0.588
+    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_iRespawnPeriod 30
+    m_fAILimitThreshold 0.95
+    m_iRespawnWaves 3
+    m_iGroupMultiplier 5
+   }
+  }
+  coords 13954.289 44.084 13892.455
+  angleX -9.274
+  angleY 31.532
+  angleZ -1.001
+  {
+   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
+    components {
+     Hierarchy "{5CD0765889102122}" {
+     }
+    }
+    coords 302.06 42.318 262.426
+    angleX -18.063
+    angleY -38.361
+    angleZ 137.737
+    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_iRespawnPeriod 30
+    m_fAILimitThreshold 0.95
+    m_iRespawnWaves 3
+    m_iGroupMultiplier 5
+   }
+  }
+  coords 13892.904 49.563 12928.697
+  angleY 31.466
+  {
+   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
+    components {
+     Hierarchy "{5CD0765889102122}" {
+     }
+    }
+    coords 287.234 0 292.787
+    angleY -54.633
+    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_iRespawnPeriod 30
+    m_fAILimitThreshold 0.95
+    m_iRespawnWaves 3
+    m_iGroupMultiplier 5
+   }
+  }
+  coords 12742.84 34.286 10494.615
+  angleX 10.19
+  angleY 34.241
+  angleZ 10.104
+  {
+   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
+    components {
+     Hierarchy "{5CD0765889102122}" {
+     }
+    }
+    coords -249.942 -91.338 311.345
+    angleX -9.262
+    angleY -57.946
+    angleZ -3.629
+    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_iRespawnPeriod 30
+    m_fAILimitThreshold 0.95
+    m_iRespawnWaves 3
+    m_iGroupMultiplier 5
+   }
+  }
+  coords 11638.854 8.216 4448.039
+  angleX -2.207
+  angleY 31.176
+  angleZ -4.982
+  {
+   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
+    components {
+     Hierarchy "{5CD0765889102122}" {
+     }
+    }
+    coords -197.433 12.289 -350.56
+    angleX 10.312
+    angleY -54.038
+    angleZ 1.439
+    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_iRespawnPeriod 30
+    m_fAILimitThreshold 0.95
+    m_iRespawnWaves 3
+    m_iGroupMultiplier 5
+   }
+  }
+  coords 12683.104 11.326 3674.362
+  angleX -8.094
+  angleY 31.407
+  angleZ 1.306
+  {
+   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
+    components {
+     Hierarchy "{5CD0765889102122}" {
+     }
+    }
+    coords -159.279 56.663 406.453
+    angleX 5.327
+    angleY -54.426
+    angleZ -2.217
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
     CompletionRadius 200
    }
@@ -588,18 +592,18 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 12915.38 32.975 4560.217
-  angleX -5.515
+  coords 13391.314 0 3872.944
   angleY 31.466
-  angleZ -3.449
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords 129.971 -75.201 -595.351
-    angleY -54.336
+    coords -378.555 14.096 -173.875
+    angleX -2.88
+    angleY -54.565
+    angleZ 1.228
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
     CompletionRadius 200
    }
@@ -615,18 +619,49 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 12405.314 12.568 3833.843
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 12915.38 17.06 4560.217
+  angleX -0.382
+  angleY 31.445
+  angleZ -0.234
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords -242.894 28.201 40.523
-    angleY -54.336
+    coords 134.001 -10.05 -599.058
+    angleX 1.234
+    angleY -54.656
+    angleZ -0.529
+    AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
+    CompletionRadius 200
+   }
+  }
+ }
+ {
+  components {
+   SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+    m_eGroupType FIRETEAM
+    m_iRespawnPeriod 30
+    m_fAILimitThreshold 0.95
+    m_iRespawnWaves 3
+    m_iGroupMultiplier 5
+   }
+  }
+  coords 12405.314 14.401 3833.843
+  angleX -1.761
+  angleY 31.43
+  angleZ -0.551
+  {
+   SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
+    components {
+     Hierarchy "{5CD0765889102122}" {
+     }
+    }
+    coords -244.139 -0.329 41.893
+    angleX 0.293
+    angleY -54.619
+    angleZ -1.586
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -641,18 +676,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 12467.875 20.551 4149.117
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 12467.875 16.992 4149.117
+  angleX 1.845
+  angleY 31.409
+  angleZ -0.446
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords -133.435 -15.468 -259.396
-    angleY -54.336
+    coords -132.505 2.881 -260.394
+    angleX -1.88
+    angleY -54.669
+    angleZ 1.294
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -667,18 +704,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 13230.421 41.693 6743.145
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 13230.421 33.102 6743.145
+  angleX 1.081
+  angleY 31.059
+  angleZ -3.524
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords 237.558 -19.552 -56.317
-    angleY -54.336
+    coords 237.599 -12.133 -58.214
+    angleX 2.228
+    angleY -54.202
+    angleZ 2.938
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -693,18 +732,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 11674.594 56.864 9226.655
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 11674.594 55.27 9226.654
+  angleX 14.491
+  angleY 31.709
+  angleZ 0.707
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords 429.577 -9.284 113.617
-    angleY -54.336
+    coords 429.195 -23.878 112.793
+    angleX -8.861
+    angleY -55.682
+    angleZ 11.533
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -719,18 +760,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 10718.42 74.919 9020.016
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 10718.42 70.62 9020.016
+  angleX 3.321
+  angleY 31.948
+  angleZ 3.12
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords -190.584 -9.016 -415.437
-    angleY -54.336
+    coords -187.718 22.853 -415.846
+    angleX 8.478
+    angleY -51.091
+    angleZ 12.144
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
     CompletionRadius 150
    }
@@ -746,18 +789,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 9666.407 76.814 8911.531
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 9666.407 73.522 8911.531
+  angleX 2.231
+  angleY 31.082
+  angleZ -2.831
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords 758.915 -20.895 252.012
-    angleY -54.336
+    coords 759.253 -43.523 248.097
+    angleX 1.752
+    angleY -54.151
+    angleZ 4.114
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -772,18 +817,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 9446.055 10.735 9761.373
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 9446.055 11.388 9761.373
+  angleX -14.705
+  angleY 32.717
+  angleZ -7.752
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords -421.3 87.392 183.568
-    angleY -54.336
+    coords -416.871 124.195 167.857
+    angleX 28.637
+    angleY -111.044
+    angleZ -80.814
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -798,18 +845,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 9307.131 75.742 10550.604
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 9307.131 70.776 10550.604
+  angleX -2.12
+  angleY 32.525
+  angleZ 17.248
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords 154.907 -71.927 -363.725
-    angleY -54.336
+    coords 175.3 -5.703 -363.17
+    angleX -7.515
+    angleY -56.775
+    angleZ -15.729
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -824,18 +873,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 9142.571 72.812 11746.041
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 9142.571 66.493 11746.041
+  angleX 3.835
+  angleY 31.421
+  angleZ -0.276
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords 241.395 -38.138 -336.466
-    angleY -54.336
+    coords 243.153 33.964 -335.764
+    angleX 3.835
+    angleY -55.25
+    angleZ -1.202
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -850,18 +901,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 8987.438 72.115 10999.327
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 8987.439 67.823 10999.326
+  angleX 11.12
+  angleY 30.555
+  angleZ -3.164
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords -57.24 56.525 467.126
-    angleY -54.336
+    coords -57.337 -75.945 464.443
+    angleX -66.189
+    angleY -28.437
+    angleZ 148.504
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -876,18 +929,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 12300.055 24.248 13130.612
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 12300.055 12.079 13130.611
+  angleX 0.99
+  angleY 30.881
+  angleZ -5.13
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords -257.782 -7.677 -198.328
-    angleY -54.336
+    coords -257.47 27.303 -196.959
+    angleX -0.726
+    angleY -54.117
+    angleZ 8.542
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -902,18 +957,18 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 12151.307 15.934 12769.074
-  angleX -5.515
+  coords 12151.307 17.031 12769.074
   angleY 31.466
-  angleZ -3.449
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords -313.936 40.434 178.367
-    angleY -54.336
+    coords -315.8 -3.506 179.606
+    angleX -3.653
+    angleY -54.468
+    angleZ 3.97
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -928,18 +983,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 11112.38 29.736 6549.309
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 11112.38 0 6549.309
+  angleX 0.382
+  angleY 31.49
+  angleZ 0.234
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords 208.5 -30.79 -189.809
-    angleY -54.336
+    coords 210.036 4.971 -190.566
+    angleX -0.412
+    angleY -54.657
+    angleZ 0.176
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -954,18 +1011,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 12332.711 37.725 7901.473
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 12332.711 28.282 7901.473
+  angleX 4.447
+  angleY 31.392
+  angleZ -0.426
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords 339.626 -44.289 -165.854
-    angleY -54.336
+    coords 341.508 5.419 -167.699
+    angleX 3.315
+    angleY -54.166
+    angleZ 4.411
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -980,18 +1039,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 13298.911 31.545 14719.626
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 13298.911 28.725 14719.625
+  angleX -0.608
+  angleY 31.031
+  angleZ -5.054
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords 578.783 2.919 294.242
-    angleY -54.336
+    coords 577.614 -50.254 292.117
+    angleX 2.506
+    angleY -54.479
+    angleZ -2.065
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
     CompletionRadius 200
    }
@@ -1007,18 +1068,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 14757.794 62.401 14941.268
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 14757.794 55.005 14941.268
+  angleX 0.469
+  angleY 31.112
+  angleZ -3.372
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords -218.412 -0.492 284.219
-    angleY -54.336
+    coords -217.325 -11.989 282.74
+    angleX -2.575
+    angleY -54.437
+    angleZ 3.05
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -1033,18 +1096,16 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 14469.866 56.756 13349.655
-  angleX -5.515
+  coords 14469.865 49.563 13349.654
   angleY 31.466
-  angleZ -3.449
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords 36.847 -42.837 -419.906
-    angleY -54.336
+    coords 39.356 0 -421.855
+    angleY -54.633
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -1059,18 +1120,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 13028.089 51.986 12748.982
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 13028.089 32.131 12748.982
+  angleX 0.618
+  angleY 30.501
+  angleZ -8.914
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords -5.671 21.86 343.871
-    angleY -54.336
+    coords -1.585 -2.508 344.402
+    angleX 6.806
+    angleY -53.371
+    angleZ 5.803
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -1085,18 +1148,16 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 13466.402 53.863 13369.098
-  angleX -5.515
+  coords 13466.402 33.125 13369.098
   angleY 31.466
-  angleZ -3.449
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords -40.983 -59.768 -502.506
-    angleY -54.336
+    coords -37.313 0 -506.15
+    angleY -54.633
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -1111,18 +1172,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 11613.877 31.647 12204.961
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 11613.877 23.656 12204.961
+  angleX -6.711
+  angleY 31.629
+  angleZ -7.731
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords 65.718 23.504 333.418
-    angleY -54.336
+    coords 67.669 28.401 332.617
+    angleX 14.209
+    angleY -54.02
+    angleZ 1.748
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -1137,18 +1200,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 10106.179 31.491 12758.752
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 10106.179 56.149 12758.752
+  angleX 2.989
+  angleY 31.504
+  angleZ 0.258
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords -321.141 55.76 413.77
-    angleY -54.336
+    coords -323.938 -56.982 412.795
+    angleX 0.468
+    angleY -54.615
+    angleZ 2.231
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -1163,18 +1228,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 13797.907 35.085 3564.218
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 13797.907 27.123 3564.218
+  angleX -2.742
+  angleY 31.309
+  angleZ -3.234
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords 259.105 6.528 80.354
-    angleY -54.336
+    coords 258.883 0.063 80.787
+    angleX 2.872
+    angleY -54.475
+    angleZ -1.235
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -1189,18 +1256,18 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 13076.02 47.784 8960.947
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 13076.02 32.734 8960.947
+  angleX 1.23
+  angleY 31.431
+  angleZ -0.297
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords -107.176 41.751 313.455
-    angleY -54.336
+    coords -109.275 5.375 315.631
+    angleY -54.73
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -1215,18 +1282,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 12948.68 40.787 9709.661
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 12948.68 35.705 9709.66
+  angleX 0.202
+  angleY 31.689
+  angleZ 2.228
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords 407.254 -40.08 -291.605
-    angleY -54.336
+    coords 409.467 23.215 -290.128
+    angleX 2.817
+    angleY -55.595
+    angleZ -4.659
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }
@@ -1241,18 +1310,20 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
   }
-  coords 14214.201 84.656 7045.852
-  angleX -5.515
-  angleY 31.466
-  angleZ -3.449
+  coords 14214.201 60.707 7045.852
+  angleX 2.078
+  angleY 31.356
+  angleZ -0.83
   {
    SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
     components {
      Hierarchy "{5CD0765889102122}" {
      }
     }
-    coords 124.026 1.294 250.248
-    angleY -54.336
+    coords 124.083 -9.287 249.586
+    angleX -0.118
+    angleY -54.552
+    angleZ 1.997
     AIBehaviorTreeMoveTo "{A3755C1F88DED8D6}AI/BehaviorTrees/Waypoints/WP_Move.bt"
    }
   }

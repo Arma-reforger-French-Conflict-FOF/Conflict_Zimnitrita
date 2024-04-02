@@ -54,6 +54,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 150
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 13845.236 49.563 11949.189
   angleY 175.982
@@ -78,6 +81,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 125
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 10106.732 86.531 9443.694
@@ -108,6 +114,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 100
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 10575.812 15.594 4617.885
   angleX -4.292
@@ -135,6 +144,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_sBaseName "#AR-MapLocation_MilitaryHospital"
     m_sBaseNameUpper "#AR-Campaign_MapLocation_MilitaryHospital-UC"
     m_sMapLocationName "LocationTyrone_MilitaryHospital"
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 15109.433 50 14613.938
@@ -164,6 +176,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 100
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 8923.279 106.531 9182.295
@@ -203,6 +218,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 200
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 11646.056 30.937 11742.052
   angleY 70.115
@@ -239,6 +257,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 150
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 7535.212 58.063 5726.152
@@ -280,6 +301,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 200
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 15793.854 138.625 8787.846
   angleY -9.237
@@ -316,6 +340,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 150
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 9998.651 122.813 7090.12
@@ -354,6 +381,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 100
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 13812.322 24.365 4949.593
   angleY -60.663
@@ -378,6 +408,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 100
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 14352.838 53.939 3932.838
   angleX -2
@@ -397,6 +430,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 100
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 13384.526 0 3922.407
@@ -421,6 +457,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 150
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 11238.605 10.719 7042.072
@@ -448,6 +487,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 100
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 10022.977 76.549 8052.975
   angleY -60.896
@@ -472,6 +514,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 150
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 9384.83 69.385 8190.49
   angleY 171.346
@@ -495,6 +540,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 150
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 10766.313 61.406 8812.235
@@ -526,6 +574,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 100
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 10706.638 8.573 10273.273
   angleY -21.026
@@ -543,6 +594,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 175
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 13807.298 49.563 12524.605
@@ -568,6 +622,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 100
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 12663.091 21.228 10324.865
   angleY -25.85
@@ -591,6 +648,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 125
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 15515.688 52.125 4519.036
@@ -618,6 +678,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 100
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 11189.267 30.312 5655.018
   angleY -161.555
@@ -636,6 +699,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 125
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 13282.113 39.246 7664.351
@@ -664,6 +730,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 100
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 12935.132 17.101 4003.723
   angleX -0.218
@@ -690,6 +759,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 100
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 12606.017 51.844 9427.189
@@ -719,6 +791,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 150
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 11293.235 44.781 8309.138
   angleY -152.571
@@ -744,6 +819,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 125
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 13629.06 51.078 8653.458
   angleY 176.367
@@ -768,6 +846,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 125
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 8909.792 1.904 10265.693
@@ -797,6 +878,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 125
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 13625.594 28.585 5853.064
   angleY -48.66
@@ -821,6 +905,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 200
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 12284.939 41.625 9843.792
@@ -850,6 +937,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 250
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 11739.468 54.222 9639.62
   angleX -1.591
@@ -877,6 +967,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 150
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 11954.466 8 8495.634
   angleY 38.339
@@ -901,6 +994,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 200
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 11907.129 17.665 4952.127
@@ -928,6 +1024,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 100
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 12745.917 53.564 11418.875
   angleY 108.29
@@ -952,6 +1051,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 200
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 13798.192 24.392 2724.546
@@ -981,6 +1083,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 125
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 9764.22 63.752 10676.397
   angleY -3.199
@@ -1007,6 +1112,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 125
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 11961.29 19.496 10557.39
   angleY 64.164
@@ -1031,6 +1139,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 150
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 15905.409 28.333 11501.105
@@ -1058,6 +1169,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 120
     m_bIgnoreNonPlayableAttackers 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 14661.064 48.145 13779.132
@@ -1088,6 +1202,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 120
     m_bIgnoreNonPlayableAttackers 0
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 13357.278 31.991 14577.665
   angleY 171.095
@@ -1116,6 +1233,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 120
     m_bIgnoreNonPlayableAttackers 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 9036.192 57.518 11148.718
@@ -1146,6 +1266,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 120
     m_bIgnoreNonPlayableAttackers 0
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 7765.412 43.199 7752.843
   angleY 171.095
@@ -1164,6 +1287,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 140
     m_bIgnoreNonPlayableAttackers 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 14510.264 47.456 9309.435
@@ -1192,6 +1318,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 100
     m_bIgnoreNonPlayableAttackers 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 13409.621 53.378 8915.925
@@ -1222,6 +1351,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 140
     m_bIgnoreNonPlayableAttackers 0
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 14666.513 86.953 10047.6
   angleY 171.095
@@ -1240,6 +1372,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 120
     m_bIgnoreNonPlayableAttackers 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 14950.924 68.438 5584.958
@@ -1266,6 +1401,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 130
     m_bIgnoreNonPlayableAttackers 0
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 16121.512 13.422 2421.273
   angleY 171.095
@@ -1284,6 +1422,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 120
     m_bIgnoreNonPlayableAttackers 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 14563.325 51.411 2900.921
@@ -1309,6 +1450,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 100
     m_bIgnoreNonPlayableAttackers 0
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 14142.041 42.326 2400.928
   angleY 171.095
@@ -1332,6 +1476,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 100
     m_bIgnoreNonPlayableAttackers 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 14542.624 38.518 1962.42
@@ -1358,6 +1505,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 180
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 13227.298 8.439 2651.312
   angleY 171.095
@@ -1383,6 +1533,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 120
     m_bIgnoreNonPlayableAttackers 0
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 12826.323 10.245 1822.352
   angleY 171.095
@@ -1401,6 +1554,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 120
     m_bIgnoreNonPlayableAttackers 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 16104.322 255.435 9561.979
@@ -1428,6 +1584,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 110
     m_bIgnoreNonPlayableAttackers 0
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 13429.981 43.191 1344.605
   angleY 49.76
@@ -1453,6 +1612,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 120
     m_bIgnoreNonPlayableAttackers 0
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 11860.467 15.951 3978.884
   angleY 171.095
@@ -1477,6 +1639,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 400
     m_bIgnoreNonPlayableAttackers 0
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 7536.546 28.104 6629.126
   angleY 171.095
@@ -1495,6 +1660,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 250
     m_bIgnoreNonPlayableAttackers 0
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 15622.55 74.344 5707.752
   angleY 142.609
@@ -1512,6 +1680,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_sBaseName "Erquy"
     m_sBaseNameUpper "ERQUY"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 16120.669 120.547 10515.019
   angleY 171.095
@@ -1527,6 +1698,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_sBaseName "Erquy Lighthouse"
     m_sBaseNameUpper "ERQUY LIGHTHOUSE"
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 9298.675 23.408 3429.564
@@ -1552,6 +1726,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 100
     m_bIgnoreNonPlayableAttackers 0
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 12363.813 30.594 10783.981
   angleY 171.095
@@ -1576,6 +1753,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 200
     m_bIgnoreNonPlayableAttackers 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 15215.271 53.438 3538.375
@@ -1605,6 +1785,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 600
     m_bIgnoreNonPlayableAttackers 0
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 10738.147 16.6 15215.598
   angleY 171.095
@@ -1633,6 +1816,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 180
     m_bIgnoreNonPlayableAttackers 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 16110.489 30 12151.901
@@ -1665,6 +1851,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSuppliesComponent "{5C6696724F524DA2}" {
     m_fOperationalRadius 75
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 12345.194 1.677 2615.237
   angleY 171.095
@@ -1693,6 +1882,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 170
     m_bIgnoreNonPlayableAttackers 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 8545.967 108.307 6249.813
@@ -1723,6 +1915,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iRadius 120
     m_bIgnoreNonPlayableAttackers 0
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
   }
   coords 15105.729 46.859 1524.585
   angleY 171.095
@@ -1751,6 +1946,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 120
     m_bIgnoreNonPlayableAttackers 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
   coords 15202.134 35.81 5129.702
