@@ -1,0 +1,15 @@
+GenericEntity : "{B7DE6834C8563C93}Prefabs/Vehicles/Core/Vehicle_RepairBox_Base.et" {
+ ID "4B42E71698F5739C"
+ components {
+  ActionsManagerComponent "{5DE2DEF6ECABCF45}" {
+   additionalActions {
+    SCR_ResourceContainerVehicleLoadAction "{5DE2DEF7FA6E54BA}" {
+     Duration -8
+    }
+    SCR_ResourceContainerVehicleUnloadAction "{5DE2DEF7F8A0E7FE}" {
+     Duration -8
+    }
+   }
+  }
+ }
+}

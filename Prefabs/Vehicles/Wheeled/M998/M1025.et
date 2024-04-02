@@ -1,0 +1,15 @@
+Vehicle : "{5674FAEB9AB7BDD0}Prefabs/Vehicles/Wheeled/M998/M998.et" {
+ ID "BBCBA43A9778AE21"
+ components {
+  ActionsManagerComponent "{C97BE5489221AE18}" {
+   additionalActions {
+    SCR_ResourceContainerVehicleLoadAction "{5DAD751A3D2FE182}" {
+     Duration -8
+    }
+    SCR_ResourceContainerVehicleUnloadAction "{5DAD751A3BF8492E}" {
+     Duration -8
+    }
+   }
+  }
+ }
+}

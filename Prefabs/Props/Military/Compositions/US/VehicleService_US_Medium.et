@@ -1,0 +1,149 @@
+GenericEntity : "{5753634EAFFBA2F6}Prefabs/Props/Military/Compositions/US/VehicleService_US.et" {
+ ID "F0DBA538AC2A0552"
+ components {
+  ActionsManagerComponent "{5CB6952C9693C41C}" {
+   additionalActions {
+    SCR_CatalogSpawnerUserAction "{5EA45280965316E0}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA726F1458B1785}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA726F147483FB4}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA726F14A36B5DA}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA726F14C6C1401}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA726F14FBC45A9}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA726F131C44166}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA726F133C5C391}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA726F135EDCCFE}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA726F137EF0D3B}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA726F13920D1D4}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA45280985E8138}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA452809B547C62}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA452809D7BAFBB}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA4528080CF939F}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA4528082F70FA6}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA45280843D1057}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA4528086798BBD}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA4528089D01CB4}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+    SCR_CatalogSpawnerUserAction "{5EA452808B030689}" {
+     ParentContextList {
+      "SCR_CatalogSpawnerUserAction"
+     }
+     VisibilityRange 10
+     Duration 2
+    }
+   }
+  }
+ }
+}

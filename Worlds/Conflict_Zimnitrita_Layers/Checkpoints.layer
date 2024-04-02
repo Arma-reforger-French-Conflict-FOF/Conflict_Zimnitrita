@@ -501,7 +501,7 @@ $grp GenericEntity : "{9483333BFD9E2D0F}Prefabs/Compositions/Slotted/SlotRoadSma
     {
      DecalEntity {
       ID "56E0B29F4975B6A9"
-      coords 0.001 -0 0
+      coords 0.001 0 0
       angleX -89.941
       angleY 65.196
       angleZ -69.477
@@ -954,7 +954,6 @@ $grp GenericEntity : "{9483333BFD9E2D0F}Prefabs/Compositions/Slotted/SlotRoadSma
    GenericEntity {
     ID "5CC6B48B9C8C2B94"
     coords -3.086 0.224 0.931
-    angleX 0
     angleY -129.705
     {
      DecalEntity {
@@ -975,25 +974,21 @@ $grp GenericEntity : "{9483333BFD9E2D0F}Prefabs/Compositions/Slotted/SlotRoadSma
    GenericEntity {
     ID "5CC6B4BF288B3FF4"
     coords -4.051 0.19 0.402
-    angleX 0
     angleY -104.623
    }
    GenericEntity {
     ID "5E5AD06E26C12FE8"
     coords 2.844 -0.567 -3.958
     angleY -55.621
-    angleZ 0
    }
    StaticModelEntity {
     ID "5CC6B48B9C8C2BDB"
     coords -3.889 0.292 1.244
     angleY -69.67
-    angleZ 0
    }
    StaticModelEntity {
     ID "5CC6B48B9C8C2A48"
     coords -3.27 0.381 2.122
-    angleX -0
     angleY 42.427
    }
    StaticModelEntity {
@@ -1152,7 +1147,7 @@ $grp GenericEntity : "{9483333BFD9E2D0F}Prefabs/Compositions/Slotted/SlotRoadSma
     {
      DecalEntity {
       ID "56E0B29F4975B6A9"
-      coords -0.001 -0 0.001
+      coords -0.001 0 0.001
       angleX -89.944
       angleY -27.921
       angleZ 25.517
@@ -1215,7 +1210,7 @@ $grp GenericEntity : "{9483333BFD9E2D0F}Prefabs/Compositions/Slotted/SlotRoadSma
     {
      DecalEntity {
       ID "56E0B29F4975B6A9"
-      coords -0.002 -0 0.002
+      coords -0.002 0 0.002
       angleX -89.941
       angleY 0.004
       angleZ -0.006
@@ -1399,7 +1394,7 @@ $grp GenericEntity : "{9483333BFD9E2D0F}Prefabs/Compositions/Slotted/SlotRoadSma
     {
      DecalEntity {
       ID "56E0B29F4975B6A9"
-      coords -0.001 -0 0.001
+      coords -0.001 0 0.001
       angleX -89.98
       angleY -106.699
       angleZ 134.455
@@ -1472,7 +1467,6 @@ $grp GenericEntity : "{9483333BFD9E2D0F}Prefabs/Compositions/Slotted/SlotRoadSma
    GenericEntity {
     ID "5CC6B48B9C8C2A7C"
     coords 2.534 -0.001 -2.234
-    angleX -0
     angleY -96.241
     angleZ 75
    }
@@ -1480,7 +1474,6 @@ $grp GenericEntity : "{9483333BFD9E2D0F}Prefabs/Compositions/Slotted/SlotRoadSma
     ID "5E5AD06E26C12FE8"
     coords 2.8 -0.105 -4.228
     angleY -55.621
-    angleZ -0
    }
    StaticModelEntity {
     ID "5CC6B48B9C8C2B00"
@@ -1598,7 +1591,7 @@ $grp GenericEntity : "{E660DE914A7211EB}Prefabs/Compositions/Slotted/SlotRoadSma
     {
      DecalEntity {
       ID "56E0B29F4975B6A9"
-      coords 0 -0 0.001
+      coords 0 0 0.001
       angleX -89.972
       angleY 111.502
       angleZ -112.48
@@ -1673,7 +1666,6 @@ $grp GenericEntity : "{E660DE914A7211EB}Prefabs/Compositions/Slotted/SlotRoadSma
    GenericEntity {
     ID "5CC6B48E65457D2D"
     coords 2.244 -0.171 -1.672
-    angleX 0
     angleY -13.651
    }
    GenericEntity {
@@ -1684,12 +1676,10 @@ $grp GenericEntity : "{E660DE914A7211EB}Prefabs/Compositions/Slotted/SlotRoadSma
     ID "5CC6B48E65457D0D"
     coords 2.686 -0.137 -1.602
     angleY 24.374
-    angleZ 0
    }
    GenericEntity {
     ID "5CC6B48E65457D79"
     coords -2.764 0.116 1.631
-    angleX -0
     angleY 98.389
     {
      GenericEntity {
@@ -1716,19 +1706,16 @@ $grp GenericEntity : "{E660DE914A7211EB}Prefabs/Compositions/Slotted/SlotRoadSma
    StaticModelEntity {
     ID "5CC6B48E65457D46"
     coords 2.672 -0.231 -2.153
-    angleX 0
     angleY -20.063
    }
    StaticModelEntity {
     ID "5CC6B48E65457AD1"
     coords 1.868 -0.3 -2.321
-    angleX 0
     angleY -78.438
    }
    StaticModelEntity {
     ID "5CC6B48E65457AFB"
     coords -1.652 0.23 1.952
-    angleX 0
     angleY -39.526
    }
   }

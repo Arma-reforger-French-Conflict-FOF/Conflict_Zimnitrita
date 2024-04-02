@@ -1,0 +1,11 @@
+GenericEntity {
+ ID "5DDCE2E5F723D961"
+ components {
+  MeshObject "{5DDCE2E5029A98C5}" {
+   Object "{CD1CAAD3EFC0BE21}Assets/Props/Crates/CrateWooden_01/CrateWooden_01.xob"
+  }
+  RigidBody "{5DDCE2E50B6261C7}" {
+  }
+ }
+ coords 2.461 3.892 3.17
+}

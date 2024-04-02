@@ -1,0 +1,21 @@
+Vehicle : "{543A50BF3A42AD47}Prefabs/Vehicles/Core/Wheeled_APC_Base.et" {
+ ID "BBCBA43A9778AE21"
+ components {
+  ActionsManagerComponent "{C97BE5489221AE18}" {
+   additionalActions {
+    SCR_ResourceContainerVehicleLoadAction "{5DAD7519D5DCEEC7}" {
+     Duration -8
+    }
+    SCR_ResourceContainerVehicleUnloadAction "{5DAD7519C925851B}" {
+     Duration -8
+    }
+    SCR_ResourceContainerVehicleLoadAction "{5E43466C9377F425}" {
+     Duration 8
+    }
+    SCR_ResourceContainerVehicleUnloadAction "{5E43466C92B2BA9E}" {
+     Duration 8
+    }
+   }
+  }
+ }
+}

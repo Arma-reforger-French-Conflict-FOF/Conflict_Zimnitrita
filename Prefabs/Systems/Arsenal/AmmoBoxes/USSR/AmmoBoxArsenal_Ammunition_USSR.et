@@ -1,0 +1,8 @@
+GenericEntity : "{E712306EC1913041}Prefabs/Props/Military/Arsenal/AmmoBoxes/AmmoBoxArsenal_Ammunition_Base.et" {
+ ID "F0DBA538AC2A0552"
+ components {
+  SCR_ArsenalComponent "{589F01C9C8D4A475}" {
+   m_eArsenalSaveType NO_RESTRICTIONS
+  }
+ }
+}

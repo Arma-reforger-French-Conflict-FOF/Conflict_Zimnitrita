@@ -1,0 +1,13 @@
+GenericEntity {
+ ID "565EC9572692B2AA"
+ {
+  GenericEntity {
+   ID "566E94439E2D5BA0"
+   components {
+    ActionsManagerComponent "{5476B36C403D4CC0}" {
+     Enabled 0
+    }
+   }
+  }
+ }
+}

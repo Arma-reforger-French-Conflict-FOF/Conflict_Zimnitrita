@@ -1,0 +1,13 @@
+SCR_ChimeraCharacter : "{836E7E39AAC5888B}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Base.et" {
+ ID "520EC961A090BBD5"
+ components {
+  SCR_CharacterStaminaComponent "{520EA1D2F659C824}" {
+   StaminaRegainPerS 1
+   StaminaDrainRun 0
+   StaminaDrainSprint 0
+   EncumbranceMassMin 180
+   EncumbranceMassMax 300
+   EncumbranceDrainMax 0
+  }
+ }
+}

@@ -1,0 +1,8 @@
+GenericEntity : "{2C303FA30DF3D73F}Prefabs/Props/Military/AmmoBoxes/US/EquipmentBoxWooden_Ammunition_01_US.et" {
+ ID "566E798DAFDF5FC4"
+ components {
+  ActionsManagerComponent "{5476B36C403D4CC0}" {
+   Enabled 0
+  }
+ }
+}

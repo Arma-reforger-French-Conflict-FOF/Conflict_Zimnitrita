@@ -1,0 +1,15 @@
+Vehicle : "{1247D68D2A76907D}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_ambulance_base.et" {
+ ID "BBCBA43A9778AE21"
+ components {
+  ActionsManagerComponent "{C97BE5489221AE18}" {
+   additionalActions {
+    SCR_ResourceContainerVehicleLoadAction "{5E43466F69FBFB15}" {
+     Duration -8
+    }
+    SCR_ResourceContainerVehicleUnloadAction "{5E43466F770D2F71}" {
+     Duration -8
+    }
+   }
+  }
+ }
+}

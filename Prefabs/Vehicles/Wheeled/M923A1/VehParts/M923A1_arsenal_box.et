@@ -1,0 +1,15 @@
+GenericEntity : "{A1A44441CF547ED6}Prefabs/Vehicles/Core/Vehicle_ArsenalBox_Base.et" {
+ ID "4B42E71698F5739C"
+ components {
+  ActionsManagerComponent "{5CDEFA7984EAC4E2}" {
+   additionalActions {
+    SCR_ResourceContainerVehicleLoadAction "{5DAD751EA508EA6B}" {
+     Duration -8
+    }
+    SCR_ResourceContainerVehicleUnloadAction "{5DAD751EA3095857}" {
+     Duration -8
+    }
+   }
+  }
+ }
+}

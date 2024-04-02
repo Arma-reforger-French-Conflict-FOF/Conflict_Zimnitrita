@@ -1,0 +1,17 @@
+GenericEntity {
+ ID "5C727AD73024FB47"
+ {
+  GenericEntity {
+   ID "5C727AD606EB0C1C"
+   components {
+    ActionsManagerComponent "{5C727AD65C3206FA}" {
+     additionalActions {
+      SCR_CampaignReconfigureRelayUserAction "{5C727AD67B0A97A0}" {
+       Duration 90
+      }
+     }
+    }
+   }
+  }
+ }
+}

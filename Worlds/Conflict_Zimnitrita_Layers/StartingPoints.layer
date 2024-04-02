@@ -17,6 +17,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
   coords 14033.766 49.563 12785.719
   angleY -118.889
@@ -46,9 +49,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
-  coords 9168.827 7.817 9737.365
-  angleY 23.137
+  coords 9376.694 16.828 9692.788
+  angleX -4.633
+  angleY 23.18
+  angleZ -0.526
   {
    GenericEntity {
     ID "5CCED514A5908822"
@@ -75,8 +83,11 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
-  coords 13707.301 46.188 6791.913
+  coords 14322.997 62.125 6805.443
   angleY 128.047
   {
    GenericEntity {
@@ -104,9 +115,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
-  coords 13708.525 61.554 8315.006
-  angleY -74.498
+  coords 14223.482 63.5 7630.116
+  angleX 0.047
+  angleY -74.499
+  angleZ -1.844
   {
    GenericEntity {
     ID "5CCED514A5908822"
@@ -133,8 +149,11 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
-  coords 14357.311 52.264 9794.076
+  coords 14032.237 49.563 10317.372
   angleY 19.986
   {
    GenericEntity {
@@ -162,8 +181,11 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
-  coords 13407.551 49.563 11688.123
+  coords 13208.929 49.563 11262.549
   angleY -137.619
   {
    GenericEntity {
@@ -195,8 +217,11 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
-  coords 14856.012 49.563 13603.984
+  coords 15148.609 44.188 13963.203
   angleY -74.627
   {
    GenericEntity {
@@ -224,9 +249,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
-  coords 14177.654 30.488 14527.893
-  angleY -72.808
+  coords 14552.394 46.424 14433.788
+  angleX 1.055
+  angleY -72.871
+  angleZ -3.418
   {
    GenericEntity {
     ID "5CCED514A5908822"
@@ -253,9 +283,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
   coords 12231.446 16.376 12764.42
-  angleY -74.289
+  angleX 3.627
+  angleY -74.165
+  angleZ 1.956
   {
    GenericEntity {
     ID "5CCED514A5908822"
@@ -282,9 +317,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
-  coords 10608.434 28.028 11549.772
-  angleY 94.387
+  coords 9791.641 57.875 12648.365
+  angleX -11.662
+  angleY 93.926
+  angleZ 2.28
   {
    GenericEntity {
     ID "5CCED514A5908822"
@@ -311,9 +351,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
   coords 9427.985 79.632 11713.479
-  angleY -74.128
+  angleX 1.593
+  angleY -74.193
+  angleZ -2.338
   {
    GenericEntity {
     ID "5CCED514A5908822"
@@ -340,10 +385,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
-  coords 9442.769 65.876 11043.885
-  angleY 44.562
-  angleZ -1.402
+  coords 9383.873 65.492 11360.034
+  angleX 3.391
+  angleY 45.367
+  angleZ 13.361
   {
    GenericEntity {
     ID "5CCED514A5908822"
@@ -370,9 +419,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
-  coords 8393.165 0.626 10500.252
-  angleY 41.654
+  coords 7980.218 7.919 10188.689
+  angleX 8.763
+  angleY 42.697
+  angleZ 6.817
   {
    GenericEntity {
     ID "5CCED514A5908822"
@@ -399,9 +453,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
-  coords 10175.472 64.165 9779.973
-  angleY 34.098
+  coords 7512.145 3.093 8993.257
+  angleX 1.363
+  angleY 34.107
+  angleZ 0.382
   {
    GenericEntity {
     ID "5CCED514A5908822"
@@ -428,9 +487,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
-  coords 11123.735 37.681 7762.977
-  angleY -169.835
+  coords 10875.646 43.572 7638.344
+  angleX -0.886
+  angleY -169.755
+  angleZ -5.149
   {
    GenericEntity {
     ID "5CCED514A5908822"
@@ -457,9 +521,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
-  coords 12708.744 55.25 8807.064
-  angleY -75.056
+  coords 13654.683 38.03 9391.592
+  angleX 3.885
+  angleY -74.985
+  angleZ 1.041
   {
    GenericEntity {
     ID "5CCED514A5908822"
@@ -486,9 +555,11 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
-  coords 8783.234 71.049 8416.284
-  angleX -1.395
+  coords 9142.087 67.375 8547.348
   angleY -153.237
   {
    GenericEntity {
@@ -520,8 +591,11 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
-  coords 13958.725 49.563 10990.619
+  coords 13958.725 49.563 10990.618
   angleY 176.062
   {
    GenericEntity {
@@ -553,6 +627,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
   coords 15286.814 59.344 2382.245
   angleY -118.889
@@ -582,9 +659,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
-  coords 12536.072 2.971 2184.655
-  angleY 23.45
+  coords 12158.564 6.815 1677.974
+  angleX -0.534
+  angleY 23.438
+  angleZ 1.232
   {
    GenericEntity {
     ID "5CCED514A5908822"
@@ -611,9 +693,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "US"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
-  coords 12254.85 13.367 4029.262
-  angleY -118.889
+  coords 11498.239 5.402 3368.648
+  angleX 0.491
+  angleY -118.992
+  angleZ -11.869
   {
    GenericEntity {
     ID "5CCED514A5908822"
@@ -652,9 +739,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "USSR"
    }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{034185AE1A11B656}Assets/Editor/VirtualArea/VirtualArea_01_Warning.emat"
+   }
   }
-  coords 4701.105 -0.001 7463.683
-  angleY -142.129
+  coords 8558.361 0.001 14418.815
+  angleX -3.996
+  angleY -142.03
+  angleZ -1.416
   Flags 524291
   {
    GenericEntity {
@@ -665,84 +757,6 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
     coords 0 0 0
-   }
-   $grp SCR_DestructibleBuildingEntity : "{0BDA77618F7586C5}PrefabLibrary/Infrastructure/Naval/PierConcrete_01_flat.et" {
-    {
-     coords -19.298 -3.267 -5.935
-     angleY -5.67
-    }
-    {
-     coords 0.597 -2.413 -3.972
-     angleY -5.67
-    }
-    {
-     coords -9.35 -2.531 -4.924
-     angleY -5.67
-    }
-    {
-     coords 20.492 -7.133 -2.025
-     angleY -5.67
-    }
-    {
-     coords 10.544 -3.837 -2.977
-     angleY -5.67
-    }
-    {
-     coords 19.697 -2.216 5.872
-     angleY -5.67
-    }
-    {
-     coords -20.093 1.564 1.963
-     angleY -5.67
-    }
-    {
-     coords -10.146 2.37 2.98
-     angleY -5.67
-    }
-    {
-     coords -0.196 2.426 3.938
-     angleY -5.67
-    }
-    {
-     coords 9.748 0.94 4.924
-     angleY -5.67
-    }
-    {
-     coords 29.611 -6.603 6.901
-     angleY -5.67
-    }
-    {
-     coords 30.406 -11.572 -0.993
-     angleY -5.67
-    }
-   }
-   $grp SCR_DestructibleBuildingEntity : "{94636E81E0D938E4}PrefabLibrary/Infrastructure/Naval/PierConcrete_01_20m_T.et" {
-    {
-     coords -0.335 7.476 11.871
-     angleY 174.33
-    }
-    {
-     coords 1.774 -6.992 -11.829
-     angleY -5.67
-    }
-   }
-   $grp SCR_DestructibleBuildingEntity : "{F09400CC1A27BE39}PrefabLibrary/Infrastructure/Naval/PierConcrete_01_20m.et" {
-    {
-     coords -17.49 -7.738 -13.731
-     angleY -5.67
-    }
-    {
-     coords 21.227 -11.58 -9.9
-     angleY -5.67
-    }
-    {
-     coords -20.78 6.535 9.909
-     angleY 174.33
-    }
-    {
-     coords 18.955 3.483 13.778
-     angleY 174.33
-    }
    }
   }
  }
