@@ -56,16 +56,18 @@ $grp GenericEntity : "{07D58C64654F71A3}Prefabs/Compositions/Slotted/SlotFlatSma
   angleZ -0.509
  }
  {
-  coords 8531.041 63.878 8793.021
-  angleY -127.182
+  coords 16040.83 255.594 9568.809
+  angleY -174.918
  }
  {
-  coords 12797.007 28.876 7845.895
-  angleY -68.172
+  coords 16039.729 255.605 9579.14
+  angleX -0.128
+  angleY 3.279
+  angleZ 2.233
  }
  {
-  coords 10676.005 76.71 14240.051
-  angleY -124.783
+  coords 16077.332 255.594 9576.176
+  angleY -170.452
  }
 }
 $grp GenericEntity : "{172D03072FE6ECAB}Prefabs/Compositions/Slotted/SlotRoadMedium/Barricade_M_US_01.et" {
@@ -87,7 +89,7 @@ $grp GenericEntity : "{172D03072FE6ECAB}Prefabs/Compositions/Slotted/SlotRoadMed
    }
    StaticModelEntity {
     ID "5CC6B49A31F9DDA1"
-    coords 2.742 -0 0.959
+    coords 2.742 0 0.959
     angleY -89.228
    }
   }

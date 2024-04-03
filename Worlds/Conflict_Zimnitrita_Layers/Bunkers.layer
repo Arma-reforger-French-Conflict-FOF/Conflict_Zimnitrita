@@ -1,15 +1,11 @@
 $grp GenericEntity : "{7492BAA88AFCEDCE}Prefabs/Compositions/Slotted/SlotFlatSmall/Bunker_S_USSR_01.et" {
  {
-  coords 15163.057 95.572 8715.091
-  angleX -3.65
-  angleY -164.364
-  angleZ 6.375
+  coords 16066.251 255.594 9579.901
+  angleY -84.271
  }
  {
-  coords 14878.792 84.284 8300.604
-  angleX -1.38
-  angleY -55.614
-  angleZ 1.224
+  coords 16063.191 255.594 9560.692
+  angleY -81.697
  }
  {
   coords 15589.622 50.031 6248.735

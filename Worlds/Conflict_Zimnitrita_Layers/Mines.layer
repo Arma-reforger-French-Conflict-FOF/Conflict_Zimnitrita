@@ -41,7 +41,6 @@ $grp GenericEntity : "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mi
      }
      coords -19.855 -0.024 -7.303
      angleX 1.283
-     angleZ 0
     }
     {
      components {
@@ -111,10 +110,10 @@ $grp GenericEntity : "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mi
        m_bLive 1
       }
      }
-     coords -18.664 -0.183 -12.217
-     angleX 2.133
-     angleY -0.105
-     angleZ -0.439
+     coords -24.813 -0.141 -10.035
+     angleX 1.709
+     angleY -0.108
+     angleZ -0.438
     }
    }
   }
@@ -240,7 +239,6 @@ $grp GenericEntity : "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mi
      }
      coords 16.266 -0.009 -12.208
      angleX -0.85
-     angleY 0
      angleZ 0.876
     }
     {
@@ -303,7 +301,6 @@ $grp GenericEntity : "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mi
      }
      coords 14.53 0.423 -28.771
      angleX -1.732
-     angleY 0
     }
    }
   }
@@ -511,7 +508,6 @@ $grp GenericEntity : "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mi
      }
      coords 9.858 -0.066 87.356
      angleX 0.447
-     angleZ -0
     }
     {
      components {

@@ -28,12 +28,16 @@ $grp GenericEntity : "{7A40BF128BB47EFD}Prefabs/Compositions/Slotted/SlotFlatSma
   angleZ 0.708
  }
  {
-  coords 8353.489 49.989 6853.99
-  angleY 133.508
+  coords 16102.295 254.685 9543.541
+  angleX 1.552
+  angleY -44.716
+  angleZ 5.997
  }
  {
-  coords 12093.952 0.219 8496.504
-  angleY 138.594
+  coords 16129.021 264.09 9590.456
+  angleX -13.307
+  angleY -106.729
+  angleZ -6.021
  }
 }
 $grp GenericEntity : "{C0D09A53EEA441D6}Prefabs/Compositions/Slotted/SlotFlatSmall/MachineGunNest_S_US_02.et" {
