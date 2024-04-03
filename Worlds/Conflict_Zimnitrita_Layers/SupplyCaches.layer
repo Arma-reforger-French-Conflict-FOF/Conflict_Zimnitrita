@@ -500,8 +500,8 @@ $grp GenericEntity : "{FA7A86697340C58C}Prefabs/Compositions/Slotted/SlotFlatSma
      }
      GenericEntity {
       ID "5D45393936823FC3"
-      coords -43.471 0.385 41.944
-      angleY -90.683
+      coords -44.27 0.385 33.427
+      angleY 179.317
      }
     }
    }

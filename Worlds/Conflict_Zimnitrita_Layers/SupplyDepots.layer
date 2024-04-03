@@ -1,6 +1,6 @@
 $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupplyDepot.et" {
  {
-  coords 15585.316 49.969 7329.577
+  coords 15586.874 49.969 7330.03
   angleY -16.229
   {
    $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {

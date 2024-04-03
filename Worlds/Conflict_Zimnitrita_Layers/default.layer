@@ -1,6 +1,7 @@
 SCR_AIWorld : "{70CCCF16487C927F}Prefabs/AI/SCR_AIWorld_Eden.et" {
  components {
   AIBirdManagerComponent "{5CC2D99CC5111D80}" {
+   MaxActiveAnimals 12
    CheckAnimalTime 10
   }
   NavmeshWorldComponent "{5584F30E67F617AD}" {
