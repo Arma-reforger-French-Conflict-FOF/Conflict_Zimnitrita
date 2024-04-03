@@ -1,5856 +1,706 @@
 $grp GenericEntity : "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et" {
  {
   components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 17347.918 0 12.503
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16873.34 0 379.409
-  angleX 3.288
-  angleY -62.178
-  angleZ 1.709
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16876.506 0 381.09
-  angleX 4.181
-  angleY -62.166
-  angleZ 0.821
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16892.729 0 374.438
-  angleX 0.887
-  angleY 0.083
-  angleZ 5.357
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16883.217 0 380.209
-  angleX 0.89
-  angleY 0.069
-  angleZ 4.468
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16883.012 0 383.707
-  angleX 0.89
-  angleY 0.069
-  angleZ 4.468
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16882.115 0 376.612
-  angleX -2.849
-  angleY 41.043
-  angleZ 3.735
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16894.734 0 375.085
-  angleX 0.89
-  angleY 0.069
-  angleZ 4.468
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16884.209 0 385.057
-  angleZ 5.356
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16882.225 0 374.016
-  angleX -2.849
-  angleY 41.043
-  angleZ 3.735
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16893.389 0 373.334
-  angleX 0.887
-  angleY 0.083
-  angleZ 5.357
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16885.326 0 383.583
-  angleX 0.887
-  angleY 0.083
-  angleZ 5.357
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16883.252 0 372.669
-  angleX -2.851
-  angleY 41.057
-  angleZ 4.623
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16876.529 0 378.789
-  angleX 4.179
-  angleY -62.152
-  angleZ 1.71
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16895.812 0 373.298
-  angleX 0.89
-  angleY 0.069
-  angleZ 4.468
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16883.717 0 378.571
-  angleX 0.89
-  angleY 0.069
-  angleZ 4.468
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16893.215 0 375.888
-  angleX 0.887
-  angleY 0.083
-  angleZ 5.357
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15751.277 51.125 2477.963
-  angleX -5.353
-  angleY -0.201
-  angleZ 0.91
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15749.622 62.074 2476.795
-  angleX -1.792
-  angleY -0.077
-  angleZ -1.787
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15750.151 51.125 2479.437
-  angleX -11.476
-  angleY -0.374
-  angleZ 0.952
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15753.11 65.763 2477.419
-  angleX -5.344
-  angleY 0.199
-  angleZ -3.579
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15748.078 51.125 2477.164
-  angleX -1.792
-  angleY -0.077
-  angleZ -1.787
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15754.091 66.399 2471.592
-  angleX -4.315
-  angleY 62.035
-  angleZ 2.408
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15755.41 51.125 2471.057
-  angleX -4.315
-  angleY 62.035
-  angleZ 2.408
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15758.388 66.645 2472.875
-  angleX -4.315
-  angleY 62.035
-  angleZ 2.408
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15751.729 68.48 2470.347
-  angleX -5.416
-  angleY 103.307
-  angleZ -1.252
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15756.275 69.796 2458.431
-  angleX -4.315
-  angleY 62.035
-  angleZ 2.408
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15760.137 67.185 2472.444
-  angleX -5.207
-  angleY 61.998
-  angleZ 3.3
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15749.496 51.125 2469.034
-  angleX -5.416
-  angleY 103.307
-  angleZ -1.252
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15757.044 51.125 2471.404
-  angleX -4.315
-  angleY 62.035
-  angleZ 2.408
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15748.791 66.717 2467.492
-  angleX -5.417
-  angleY 103.321
-  angleZ -0.365
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15745.283 51.125 2466.475
-  angleX -4.315
-  angleY 62.035
-  angleZ 2.408
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15755.203 69.346 2456.644
-  angleX -4.315
-  angleY 62.035
-  angleZ 2.408
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15754.203 64.426 2469.845
-  angleX -4.315
-  angleY 62.035
-  angleZ 2.408
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15767.236 63.753 2470.475
-  angleX -2.142
-  angleY 100.66
-  angleZ -3.131
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15766.531 62.898 2465.538
-  angleX 0.708
-  angleY 101.018
-  angleZ 1.05
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15767.976 65.738 2469.452
-  angleX -2.142
-  angleY 100.66
-  angleZ -3.131
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15769.08 67.453 2468.037
-  angleX -1.417
-  angleY 100.954
-  angleZ -2.096
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15767.414 67.673 2467.222
-  angleY 100.614
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15782.464 58.41 2466.674
-  angleX -7.411
-  angleY 88.117
-  angleZ -8.575
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15777.414 68.358 2468.066
-  angleX -8.272
-  angleY 88.232
-  angleZ -8.545
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15779.022 66.198 2468.638
-  angleX -7.413
-  angleY 88.104
-  angleZ -8.573
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15778.063 64.1 2469.688
-  angleX -7.388
-  angleY 88.067
-  angleZ -7.7
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15780.649 62.88 2468.246
-  angleX -6.551
-  angleY 87.974
-  angleZ -8.603
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15775.396 65.873 2469.583
-  angleX -0.102
-  angleY 128.151
-  angleZ -11.315
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15774.339 65.981 2468.651
-  angleX -0.102
-  angleY 128.151
-  angleZ -11.315
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15741.922 51.125 2469.885
-  angleX 0.228
-  angleY 37.731
-  angleZ -3.216
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15743.465 62.723 2443.247
-  angleX -10.75
-  angleY 12.551
-  angleZ 7.49
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15741.342 51.125 2448.723
-  angleX -1.424
-  angleY -27.505
-  angleZ 10.705
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15735.188 51.125 2424.675
-  angleX -3.927
-  angleY -3.425
-  angleZ 9.105
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15743.734 64.253 2460.294
-  angleX -17.821
-  angleY 9.645
-  angleZ 6.502
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15745.813 51.125 2460.929
-  angleX -22.91
-  angleY 9.046
-  angleZ 8.902
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15743.41 51.125 2471.858
-  angleX -1.884
-  angleY -3.098
-  angleZ -1.69
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15740.201 51.125 2449.962
-  angleX -2.938
-  angleY -27.854
-  angleZ 11.507
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15739.644 51.125 2448.657
-  angleX -1.019
-  angleY -27.462
-  angleZ 11.47
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15741.99 61.95 2443.992
-  angleX -10.377
-  angleY 12.576
-  angleZ 5.798
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15739.041 51.125 2454.733
-  angleX -4.787
-  angleY -29.007
-  angleZ 18.321
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15739.772 51.125 2447.032
-  angleX -1.776
-  angleY -27.639
-  angleZ 11.868
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15740.596 51.125 2453.904
-  angleX -4.787
-  angleY -29.008
-  angleZ 18.322
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15741.775 51.125 2472.545
-  angleX -1.932
-  angleY -3.085
-  angleZ -2.582
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15734.808 51.125 2419.781
-  angleX -4.896
-  angleY 11.235
-  angleZ 6.279
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15742.811 51.125 2473.474
-  angleX -1.88
-  angleY -2.957
-  angleZ -1.694
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15735.819 51.125 2422.25
-  angleX -6.153
-  angleY 11.54
-  angleZ 7.782
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15742.408 51.125 2476.941
-  angleX -1.931
-  angleY -3.059
-  angleZ -2.583
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15742.873 51.125 2468.808
-  angleX -0.313
-  angleY 37.899
-  angleZ -2.511
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12466.842 15.591 5286.702
-  angleX -1.49
-  angleY 33.651
-  angleZ -0.992
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12476.886 15.097 5265.326
-  angleX -0.892
-  angleY -4.466
-  angleZ 0.07
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12475.655 15.164 5266.713
-  angleX -0.892
-  angleY -4.63
-  angleZ 0.072
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12478.759 15.101 5264.919
-  angleX 2.598
-  angleY -4.909
-  angleZ -1.12
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12480.165 14.765 5259.185
-  angleX 0.481
-  angleY 57.48
-  angleZ 0.755
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12481.521 14.758 5258.75
-  angleX 0.539
-  angleY 53.012
-  angleZ 0.715
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12484.355 14.921 5260.783
-  angleX 1.719
-  angleY 57.363
-  angleZ 1.024
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12475.56 16.181 5288.895
-  angleX 0.276
-  angleY 98.878
-  angleZ -1.768
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12478.564 14.721 5258.888
-  angleX -0.755
-  angleY 57.545
-  angleZ 0.48
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12480.982 15.821 5277.352
-  angleX 0.278
-  angleY 57.671
-  angleZ -1.235
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12473.435 16.045 5287.421
-  angleX 1.16
-  angleY 98.867
-  angleZ -1.63
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12478.787 15.805 5277.57
-  angleX -0.957
-  angleY 57.694
-  angleZ -1.513
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12483.124 14.813 5259.218
-  angleX -1.713
-  angleY 57.707
-  angleZ -1.035
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12476.832 14.992 5263.677
-  angleX -0.068
-  angleY -4.349
-  angleZ -0.893
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12480.044 15.723 5275.489
-  angleX 0.278
-  angleY 57.671
-  angleZ -1.235
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12478.063 16.266 5288.581
-  angleX 12.472
-  angleY 54.919
-  angleZ -9.666
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12491.825 16.494 5289.213
-  angleX 1.779
-  angleY 96.416
-  angleZ 0.2
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12506.482 16.267 5287.518
-  angleX 0.984
-  angleY 83.988
-  angleZ 0.796
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12501.344 16.405 5288.53
-  angleX 0.982
-  angleY 84.117
-  angleZ 0.799
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12501.871 16.463 5290.194
-  angleX 0.985
-  angleY 83.938
-  angleZ 0.795
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12504.559 16.368 5288.949
-  angleX 0.986
-  angleY 83.83
-  angleZ 0.794
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12498.234 16.462 5288.885
-  angleX 0.743
-  angleY 123.894
-  angleZ 0.499
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12495.392 16.473 5288.74
-  angleX 1.872
-  angleY 84.113
-  angleZ 0.706
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12466.817 15.03 5266.57
-  angleX -2.352
-  angleY -31.715
-  angleZ -3.799
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12468.338 15.522 5278.278
-  angleX -1.782
-  angleY 5.295
-  angleZ -0.165
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12463.713 15.098 5270.618
-  angleX -17.844
-  angleY -35.119
-  angleZ 9.466
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12465.59 15.056 5267.72
-  angleX -3.794
-  angleY -32.043
-  angleZ -6.035
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12467.817 14.804 5261.901
-  angleX 5.083
-  angleY 6.986
-  angleZ -4.757
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12464.076 15.165 5272.389
-  angleX -3.687
-  angleY -33.431
-  angleZ -7.165
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12466.447 14.916 5264.073
-  angleX 2.472
-  angleY 7.471
-  angleZ -5.075
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12465.469 15.5 5290.346
-  angleX -1.89
-  angleY -7.356
-  angleZ -0.658
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12466.437 15.585 5291.35
-  angleX -2.662
-  angleY -7.23
-  angleZ 0.338
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12468.104 15.727 5294.863
-  angleX -2.662
-  angleY -7.216
-  angleZ 0.337
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12468.696 15.59 5279.874
-  angleX -1.72
-  angleY 4.164
-  angleZ -1.022
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12578.742 16.925 5365.692
-  angleX 0.553
-  angleY 57.606
-  angleZ -2.47
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12583.604 17.048 5367.447
-  angleX 1.306
-  angleY 57.561
-  angleZ -2.948
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12578.447 16.743 5357.472
-  angleX 1.306
-  angleY 57.561
-  angleZ -2.948
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12577.481 17.014 5371.118
-  angleX 0.074
-  angleY 57.623
-  angleZ -3.224
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12576.001 16.961 5370.756
-  angleX 1.31
-  angleY 57.632
-  angleZ -2.947
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12580.438 16.915 5362.598
-  angleX 0.553
-  angleY 57.606
-  angleZ -2.47
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12578.958 16.855 5362.234
-  angleX 1.31
-  angleY 57.632
-  angleZ -2.947
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12590.161 17.064 5365.086
-  angleX 6.505
-  angleY 56.998
-  angleZ -6.311
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12595.416 17.062 5361.002
-  angleX 4.471
-  angleY 56.348
-  angleZ -15.454
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12593.939 17.051 5360.636
-  angleX 4.989
-  angleY 56.447
-  angleZ -14.743
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12601.354 17.073 5363.621
-  angleX 3.999
-  angleY 56.423
-  angleZ -16.146
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12592.18 17.095 5368.328
-  angleX 5.041
-  angleY 57.24
-  angleZ -5.345
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12587.797 17.182 5375.287
-  angleX 0.553
-  angleY 57.606
-  angleZ -2.47
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12586.371 17.131 5370.351
-  angleX 0.621
-  angleY 57.557
-  angleZ -5.68
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12583.122 16.952 5361.798
-  angleX 1.786
-  angleY 57.562
-  angleZ -2.194
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12581.646 16.916 5361.43
-  angleX 0.555
-  angleY 57.673
-  angleZ -2.469
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12577.09 16.495 5349.923
-  angleX -0.202
-  angleY 57.638
-  angleZ -1.991
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12571.809 16.203 5351.976
-  angleX 0.074
-  angleY 57.623
-  angleZ -3.224
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12570.33 16.08 5351.612
-  angleX 0.078
-  angleY 57.696
-  angleZ -3.224
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12581.346 16.805 5355.458
-  angleX 0.555
-  angleY 57.673
-  angleZ -2.469
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12468.48 15.699 5303.295
-  angleX -2.445
-  angleY -48.664
-  angleZ 1.424
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12467.344 15.613 5302.411
-  angleX -3.113
-  angleY -48.79
-  angleZ 0.84
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12465.464 15.438 5304.018
-  angleX -1.803
-  angleY -89.713
-  angleZ 2.674
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12464.68 15.384 5302.427
-  angleX -0.911
-  angleY -89.661
-  angleZ 2.678
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12462.227 15.16 5303.985
-  angleX -1.817
-  angleY -89.562
-  angleZ 3.561
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12460.558 15.017 5305.648
-  angleX -1.816
-  angleY -89.586
-  angleZ 3.562
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12470.517 15.854 5310.281
-  angleX 1.783
-  angleY -174.95
-  angleZ 0.157
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12471.994 15.937 5317.191
-  angleX 0.604
-  angleY -134.139
-  angleZ 1.908
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12469.214 15.752 5309.089
-  angleX 1.632
-  angleY -175.143
-  angleZ 1.934
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12471.764 15.931 5314.541
-  angleX 2.674
-  angleY -174.977
-  angleZ 0.235
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12470.605 15.847 5313.769
-  angleX 2.673
-  angleY -174.846
-  angleZ 0.241
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12166.481 25.331 7818.564
-  angleX -9.582
-  angleY -94.602
-  angleZ 2.537
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12174.605 25.888 7819.181
-  angleX -7.085
-  angleY -52.003
-  angleZ -11.02
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12173.55 25.829 7818.21
-  angleX -1.96
-  angleY -53.074
-  angleZ -9.226
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12171.548 25.69 7819.647
-  angleX -1.941
-  angleY -95.555
-  angleZ 13.087
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12168.317 25.462 7819.37
-  angleX -11.475
-  angleY -95.948
-  angleZ 9.05
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12169.941 25.581 7819.031
-  angleX -12.621
-  angleY -92.85
-  angleZ -5.483
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12162.578 25.057 7819.89
-  angleX -0.003
-  angleY -94.055
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12161.22 25.051 7832.698
-  angleX 0.746
-  angleY -65.382
-  angleZ -1.627
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12158.959 24.925 7833.701
-  angleX -0.498
-  angleY -106.137
-  angleZ -1.719
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12152.646 24.546 7832.353
-  angleX -0.501
-  angleY -106.243
-  angleZ -1.718
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12158.659 24.894 7831.957
-  angleX -0.498
-  angleY -106.135
-  angleZ -1.719
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12155.86 24.749 7832.745
-  angleX -0.492
-  angleY -105.954
-  angleZ -1.721
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12166.216 25.365 7832.943
-  angleX -0.495
-  angleY -106.062
-  angleZ -1.72
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12164.585 25.202 7815.032
-  angleX 0.749
-  angleY -65.276
-  angleZ -1.626
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12157.484 24.673 7816.748
-  angleX 0.746
-  angleY -65.382
-  angleZ -1.627
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12153.941 24.483 7822.171
-  angleX -0.498
-  angleY -106.137
-  angleZ -1.719
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12151.021 24.228 7817.021
-  angleX -0.495
-  angleY -106.062
-  angleZ -1.72
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12154.721 24.48 7816.966
-  angleX 0.746
-  angleY -65.382
-  angleZ -1.627
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12152.461 24.329 7817.968
-  angleX -0.498
-  angleY -106.137
-  angleZ -1.719
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12148.301 24.098 7821.046
-  angleX -0.495
-  angleY -106.062
-  angleZ -1.72
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12160.116 24.869 7818.03
-  angleX 0.749
-  angleY -65.276
-  angleZ -1.626
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12159.287 24.801 7816.857
-  angleX 0.746
-  angleY -65.382
-  angleZ -1.627
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12157.024 24.649 7817.861
-  angleX -0.498
-  angleY -106.137
-  angleZ -1.719
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12161.425 25.027 7827.315
-  angleX 1.736
-  angleY -14.101
-  angleZ -0.436
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12162.384 25.063 7822.752
-  angleX 1.599
-  angleY 26.72
-  angleZ 0.805
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12170.165 25.587 7831.464
-  angleX 1.6
-  angleY 26.615
-  angleZ 0.802
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12162.319 25.083 7825.848
-  angleX 1.735
-  angleY -14.176
-  angleZ -0.438
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12148.037 24.176 7826.083
-  angleX -0.495
-  angleY -106.062
-  angleZ -1.72
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12159.701 24.887 7823.856
-  angleX 0.746
-  angleY -65.382
-  angleZ -1.627
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12157.144 24.72 7823.115
-  angleX -0.498
-  angleY -106.135
-  angleZ -1.719
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12152.781 24.457 7825.728
-  angleX -0.495
-  angleY -106.062
-  angleZ -1.72
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12156.481 24.7 7825.673
-  angleX 0.746
-  angleY -65.382
-  angleZ -1.627
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12153.923 24.524 7824.93
-  angleX -0.498
-  angleY -106.135
-  angleZ -1.719
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15302.362 60.467 3757.85
-  angleX 5.782
-  angleY -7.678
-  angleZ 2.815
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15301.705 53.438 3757.192
-  angleX 4.029
-  angleY -7.83
-  angleZ 3.049
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15300.019 53.438 3757.733
-  angleX 3.665
-  angleY -7.935
-  angleZ 0.391
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15301.726 59.931 3750.862
-  angleX -4.118
-  angleY -105.549
-  angleZ -8.07
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15306.255 61.747 3751.978
-  angleX 4.294
-  angleY -65.459
-  angleZ -2.945
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15305.42 53.438 3750.807
-  angleX 2.591
-  angleY -65.565
-  angleZ -5.681
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15302.86 61.353 3750.065
-  angleX -4.971
-  angleY -105.52
-  angleZ -7.828
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15304.884 53.438 3747.595
-  angleX 2.085
-  angleY -65.484
-  angleZ -8.812
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15301.792 53.438 3747.426
-  angleX -4.354
-  angleY -105.533
-  angleZ -8.91
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15301.494 53.438 3745.683
-  angleX -5.59
-  angleY -105.534
-  angleZ -6.74
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15293.323 53.438 3750.543
-  angleX 15.05
-  angleY 33.443
-  angleZ 2.572
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15292.955 53.438 3753.178
-  angleX 15.545
-  angleY -8.494
-  angleZ -2.292
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15299.189 53.438 3747.424
-  angleX 4.272
-  angleY -66.001
-  angleZ -11.619
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15298.355 53.438 3746.251
-  angleX 0.777
-  angleY -65.388
-  angleZ -12.254
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15295.802 53.438 3745.51
-  angleX -8.407
-  angleY -104.037
-  angleZ -14.905
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15293.291 53.438 3741.925
-  angleX -4.961
-  angleY -105.448
-  angleZ -7.835
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15297.819 53.438 3743.04
-  angleX 4.675
-  angleY -66.47
-  angleZ -16.92
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15294.729 53.438 3742.872
-  angleX -10.011
-  angleY -103.69
-  angleZ -14.497
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15294.435 53.438 3741.128
-  angleX -0.761
-  angleY -106.093
-  angleZ -9.022
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15286.097 53.438 3750.553
-  angleX 4.484
-  angleY -21.518
-  angleZ -0.806
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15283.74 53.438 3751.791
-  angleX 3.655
-  angleY -62.405
-  angleZ -3.128
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15290.334 53.438 3749.175
-  angleX -14.433
-  angleY -160.67
-  angleZ 1.422
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15292.537 53.438 3752.143
-  angleX -13.758
-  angleY -116.629
-  angleZ -13.349
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15290.404 53.438 3750.892
-  angleX -11.178
-  angleY -160.394
-  angleZ -0.227
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15291.647 53.438 3749.635
-  angleX -11.178
-  angleY -160.392
-  angleZ -0.228
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15294.848 53.438 3749.84
-  angleX -11.275
-  angleY -117.75
-  angleZ -9.88
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15293.182 53.438 3747.232
-  angleX -9.987
-  angleY -159.906
-  angleZ -3.63
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15278.132 53.438 3752.389
-  angleX 2.049
-  angleY 32.642
-  angleZ 3.433
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15275.139 53.438 3751.021
-  angleX -2.539
-  angleY -161.454
-  angleZ -3.677
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15288.685 53.438 3741.224
-  angleX 0.454
-  angleY -121.049
-  angleZ -4.444
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15277.917 53.438 3747.358
-  angleX -2.539
-  angleY -161.449
-  angleZ -3.677
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15280.118 53.438 3750.326
-  angleX 1.4
-  angleY -118.947
-  angleZ -4.854
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15288.447 53.438 3736.633
-  angleX 0.498
-  angleY -120.488
-  angleZ -4.439
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15280.902 53.438 3749.1
-  angleX 2.467
-  angleY -105.829
-  angleZ -4.409
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15282.623 53.438 3744.885
-  angleX 3.887
-  angleY -66.439
-  angleZ -2.203
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15288.982 53.438 3734.974
-  angleX 3.891
-  angleY -66.34
-  angleZ -2.196
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15226.963 53.438 3696.944
-  angleX 6.858
-  angleY -120.04
-  angleZ 1.177
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15227.104 53.438 3695.181
-  angleX 5.631
-  angleY -118.899
-  angleZ 0.967
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14019.787 33.165 5351.57
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14017.449 33.181 5351.513
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14017.226 33.479 5356.521
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14016.355 33.373 5354.507
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14018.074 33.314 5353.781
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12223.955 11 8500.926
-  angleX 0.497
-  angleY -106.107
-  angleZ 1.72
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12214.072 11 8505.947
-  angleX 1.359
-  angleY -106.195
-  angleZ 1.469
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12220.087 11 8505.554
-  angleX 0.249
-  angleY -106.124
-  angleZ 0.86
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12217.289 11 8506.339
-  angleX 0.246
-  angleY -105.943
-  angleZ 0.861
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12210.427 11 8503.896
-  angleX 0.248
-  angleY -106.051
-  angleZ 0.86
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12219.74 11 8491.516
-  angleX -0.374
-  angleY -65.292
-  angleZ 0.813
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12216.646 11 8491.344
-  angleX 1.356
-  angleY -106.089
-  angleZ 1.472
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12212.447 11 8490.612
-  angleX 0.248
-  angleY -106.051
-  angleZ 0.86
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12208.291 11 8494.153
-  angleX -0.373
-  angleY -65.398
-  angleZ 0.814
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12213.885 11 8491.562
-  angleX 0.497
-  angleY -106.107
-  angleZ 1.72
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12221.544 11 8491.621
-  angleX -0.374
-  angleY -65.292
-  angleZ 0.813
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12223.516 10.263 8487.284
-  angleX 0.249
-  angleY -106.126
-  angleZ 0.86
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12222.85 11 8500.909
-  angleX -0.868
-  angleY -14.111
-  angleZ 0.218
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12223.748 11 8499.439
-  angleX -0.868
-  angleY -14.186
-  angleZ 0.219
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12204.319 11 8493.732
-  angleX 0.248
-  angleY -106.051
-  angleZ 0.86
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12221.122 11 8497.45
-  angleX -0.373
-  angleY -65.398
-  angleZ 0.814
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12218.565 11 8496.709
-  angleX 0.497
-  angleY -106.105
-  angleZ 1.72
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12214.205 11 8499.319
-  angleX 0.495
-  angleY -106.032
-  angleZ 1.72
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12217.904 11 8499.265
-  angleX -0.745
-  angleY -65.424
-  angleZ 1.628
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12215.347 11 8498.522
-  angleX 0.249
-  angleY -106.124
-  angleZ 0.86
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 17361.865 0 -0.707
-  angleX -0.846
-  angleY -160.96
-  angleZ -0.292
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 17345.998 0 7.744
-  angleX 0.293
-  angleY -160.893
-  angleZ -0.846
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 17349.973 0 8.455
-  angleX -0.845
-  angleY -160.785
-  angleZ -0.295
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 17352.637 0 16.381
-  angleX -0.846
-  angleY -160.956
-  angleZ -0.292
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 17352.217 0 10.289
-  angleX -0.554
-  angleY -160.946
-  angleZ -1.138
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 17364.457 0 3.457
-  angleX -0.449
-  angleY -120.11
-  angleZ -0.774
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 17356.105 0 4.884
-  angleX 0.322
-  angleY -120.248
-  angleZ -1.224
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 17359.443 0 6.471
-  angleX -0.451
-  angleY -120.216
-  angleZ -0.774
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 17358.576 0 3.954
-  angleX -0.846
-  angleY -160.954
-  angleZ -0.292
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 17361.371 0 -3.344
-  angleX -0.554
-  angleY -160.948
-  angleZ -1.138
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 17360.111 0 11.81
-  angleX 1.156
-  angleY -69.023
-  angleZ -0.515
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 17357.607 0 9.873
-  angleX 0.322
-  angleY -68.938
-  angleZ -0.835
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 17355.924 0 -0.402
-  angleX -0.553
-  angleY -160.873
-  angleZ -1.139
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 17363.504 0 1.921
-  angleX 0.774
-  angleY -120.129
-  angleZ -0.449
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12233.02 11 8505.854
-  angleX 0.249
-  angleY -106.124
-  angleZ 0.86
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12228.231 11 8510.404
-  angleX 0.249
-  angleY -106.124
-  angleZ 0.86
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12225.272 11 8516.211
-  angleX 0.249
-  angleY -106.124
-  angleZ 0.86
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12211.01 11 8517.995
-  angleX 0.249
-  angleY -106.124
-  angleZ 0.86
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12230.189 11 8507.999
-  angleX -0.373
-  angleY -65.398
-  angleZ 0.814
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12225.708 11 8512.1
-  angleX -0.373
-  angleY -65.398
-  angleZ 0.814
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12209.275 11 8505.741
-  angleX -0.373
-  angleY -65.398
-  angleZ 0.814
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12204.564 11 8503.257
-  angleX -0.373
-  angleY -65.398
-  angleZ 0.814
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12202.922 11 8495.352
-  angleX -0.373
-  angleY -65.398
-  angleZ 0.814
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12204.815 10.912 8487.218
-  angleX -0.373
-  angleY -65.398
-  angleZ 0.814
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12209.684 10.923 8487.925
-  angleX -0.373
-  angleY -65.398
-  angleZ 0.814
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12224.151 11 8489.765
-  angleX -0.373
-  angleY -65.398
-  angleZ 0.814
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12224.91 11 8499.62
-  angleX -0.373
-  angleY -65.398
-  angleZ 0.814
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15286.803 53.438 3751.003
-  angleX 3.891
-  angleY -66.34
-  angleZ -2.196
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15285.436 53.438 3755.076
-  angleX 3.891
-  angleY -66.34
-  angleZ -2.196
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15280.408 53.438 3756.298
-  angleX 3.891
-  angleY -66.34
-  angleZ -2.196
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15275.098 53.438 3743.02
-  angleX 3.891
-  angleY -66.34
-  angleZ -2.196
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15283.246 53.438 3737.046
-  angleX 3.891
-  angleY -66.34
-  angleZ -2.196
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 15284.496 53.438 3731.831
-  angleX 3.891
-  angleY -66.34
-  angleZ -2.196
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14018.679 32.976 5347.937
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14022.19 32.889 5347.032
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14021.732 32.696 5343.126
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14014.001 33.579 5357.441
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14016.965 33.753 5361.295
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14013.468 33.708 5359.657
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14014.354 33.946 5363.723
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16888.936 0 383.723
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16873.189 0 372.335
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13028.892 36.084 8249.435
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13034.275 35.897 8254.12
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13028.48 35.917 8255.422
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13032.223 35.595 8267.777
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13028.684 35.554 8271.897
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13030.546 36.093 8248.518
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13034.849 36.13 8245.416
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13045.466 35.959 8248.413
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16314.998 0 1979.869
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16314.904 0 1974.219
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16320.188 0 1981.969
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16319.618 0 1985.675
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16326.35 0 1968.535
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16328.754 0 1973.321
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16331.108 0 1969.748
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16329.939 0 1963.712
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16326.926 0 1959.576
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16334.855 0 1975.917
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16331.047 0 1976.43
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16338.065 0 1980.396
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14736.039 53.438 3718.868
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14739.68 53.438 3718.347
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14744.33 53.438 3720.142
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14749.677 53.438 3720.591
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14752.726 53.438 3724.427
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14749.438 53.438 3727.327
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14738.345 53.438 3724.399
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14743.511 53.438 3724.106
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14741.862 53.438 3731.387
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13081.618 31.719 3946.16
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13086.459 30.014 3950.992
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13082.258 14.344 3957.831
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13087.563 14.336 3939.534
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13088.009 15.165 3958.512
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13093.62 36.85 3949.951
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13068.754 14.344 3960.62
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13066.548 14.268 3946.312
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13058.614 27.177 3932.582
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13060.789 14.313 3952.123
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13064.912 14.326 3964.901
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13069.475 14.344 3962.639
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16262.791 0 1587.451
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16253.811 0 1592.516
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16250.272 0 1598.677
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16260.303 0 1593.671
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 16268.155 0 1587.767
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13513.649 15.502 4219.772
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13505.779 15.629 4223.121
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13503.302 15.951 4228.916
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13512.083 15.754 4224.647
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13520.445 15.488 4219.721
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13519.157 15.718 4224.507
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13510.91 16.023 4229.436
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12315.134 11.649 6531.385
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12314.539 11.676 6543.032
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12318.076 11.721 6535.335
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12317.262 11.739 6551.734
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12318.768 11.699 6525.423
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12216.124 30.531 8010.943
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12211.548 30.531 8006.807
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12217.085 30.531 8018.489
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12220.852 30.531 8027.227
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12216.364 30.531 8024.885
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12234.123 30.531 8013.182
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12230.672 30.531 8007.218
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12228.711 30.531 8000.124
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12233.586 30.531 8002.058
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12589.116 52.417 9773.345
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12588.33 51.844 9780.571
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12583.9 52.417 9778.617
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12585.57 51.844 9767.439
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12584.647 52.008 9795.729
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12600.385 0 9779.171
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12599.968 0 9770.167
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12604.773 0 9787.592
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12603.477 0 9774.979
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12602.421 51.844 9765.889
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13576.337 18.363 2648.431
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13566.533 17.678 2648.001
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13585.249 19.319 2644.91
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13573.225 18.31 2642.965
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13558.896 17.363 2643.45
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13566.806 16.919 2664.72
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13579.332 17.866 2665.238
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13586.499 18.001 2670.17
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13572.597 16.86 2672.385
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 13557.267 15.786 2668.961
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11463.134 0 3252.947
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11452.643 0 3256.877
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11457.895 0 3249.711
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11447.772 0 3253.033
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11466.437 0 3248.82
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11469.769 0 3264.92
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11458.313 1.986 3270.177
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11459.151 3.788 3276.005
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11473.945 1.503 3269.55
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14416.41 48.55 5410.489
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14408.572 48.438 5409.176
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14402.147 48.215 5403.79
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14405.259 48.299 5405.695
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14404.796 48.205 5402.156
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14418.821 48.557 5410.102
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14421.84 48.525 5407.876
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14424.926 48.494 5405.591
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14416.463 48.438 5406.505
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14420.234 48.399 5403.628
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14414.978 48.904 5423.171
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14414.296 49.06 5427.472
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 14419.742 49.019 5425.326
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11699.561 17.485 4991.821
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11690.665 36.768 4991.324
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11694.682 35.867 4986.424
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11685.729 38.531 4985.188
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11712.295 17.645 4993.538
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11698.512 29.349 5003.726
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11688.663 41.404 5003.16
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11692.936 29.278 5010.834
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11703.238 19.299 5013.055
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 11682.635 42.931 5010.045
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12633.395 55.25 8933.224
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
-   }
-  }
-  coords 12630.855 55.25 8942.735
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
    SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
     m_bLive 1
-    m_fMinWeight 150
    }
   }
-  coords 12631.192 55.25 8951.571
-  angleX 5.775
-  angleY -61.939
-  angleZ 8.066
- }
- {
-  components {
-   BaseTriggerComponent "{59E4E69D8E9B4323}" {
-    TRIGGER_ALIVE 1
-   }
-   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
-    m_bLive 1
-    m_fMinWeight 150
+  coords 15950.614 108.826 8508.731
+  angleX 11.479
+  angleY 0.182
+  angleZ 0.913
+  {
+   $grp GenericEntity : "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et" {
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -16.107 0.104 1.776
+     angleX -0.002
+     angleY 0.089
+     angleZ 0.438
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -28.829 -0.015 -4.809
+     angleX 1.709
+     angleY -0.102
+     angleZ -0.439
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -19.855 -0.024 -7.303
+     angleX 1.283
+     angleZ 0
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -3.62 -0.004 -5.216
+     angleX 0.857
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -9.543 0.046 4.431
+     angleX -0.433
+     angleY 0.086
+     angleZ 0.439
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -24.785 0.102 -0.156
+     angleX 0.857
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -34.375 -0.002 -2.314
+     angleX 1.284
+     angleY -0.099
+     angleZ -0.439
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -30.11 -0.291 -12.769
+     angleX 2.133
+     angleY -0.105
+     angleZ -0.439
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -11.864 0.052 -3.475
+     angleX 0.427
+     angleY 0.092
+     angleZ 0.438
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -18.664 -0.183 -12.217
+     angleX 2.133
+     angleY -0.105
+     angleZ -0.439
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+    m_bLive 1
+   }
+  }
+  coords 16068.201 116.085 8730.663
+  angleX -8.95
+  angleY -1.833
+  angleZ 11.625
+  {
+   $grp GenericEntity : "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et" {
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 2.112 0.011 0.586
+     angleX 0.415
+     angleY 0.065
+     angleZ -0.425
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 6.454 0.143 6.264
+     angleX 0.811
+     angleY 0.119
+     angleZ -1.71
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 2.106 0.032 3.526
+     angleX 0.415
+     angleY 0.065
+     angleZ -0.425
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 7.347 0.12 3.608
+     angleX 1.247
+     angleY 0.237
+     angleZ -1.708
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -0.011 0.029 8.16
+     angleX -0.013
+     angleY 0.068
+     angleZ -0.425
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+    m_bLive 1
+   }
+  }
+  coords 15635.647 124.976 8648.545
+  angleX 10.528
+  angleY -0.998
+  angleZ -5.448
+  {
+   $grp GenericEntity : "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et" {
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 4.119 0.014 -6.484
+     angleX -0.431
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 9.749 -0.011 -4.31
+     angleX 0.007
+     angleY 0.082
+     angleZ 0.437
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 9.656 0.067 -13.534
+     angleX -1.291
+     angleY 0.072
+     angleZ 0.437
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 16.266 -0.009 -12.208
+     angleX -0.85
+     angleY 0
+     angleZ 0.876
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 19.792 0.121 -19.35
+     angleX -1.291
+     angleY 0.072
+     angleZ 0.437
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 18.61 -0.109 -4.697
+     angleX 0.007
+     angleY 0.082
+     angleZ 0.437
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 22.896 0.816 -53.787
+     angleX 0.422
+     angleY -0.085
+     angleZ -0.436
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 17.085 0.825 -48.389
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 21.904 0.659 -38.474
+     angleX -1.291
+     angleY 0.072
+     angleZ 0.437
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 14.53 0.423 -28.771
+     angleX -1.732
+     angleY 0
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+    m_bLive 1
+   }
+  }
+  coords 15690.897 46.686 7016.859
+  angleX -1.331
+  angleY -0.114
+  angleZ 5.8
+  {
+   $grp GenericEntity : "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et" {
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -10.849 -0.178 3.918
+     angleX 0.443
+     angleY 0.014
+     angleZ -1.777
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -3.948 -0.016 4.892
+     angleX -0.002
+     angleZ -0.887
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -17.865 -0.452 1.428
+     angleX 0.443
+     angleY 0.028
+     angleZ -3.115
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -23.576 -0.786 -0.904
+     angleX -0.003
+     angleY 0.063
+     angleZ -3.561
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -19.597 -0.53 -5.948
+     angleX -0.449
+     angleY 0.09
+     angleZ -3.561
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -12.157 -0.203 -4.826
+     angleX -0.003
+     angleY 0.031
+     angleZ -2.222
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -6.871 -0.038 -3.748
+     angleX -0.447
+     angleY 0.007
+     angleZ -0.887
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+    m_bLive 1
+   }
+  }
+  coords 15490.989 53.412 7846.476
+  angleX 2.161
+  angleY 0.405
+  angleZ 10.627
+  {
+   $grp GenericEntity : "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et" {
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 5.24 0.791 -5.551
+     angleX -0.44
+     angleY -0.337
+     angleZ -7.483
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 2.961 0.443 -15.299
+     angleX -0.439
+     angleY -0.33
+     angleZ -10.612
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 8.931 1.248 -12.07
+     angleX 0.038
+     angleY -0.081
+     angleZ -6.593
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -1.237 0.201 -40.279
+     angleX 0.019
+     angleY -0.204
+     angleZ -5.26
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 8.141 1.178 -34.548
+     angleX 0.014
+     angleY -0.101
+     angleZ -2.613
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 3.825 0.761 -36.524
+     angleX -0.879
+     angleY -0.247
+     angleZ -10.613
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+    m_bLive 1
+   }
+  }
+  coords 15441.484 52.423 7044.172
+  angleX -0.895
+  angleY -0.007
+  angleZ 0.448
+  {
+   $grp GenericEntity : "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et" {
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 10.812 -0.118 69.242
+     angleX 0.449
+     angleY -0.097
+     angleZ 0.894
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 9.858 -0.066 87.356
+     angleX 0.447
+     angleZ -0
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 12.807 0.004 102.094
+     angleX 0.447
+     angleZ -0.448
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 11.808 0.156 122.444
+     angleX 0.447
+     angleY 0.004
+     angleZ -0.448
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 16.234 0.551 150.227
+     angleX 0.895
+     angleY -0.007
+     angleZ -0.448
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 13.171 0.404 140.369
+     angleX 0.895
+     angleZ -0.448
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 3.725 0.069 49.008
+     angleX 0.449
+     angleY -0.024
+     angleZ 3.128
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 0.494 0.346 63.396
+     angleX 0.004
+     angleY -0.056
+     angleZ 3.574
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 5.239 -0.004 76.064
+     angleX 0.009
+     angleY -0.083
+     angleZ 5.351
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 3.568 0.24 98.915
+     angleX 0.449
+     angleY -0.028
+     angleZ 3.574
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 9.481 0.127 114.808
+     angleX 0.448
+     angleY -0.017
+     angleZ 2.236
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+    m_bLive 1
+   }
+  }
+  coords 9007.643 90.903 9050.34
+  angleX 19.393
+  angleY 6.474
+  angleZ 18.868
+  {
+   $grp GenericEntity : "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et" {
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 4.909 0.012 -1.271
+     angleX -0.753
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 3.279 -0.026 3.397
+     angleX -0.462
+     angleY 0.276
+     angleZ 0.758
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 9.495 -0.081 2.702
+     angleX -0.838
+     angleY 0.271
+     angleZ 0.758
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 9.485 -0.19 8.339
+     angleX -1.26
+     angleY 0.397
+     angleZ 1.134
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 14.55 -0.308 7.818
+     angleX -2.109
+     angleY 0.631
+     angleZ 1.882
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 13.234 -0.456 13.544
+     angleX -2.157
+     angleY 0.753
+     angleZ 2.253
+    }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords 18.532 -0.752 15.338
+     angleX -2.205
+     angleY 0.874
+     angleZ 2.622
+    }
    }
   }
-  coords 12634.967 55.25 8939.177
  }
 }

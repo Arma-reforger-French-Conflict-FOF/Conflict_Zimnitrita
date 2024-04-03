@@ -3,14 +3,12 @@ $grp GenericEntity : "{D4A604DD154470CD}Prefabs/Systems/AmbientVehicles/AmbientV
   components {
    SCR_AmbientVehicleSpawnPointComponent "{5D5E85F932F777FA}" {
     m_aIncludedEditableEntityLabels {
-     54 50 53 51
+     51 51 51 51
     }
    }
   }
-  coords 13796.03 24.701 3602.293
-  angleX 7.284
-  angleY 26.22
-  angleZ -4.49
+  coords 7474.164 58.063 5724.651
+  angleY 68.113
  }
  {
   components {
@@ -22,10 +20,8 @@ $grp GenericEntity : "{D4A604DD154470CD}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 12716.007 14.257 6175.615
-  angleX 6.308
+  coords 7538.093 58.063 5723.472
   angleY 94.252
-  angleZ -3.34
  }
  {
   components {
@@ -37,10 +33,10 @@ $grp GenericEntity : "{D4A604DD154470CD}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 11387.192 47.254 8322.053
-  angleX 1.775
-  angleY -134.641
-  angleZ 2.474
+  coords 9283.637 11.723 3467.721
+  angleX 0.629
+  angleY -134.634
+  angleZ 0.637
  }
  {
   components {
@@ -52,10 +48,10 @@ $grp GenericEntity : "{D4A604DD154470CD}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 13442.816 49.563 11948.904
-  angleX 4.175
-  angleY -39.104
-  angleZ 1.636
+  coords 15667.211 49.926 6973.307
+  angleX -1.606
+  angleY -39.119
+  angleZ 0.153
  }
  {
   components {
@@ -67,10 +63,8 @@ $grp GenericEntity : "{D4A604DD154470CD}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 12502.003 19.371 10375.275
-  angleX -4.501
+  coords 15559.364 49.938 6279.841
   angleY 101.498
-  angleZ 0.52
  }
  {
   components {
@@ -82,10 +76,8 @@ $grp GenericEntity : "{D4A604DD154470CD}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 13215.05 30.594 8139.741
-  angleX -0.81
+  coords 15852.415 138.625 8726.276
   angleY 100.867
-  angleZ 0.451
  }
  {
   components {
@@ -97,10 +89,8 @@ $grp GenericEntity : "{D4A604DD154470CD}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 9562.731 89.551 8533.258
-  angleX 0.746
+  coords 15661 138.625 8766.263
   angleY -13.669
-  angleZ 0.55
  }
  {
   components {
@@ -112,10 +102,10 @@ $grp GenericEntity : "{D4A604DD154470CD}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 11785.756 38.718 3930.266
-  angleX -0.681
-  angleY 87.257
-  angleZ 0.628
+  coords 15945.175 254.946 9562.394
+  angleX 2.297
+  angleY 87.321
+  angleZ 1.236
  }
  {
   components {
