@@ -386,4 +386,54 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
    }
   }
  }
+ {
+  coords 13363.1 17.402 15453.814
+  angleX 7.956
+  angleY 3.915
+  angleZ 0.987
+  {
+   $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType FIRETEAM
+       m_fAILimitThreshold 0.66
+      }
+     }
+     coords 62.182 -16.21 14.264
+     angleX -11.294
+     angleY -99.195
+     angleZ 1.208
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_bPickRandomGroupType 1
+       m_iRespawnPeriod 600
+       m_fAILimitThreshold 0.66
+       m_iRespawnWaves -1
+       m_iGroupMultiplier 3
+      }
+     }
+     coords 62.326 4.266 127.771
+     angleX -13.719
+     angleY -21.899
+     angleZ 49.383
+     {
+      SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
+       components {
+        Hierarchy "{5CD0765889102122}" {
+        }
+       }
+       coords -44.344 -90.318 -73.821
+       angleX -23.346
+       angleY -29.303
+       angleZ -43.318
+       CompletionRadius 83.3
+      }
+     }
+    }
+   }
+  }
+ }
 }

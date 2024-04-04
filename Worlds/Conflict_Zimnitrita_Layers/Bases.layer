@@ -1269,8 +1269,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 120
     m_bIsControlPoint 1
-    m_sBaseName "St Phillipe Factory"
-    m_sBaseNameUpper "ST PHILLIPE FACTORY"
+    m_sBaseName "Village 6 construction"
+    m_sBaseNameUpper "VILLAGE 6 construction"
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 120
@@ -2171,22 +2171,31 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   {
    GenericEntity {
     ID "5EEEC471C30578EB"
-    coords 37.479 2.615 -61.442
+    coords 37.452 2.029 -61.456
+    angleX -1.418
+    angleY -0.062
+    angleZ 2.488
    }
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 78.72 -0.989 -0.171
+    coords 78.706 -1.282 -0.178
+    angleX -1.418
+    angleY -0.062
+    angleZ 2.488
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    coords 22.881 42.553 92.531
+    coords 22.881 42.555 92.531
     angleX -1.418
     angleY -0.062
     angleZ 2.488
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords -60.726 6.352 -63.779
+    coords -60.727 6.351 -63.779
+    angleX -1.418
+    angleY -0.062
+    angleZ 2.488
    }
   }
  }
@@ -2219,6 +2228,173 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
     coords -12.211 0.088 -20.121
+   }
+  }
+ }
+ SmallBaseStPhillipeFactory2 {
+  components {
+   SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
+    m_fBuildingRadius 300
+   }
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_iRadius 300
+    m_bIsControlPoint 1
+    m_sBaseName "Village 6"
+    m_sBaseNameUpper "VILLAGE 6"
+   }
+   SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
+    m_iRadius 120
+    m_bIgnoreNonPlayableAttackers 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
+  }
+  coords 13585.509 21.112 15115.824
+  angleX 1.739
+  angleY 171.169
+  angleZ 2.445
+  {
+   GenericEntity {
+    ID "5CCED514A5908822"
+    coords 1.49 0.112 -12.682
+    angleX -0.107
+    angleY 0.007
+    angleZ -3.604
+   }
+   GenericEntity {
+    ID "5EEEC471C30578EB"
+    coords 20.883 1.274 -17.185
+    angleX -0.99
+    angleY 0.06
+    angleZ -3.468
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    coords 94.5 2.626 86.205
+    angleX -0.99
+    angleY 0.06
+    angleZ -3.468
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    coords 82.342 3.132 -16.473
+    angleX -1.325
+    angleY -0.005
+    angleZ 0.208
+   }
+  }
+ }
+ MainBaseNorth2 {
+  components {
+   SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
+    m_fBuildingRadius 150
+   }
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_iRadius 150
+    m_bIsControlPoint 1
+    m_sBaseName "Base militaire 2"
+    m_sBaseNameUpper "BASE MILITAIRE 2"
+    m_sMapLocationName "LocationStPhillipe_Harbour"
+   }
+   SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
+    m_iRadius 200
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
+  }
+  coords 15037.188 83.563 8549.303
+  angleY -166.056
+  {
+   GenericEntity {
+    ID "5CCED514A5908822"
+    components {
+     SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+      m_iGroupMultiplier 5
+     }
+    }
+    coords 71.957 -6.248 -85.938
+    angleX 0.006
+    angleY 0
+    angleZ 3.686
+   }
+   GenericEntity {
+    ID "5EEEC471C30578EB"
+    coords -20.027 1.066 -5.548
+    angleX 1.734
+    angleY 0.125
+    angleZ 4.117
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+      m_iGroupMultiplier 5
+     }
+    }
+    coords -2.98 1.996 40.882
+    angleY 111.074
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    coords 49.332 -1.159 48.013
+    angleY -118
+   }
+  }
+ }
+ SmallBaseArgent2 {
+  components {
+   SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
+    m_fBuildingRadius 150
+   }
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_iRadius 150
+    m_sBaseName "Argent 2"
+    m_sBaseNameUpper "ARGENT 2"
+   }
+   SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
+    m_iRadius 250
+    m_bIgnoreNonPlayableAttackers 0
+   }
+   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
+    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+   }
+  }
+  coords 15955.556 4.088 7229.536
+  angleY 142.609
+  {
+   GenericEntity {
+    ID "5CCED514A5908822"
+    components {
+     SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+      m_iGroupMultiplier 10
+     }
+    }
+    coords -156.717 -0.088 -81.168
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+      m_iGroupMultiplier 10
+     }
+    }
+    coords 75.271 0.006 114.461
+   }
+   GenericEntity {
+    ID "5EEEC471C30578EB"
+    coords 7.356 0.241 -26.713
+    angleX -1.087
+    angleY 0.027
+    angleZ -1.423
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    coords -4.797 -1.086 129.658
+    angleX -5.497
+    angleY 0.779
+    angleZ -8.08
    }
   }
  }

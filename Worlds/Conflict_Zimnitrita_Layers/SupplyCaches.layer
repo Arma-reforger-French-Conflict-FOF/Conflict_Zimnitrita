@@ -547,4 +547,86 @@ $grp GenericEntity : "{FA7A86697340C58C}Prefabs/Compositions/Slotted/SlotFlatSma
    }
   }
  }
+ {
+  coords 13312.306 14.581 15473.694
+  angleY 91.774
+  {
+   GenericEntity {
+    ID "5E330D6CFA231272"
+    coords 22.176 2.825 77.018
+    angleX 0
+    angleY -103.033
+    angleZ 0
+   }
+   GenericEntity {
+    ID "5D4539393E1536C3"
+    {
+     GenericEntity {
+      ID "5D45393936823FC0"
+      coords 25.905 2.824 85.2
+      angleY -102.999
+     }
+     GenericEntity {
+      ID "5D45393936823FC3"
+      coords 26.974 2.824 80.795
+      angleY -103.984
+     }
+    }
+   }
+   GenericEntity {
+    ID "5D1ED922875C41AD"
+    coords 19.879 2.83 98.319
+    angleX 0.294
+    angleY -109.096
+    angleZ -0.561
+   }
+   GenericEntity {
+    ID "5D1ED922875C415B"
+    coords 17.498 2.864 97.782
+    angleX 1.241
+    angleY -102.051
+    angleZ -0.68
+   }
+   GenericEntity {
+    ID "5D1ED922875C4178"
+    coords -9.304 3.004 98.518
+    angleX -5.941
+    angleY 13.507
+    angleZ -10.278
+   }
+   GenericEntity {
+    ID "5D1ED922875C418B"
+    coords -5.514 3.438 97.898
+    angleX -0.578
+    angleY 109.119
+    angleZ 0.259
+   }
+   GenericEntity {
+    ID "5D1ED922875C41BB"
+    coords -4.65 3.428 98.112
+    angleX -0.403
+    angleY 48.539
+    angleZ 0.916
+   }
+   GenericEntity {
+    ID "5D1ED922875C4149"
+    coords 18.731 2.837 97.899
+    angleX -0.536
+    angleY 165.36
+    angleZ -0.337
+   }
+   GenericEntity {
+    ID "5D1ED922875C4163"
+    coords -6.642 3.325 99.116
+    angleX 6.361
+    angleY 75.305
+    angleZ -10.025
+   }
+   GenericEntity {
+    ID "5E5CB3055E6F9068"
+    coords 4.301 0.001 -0.074
+    angleY 3.351
+   }
+  }
+ }
 }
