@@ -47,6 +47,11 @@ SCR_GameModeCampaign GameMode_Campaign1 : "{3B230AAC5252108F}Prefabs/MP/Modes/Co
   SCR_DebriefingScreenComponent "{5D349E302A88E42C}" {
    m_sHeaderTitle "Conflcit Zimnitrita"
   }
+  SCR_GroupsManagerComponent "{5706EC99934496F5}" {
+   m_iPlayableGroupFrequencyMin 30000
+   m_aGroupFlags {
+   }
+  }
   SCR_NotificationSenderComponent "{56FA84B04BE7D4C0}" {
    m_bShowPlayerLeftNotification 0
    m_iKillFeedType DISABLED
@@ -84,7 +89,42 @@ SCR_GameModeCampaign GameMode_Campaign1 : "{3B230AAC5252108F}Prefabs/MP/Modes/Co
    }
   }
   SCR_WelcomeScreenComponent "{5D349E3E9CC39991}" {
-   m_sHeaderTitle "#AR-Campaign_ScenarioName_Everon"
+   m_sHeaderTitle "Conflict Zimnitrita"
+   m_sHeaderSubtitle "Capture et conquête de l'île de Zimnitrita"
+   m_BaseLayout SCR_WelcomeScreenThreeHorizontalColumns "{5D349E3E90D4315E}" {
+    m_MiddleColumn SCR_WelcomeScreenMissionObjectivesContent "{5D349E3E8A5CF4C3}" {
+     m_aMissionObjectives {
+      SCR_WelcomeScreenMissionObjectives "{5D349E3F455821CC}" {
+       m_sDescription "Repousser les assauts Ennemies et tenir les points d'intérêts"
+      }
+      SCR_WelcomeScreenMissionObjectives "{5D349E3F45C63A88}" {
+       m_sDescription "Capturer les lieux stratégiques ennemies pour assurer une domination de l'île"
+      }
+      SCR_WelcomeScreenMissionObjectives "{5D349E3F45967A8B}" {
+       m_sDescription "Installer des antennes afin d'établir une communication sécurise sur l'ensemble du territoire"
+      }
+     }
+    }
+    m_RightColumn SCR_WelcomeScreenIntroductionContent "{5D349E3E89289BE9}" {
+     m_aIntroduction {
+      SCR_WelcomeScreenIntroduction "{5D349E3F6FF705DE}" {
+       m_sContentImage "{189A35A83A730CF0}import texture/etat major.edds"
+       m_sContentTitleText "L'état Major"
+       m_sContentDescriptionText "L'état-major (brassard blanc) s'occupe de créer les escouades et de lancer les ordres de déploiement. Ils dirigent la stratégie de conquête de l'île et sont les stratèges de l'ensemble de l'armée."
+      }
+      SCR_WelcomeScreenIntroduction "{5D349E3F6C78332F}" {
+       m_sContentImage "{79725671E075C14B}import texture/logistique.edds"
+       m_sContentTitleText "La logistique et le supplies"
+       m_sContentDescriptionText "Les logisticiens (brassard noir) sont la clef de la victoire, en s'occupant du réarmement et des déploiement, ils sont les garants des munitions, des déploiement et des évacuations sanitaire. Ils obéissent tout de fois aux ordres de l'état Major."
+      }
+      SCR_WelcomeScreenIntroduction "{5D349E3F6C38011F}" {
+       m_sContentImage "{3C8DCF56695D07AC}import texture/faucon.edds"
+       m_sContentTitleText "Faucon"
+       m_sContentDescriptionText "Les pilotes (appeler Faucon) ils peuvent déployer des troupes sur des iles ou sur des distances plus éloignées. Ils ont aussi un rôle clef dans les exfiltrations médical. Ils sont aussi sous le commandement de l'état-major."
+      }
+     }
+    }
+   }
   }
  }
  coords 26.726 0 10.962
@@ -784,42 +824,38 @@ SCR_LoadoutManager : "{58FBD035E53D95C1}Prefabs/MP/Campaign/CampaignLoadoutManag
  coords 0 0 0
  m_aPlayerLoadouts {
   SCR_FactionPlayerLoadout "{5690D9DB9BA76597}" {
-   m_sLoadoutName "US Rifleman"
+   m_sLoadoutName "Infanterie"
    m_sLoadoutResource "{790EC18FB168E920}Prefabs/Characters/Campaign/Final/CPR_US_Player.et"
   }
   SCR_FactionPlayerLoadout "{5690D9DB9400735C}" {
    m_sLoadoutResource "{305087F7627D5B0B}Prefabs/Characters/Campaign/Final/CPR_USSR_Player.et"
   }
   SCR_FactionPlayerLoadout "{5EE0FA11BF78EF03}" {
-   m_sLoadoutName "US Grenadier"
+   m_sLoadoutName "Grenadier"
    m_sLoadoutResource "{DCCE76ECB95F5025}Prefabs/Characters/Campaign/Final/CPR_US_Player_Grenadier.et"
    m_sAffiliatedFaction "US"
   }
   SCR_FactionPlayerLoadout "{5EE0FA11A3BACB4C}" {
-   m_sLoadoutName "US AT"
+   m_sLoadoutName "Anti - Tank"
    m_sLoadoutResource "{69024316ECB38005}Prefabs/Characters/Campaign/Final/CPR_US_Player_AT.et"
    m_sAffiliatedFaction "US"
   }
   SCR_FactionPlayerLoadout "{5EE0FA11A4547FC1}" {
-   m_sLoadoutName "US Medic"
+   m_sLoadoutName "Médecin de combat"
    m_sLoadoutResource "{35F704771552BAF1}Prefabs/Characters/Campaign/Final/CPR_US_Player_Medic.et"
    m_sAffiliatedFaction "US"
   }
   SCR_FactionPlayerLoadout "{5EE0FA11A6D00E35}" {
-   m_sLoadoutName "US Sniper"
+   m_sLoadoutName "Tireur de précision"
    m_sLoadoutResource "{828B0DD9661E1456}Prefabs/Characters/Campaign/Final/CPR_US_Player_Sniper.et"
    m_sAffiliatedFaction "US"
   }
- }
-}
-GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
- components {
-  SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-   m_sDefaultWaypointPrefab "{06B1B14B6DE3C983}Prefabs/AI/Waypoints/AIWaypoint_Defend_ConflictBaseTeamPatrol.et"
-   m_eGroupType FIRETEAM
+  SCR_FactionPlayerLoadout "{6109222A25982CDB}" {
+   m_sLoadoutName "Logisticien"
+   m_sLoadoutResource "{6B2BBEF75627CDAE}Prefabs/Characters/Campaign/Final/CPR_US_Player_SquadLead.et"
+   m_sAffiliatedFaction "US"
   }
  }
- coords 10013.403 122.812 7121.51
 }
 $grp DecalEntity : "{CA8AB522F7C90A28}Prefabs/Decals/Miscellaneous/CigarButts_01.et" {
  {
