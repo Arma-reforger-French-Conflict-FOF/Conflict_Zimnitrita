@@ -696,6 +696,17 @@ $grp GenericEntity : "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mi
      angleY 0.874
      angleZ 2.622
     }
+    {
+     components {
+      SCR_PressureTriggerComponent "{59E6BE151DCC9953}" {
+       m_bLive 1
+      }
+     }
+     coords -0.881 -0.021 -5.562
+     angleX 0.868
+     angleY -0.445
+     angleZ -1.149
+    }
    }
   }
  }
