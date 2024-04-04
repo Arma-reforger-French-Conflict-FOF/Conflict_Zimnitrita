@@ -45,14 +45,28 @@ SCR_GameModeCampaign GameMode_Campaign1 : "{3B230AAC5252108F}Prefabs/MP/Modes/Co
    m_bOptionalKicking 1
   }
   SCR_DebriefingScreenComponent "{5D349E302A88E42C}" {
-   m_sHeaderTitle "#AR-Campaign_ScenarioName_Everon"
+   m_sHeaderTitle "Conflcit Zimnitrita"
   }
   SCR_NotificationSenderComponent "{56FA84B04BE7D4C0}" {
-   m_iKillFeedType FULL
+   m_bShowPlayerLeftNotification 0
+   m_iKillFeedType DISABLED
    m_iReceiveKillFeedType ALL
   }
   SCR_PlayerSpawnPointManagerComponent "{5CDABA98894199D0}" {
    m_bRadioVehicleSpawningEnabled 1
+  }
+  SCR_RespawnBriefingComponent "{5B2A94A3CF791D6F}" {
+   m_aGameModeHints {
+    SCR_UIInfo "{5B2A94A72CAF0E18}" {
+     Name "Capturez et tenez les points stratégiques"
+    }
+    SCR_UIInfo "{5B2A94A72AB20D65}" {
+     Name "Augmenter la couverture radio"
+    }
+    SCR_UIInfo "{5B2A94A729D6B272}" {
+     Name "Organiser la logistique de guerre"
+    }
+   }
   }
   SCR_TimeAndWeatherHandlerComponent "{5CC49B5A1313B84E}" {
    m_iStartingHours 5
