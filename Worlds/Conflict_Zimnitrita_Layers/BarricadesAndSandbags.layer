@@ -1215,10 +1215,10 @@ $grp GenericEntity : "{AF770C825EA592CF}Prefabs/Compositions/Slotted/SlotRoadLar
 }
 $grp GenericEntity : "{B04F2A9C5356C02D}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_FIA_01.et" {
  {
-  coords 10305.823 0.498 15617.567
-  angleX 0.04
-  angleY -116.259
-  angleZ 2.669
+  coords 14970.778 77.337 8610.093
+  angleX -3.467
+  angleY -76.152
+  angleZ 0.987
   {
    GenericEntity {
     ID "5E5CB3014284530D"
@@ -1228,8 +1228,10 @@ $grp GenericEntity : "{B04F2A9C5356C02D}Prefabs/Compositions/Slotted/SlotFlatSma
   }
  }
  {
-  coords 8870.115 64.358 9405.914
-  angleY -63.375
+  coords 14982.217 81.649 8485.374
+  angleX -1.13
+  angleY -149.677
+  angleZ 1.931
  }
  {
   coords 12283.9 27.945 11796.207
@@ -1500,7 +1502,7 @@ $grp GenericEntity : "{B04F2A9C5356C02D}Prefabs/Compositions/Slotted/SlotFlatSma
   angleZ -1.714
  }
  {
-  coords 12016.521 17.609 5911.071
+  coords 12016.521 20.893 5911.071
   angleY -38.896
  }
 }

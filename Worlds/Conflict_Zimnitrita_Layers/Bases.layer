@@ -83,7 +83,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_fBuildingRadius 125
    }
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
-    m_iRadius 150
+    m_iRadius 220
     m_bIsControlPoint 1
     m_sBaseName "#AR-Campaign_MapLocation_CalvaryHill"
     m_sBaseNameUpper "#AR-MapLocation_CalvaryHill"
@@ -96,14 +96,17 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
-  coords 10575.812 15.594 4617.885
-  angleX -4.292
-  angleY -123.664
-  angleZ -1.89
+  coords 10522.147 15.907 4618.427
+  angleX 1.333
+  angleY -124.047
+  angleZ -5.207
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 78.644 -1.565 -7.421
+    coords 117.898 -1.171 44.385
+    angleX -1.436
+    angleY 1.079
+    angleZ 5.179
    }
    GenericEntity {
     ID "5EEEC471C30578EB"
@@ -111,7 +114,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    coords 13.3 2.5 39.128
+    coords -63.593 6.498 -44.898
+    angleX -1.327
+    angleY -0.121
+    angleZ 5.208
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    coords -0.001 -0.001 0
    }
   }
  }
@@ -210,8 +220,10 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
-  coords 11714.145 30.844 11867.315
-  angleY 10.739
+  coords 11776.628 27.795 11738.778
+  angleX -2.02
+  angleY 6.169
+  angleZ 2.031
   {
    GenericEntity {
     ID "5CCED514A5908822"
@@ -220,11 +232,17 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
       m_iGroupMultiplier 5
      }
     }
-    coords -254.684 -5.133 288.764
+    coords -241.84 -2.4 22.142
+    angleX -2.859
+    angleY 0.178
+    angleZ -2.564
    }
    GenericEntity {
     ID "5EEEC471C30578EB"
-    coords -85.657 -0.107 -72.705
+    coords -4.216 0.066 -2.098
+    angleX 0.097
+    angleY 0.054
+    angleZ -0.889
    }
    GenericEntity {
     ID "606078EE23DE48AC"
@@ -233,11 +251,17 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
       m_iGroupMultiplier 5
      }
     }
-    coords -58.051 2.083 -44.163
+    coords -127.118 -1.784 -12.22
+    angleX 2.066
+    angleY -0.089
+    angleZ -2.477
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords 2.594 -0.456 3.475
+    coords 2.566 0.328 3.447
+    angleX 1.081
+    angleY -0.032
+    angleZ -1.682
    }
   }
  }
@@ -2304,8 +2328,10 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
-  coords 15037.188 83.563 8549.303
-  angleY -166.056
+  coords 15028.373 81.469 8586.099
+  angleX 1.411
+  angleY -165.968
+  angleZ 3.577
   {
    GenericEntity {
     ID "5CCED514A5908822"
@@ -2314,17 +2340,15 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
       m_iGroupMultiplier 5
      }
     }
-    coords 71.957 -6.248 -85.938
-    angleX 0.006
-    angleY 0
-    angleZ 3.686
+    coords 80.702 1.524 -80.133
+    angleX -2.382
+    angleY -0.075
+    angleZ 0.331
    }
    GenericEntity {
     ID "5EEEC471C30578EB"
-    coords -20.027 1.066 -5.548
-    angleX 1.734
-    angleY 0.125
-    angleZ 4.117
+    coords 5.6 0 -1.406
+    angleY 0.105
    }
    GenericEntity {
     ID "606078EE23DE48AC"
@@ -2333,13 +2357,15 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
       m_iGroupMultiplier 5
      }
     }
-    coords -2.98 1.996 40.882
-    angleY 111.074
+    coords -2.856 0.022 40.832
+    angleX 0.365
+    angleY 111.076
+    angleZ 0.257
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords 49.332 -1.159 48.013
-    angleY -118
+    coords 17.659 0 -0.471
+    angleY -118.127
    }
   }
  }

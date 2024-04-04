@@ -365,20 +365,20 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_iGroupMultiplier 3
       }
      }
-     coords 198.882 -1.317 -39.951
-     angleX 1.811
-     angleY -4.462
-     angleZ -12.355
+     coords 198.656 11.831 -38.114
+     angleX -2.666
+     angleY -4.045
+     angleZ -5.326
      {
       SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
        components {
         Hierarchy "{5CD0765889102122}" {
         }
        }
-       coords -193.661 37.509 79.991
-       angleX 3.52
-       angleY -52.652
-       angleZ 15.057
+       coords -180.921 3.845 90.973
+       angleX 0.696
+       angleY -53.01
+       angleZ 7.215
        CompletionRadius 83.3
       }
      }
