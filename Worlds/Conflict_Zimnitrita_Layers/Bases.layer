@@ -1,5 +1,5 @@
 $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMilitaryBase.et" {
- MilitaryBaseAirfield {
+ TentCamp {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 175
@@ -7,9 +7,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 150
     m_bIsControlPoint 1
-    m_sBaseName "#AR-Campaign_MapLocation_Airbase"
-    m_sBaseNameUpper "#AR-Campaign_MapLocation_Airbase-UC"
-    m_sMapLocationName "LocationAirport"
+    m_sBaseName "Camp"
+    m_sBaseNameUpper "CAMP"
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 150
@@ -27,7 +26,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- MilitaryBaseLevie {
+ Sawmill2 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 150
@@ -35,9 +34,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 175
     m_bIsControlPoint 1
-    m_sBaseName "#AR-Campaign_MapLocation_Levie_Base"
-    m_sBaseNameUpper "#AR-Campaign_MapLocation_Levie_Base-UC"
-    m_sMapLocationName "LocationLevie_MilitaryBase"
+    m_sBaseName "Sawmill 2"
+    m_sBaseNameUpper "SAWMILL 2"
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 125
@@ -77,7 +75,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- MilitaryBaseVilleneuf {
+ NavalMilitaryBase1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 125
@@ -125,7 +123,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- MilitaryHospital {
+ MilitaryHelibase {
   components {
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 170
@@ -151,7 +149,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- MajorBaseChotain {
+ PowerPlant2 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 125
@@ -202,7 +200,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- MajorBaseLamentin {
+ VilleTanin1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 225
@@ -266,7 +264,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- MajorBaseMorton {
+ MilitaryBase3 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 175
@@ -318,7 +316,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- MainBaseNorth {
+ MilitaryBase {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 225
@@ -370,7 +368,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- MainBaseSouth {
+ PowerPlant1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 175
@@ -448,7 +446,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseBlackLake {
+ Farm1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 125
@@ -466,7 +464,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
-  coords 14352.838 53.939 3932.838
+  coords 14362.047 54.236 3958.103
   angleX -2
   angleY 59.13
   angleZ -0.842
@@ -498,7 +496,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseSimonsWood {
+ Sawmill4 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 175
@@ -506,8 +504,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 200
     m_bIsControlPoint 1
-    m_sBaseName "#AR-MapLocation_SimonsWood"
-    m_sBaseNameUpper "#AR-Campaign_MapLocation_SimonsWood-UC"
+    m_sBaseName "Sawmill 4"
+    m_sBaseNameUpper "SAWMILL 4"
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 150
@@ -527,7 +525,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseRichemont {
+ Barachuk1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 150
@@ -578,7 +576,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseShepherds {
+ Gruwice1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 175
@@ -605,7 +603,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseLake {
+ MilitayHospital1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 175
@@ -690,7 +688,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseHornbeamValley {
+ Andruhanov5 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 125
@@ -717,7 +715,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseAndresBeacon {
+ Varpadany_MilitaryBase {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 150
@@ -725,8 +723,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 140
     m_bIsControlPoint 1
-    m_sBaseName "#AR-MapLocation_AndresBeacon"
-    m_sBaseNameUpper "#AR-Campaign_MapLocation_AndresBeacon-UC"
+    m_sBaseName "Varpadany base"
+    m_sBaseNameUpper "VARPADANY BASE"
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 125
@@ -756,7 +754,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseGoatbay {
+ Sawmill3 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 125
@@ -764,8 +762,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 150
     m_bIsControlPoint 1
-    m_sBaseName "#AR-MapLocation_GoatBay"
-    m_sBaseNameUpper "#AR-Campaign_MapLocation_GoatBay"
+    m_sBaseName "Sawmill 3"
+    m_sBaseNameUpper "SAWMILL 3"
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 100
@@ -777,7 +775,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   coords 11897.413 13.783 4906.664
   angleY -161.555
  }
- TownBaseChotain {
+ Petitcorpdeferme {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 150
@@ -837,7 +835,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- TownBaseEntre_Deux {
+ Andruhanov2 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 125
@@ -868,7 +866,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- TownBaseFigari {
+ KarlovCompany1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 175
@@ -896,7 +894,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- TownBaseLaruns {
+ Niscova_farm {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 150
@@ -989,7 +987,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- TownBaseMeaux {
+ Andruhanov1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 225
@@ -1020,7 +1018,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- TownBaseMontignac {
+ Andruhanov3 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 275
@@ -1050,7 +1048,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- TownBaseProvins {
+ Gruwice2 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 175
@@ -1078,7 +1076,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- TownBaseRegina {
+ HugeFarm1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 225
@@ -1139,7 +1137,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- TownBaseVernon {
+ Stereni1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 225
@@ -1199,7 +1197,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- TownBaseGravette {
+ Andruhanov4 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 150
@@ -1264,7 +1262,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseLesCreux {
+ Farm2 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 120
@@ -1296,7 +1294,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseStPhillipeFactory {
+ Village62 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 120
@@ -1360,7 +1358,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseKervel {
+ DarkForest1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 120
@@ -1384,7 +1382,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   angleY 171.033
   angleZ -2.487
  }
- SmallBaseFiringRange {
+ Niscova1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 140
@@ -1392,8 +1390,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 350
     m_bIsControlPoint 1
-    m_sBaseName "Firing Range"
-    m_sBaseNameUpper "FIRING RANGE"
+    m_sBaseName "Niscova"
+    m_sBaseNameUpper "NISCOVA"
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 140
@@ -1418,15 +1416,15 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseBenac {
+ Niscova3 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 100
    }
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_bIsControlPoint 1
-    m_sBaseName "Benac"
-    m_sBaseNameUpper "BENAC"
+    m_sBaseName "Niscova 3"
+    m_sBaseNameUpper "NISCOVA 3"
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 100
@@ -1451,7 +1449,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseScythe {
+ Niscova2 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 140
@@ -1459,8 +1457,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 140
     m_bIsControlPoint 1
-    m_sBaseName "Scythe"
-    m_sBaseNameUpper "SCYTHE"
+    m_sBaseName "Niscova 2"
+    m_sBaseNameUpper "NISCOVA 2"
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 140
@@ -1472,34 +1470,6 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   }
   coords 14214.196 45.312 9641.706
   angleY 171.095
- }
- SmallBasePerelle {
-  components {
-   SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
-    m_fBuildingRadius 120
-   }
-   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
-    m_iRadius 120
-    m_bIsControlPoint 1
-    m_sBaseName "Perelle"
-    m_sBaseNameUpper "PERELLE"
-   }
-   SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
-    m_iRadius 120
-    m_bIgnoreNonPlayableAttackers 0
-   }
-   SCR_MilitaryBaseAreaMeshComponent "{5AFC9B0FB2E4AF40}" {
-    m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
-   }
-  }
-  coords 14950.924 68.438 5584.958
-  angleY 171.095
-  {
-   GenericEntity {
-    ID "5CCED514A5908822"
-    coords -14.345 0 12
-   }
-  }
  }
  SmallBaseLancre {
   components {
@@ -1525,7 +1495,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   angleY 169.739
   angleZ -6.634
  }
- SmallBaseCave {
+ Glochy2 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 120
@@ -1555,15 +1525,15 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseChevalGinLodge {
+ StereniFarm {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 100
    }
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_bIsControlPoint 1
-    m_sBaseName "Cheval Gin Lodge"
-    m_sBaseNameUpper "CHEVAL GIN LODGE"
+    m_sBaseName "Stereni Farm"
+    m_sBaseNameUpper "STERENI FARM"
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 100
@@ -1582,7 +1552,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseGhostTown {
+ Glochy3 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 100
@@ -1610,7 +1580,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseStPierre {
+ Stereni2 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 180
@@ -1618,8 +1588,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 200
     m_bIsControlPoint 1
-    m_sBaseName "St Pierre Town"
-    m_sBaseNameUpper "ST PIERRE TOWN"
+    m_sBaseName "Stereni 2"
+    m_sBaseNameUpper "STERENI 2"
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 180
@@ -1637,7 +1607,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseLarueBay {
+ Szarlota2 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 120
@@ -1645,8 +1615,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 120
     m_bIsControlPoint 1
-    m_sBaseName "Larue Bay"
-    m_sBaseNameUpper "LARUE BAY"
+    m_sBaseName "Szarlota farm"
+    m_sBaseNameUpper "SZARLOTA FARM"
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 120
@@ -1659,7 +1629,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   coords 12826.323 10.245 1822.352
   angleY 171.095
  }
- SmallBaseCastle {
+ Old_Castle1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 120
@@ -1772,7 +1742,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseThollevast {
+ Nienia1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 400
@@ -1793,15 +1763,15 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   coords 7072.262 32.938 7036.064
   angleY 171.095
  }
- SmallBaseArgent {
+ Valadim1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 250
    }
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 250
-    m_sBaseName "Argent"
-    m_sBaseNameUpper "ARGENT"
+    m_sBaseName "Valadim"
+    m_sBaseNameUpper "VALADIM"
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 250
@@ -1838,7 +1808,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseErquy {
+ Old_Castle_village1 {
   components {
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 250
@@ -1860,7 +1830,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseErquyLighthouse {
+ Lighthouse1 {
   components {
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_sBaseName "Erquy Lighthouse"
@@ -1879,7 +1849,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseHedgehogHill {
+ Andruhanov6 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 100
@@ -1911,7 +1881,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseSmugglersHole {
+ Varpadany3 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 200
@@ -1919,8 +1889,8 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 200
     m_bIsControlPoint 1
-    m_sBaseName "Smugglers Hole"
-    m_sBaseNameUpper "SMUGGLERS HOLE"
+    m_sBaseName "Varpadany farm"
+    m_sBaseNameUpper "VARPADANY FARM"
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 200
@@ -1943,7 +1913,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBasePins {
+ MilitaryHospital2 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 600
@@ -2010,15 +1980,15 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseCourbet {
+ Szarlota1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 100
    }
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_bIsControlPoint 1
-    m_sBaseName "Courbet"
-    m_sBaseNameUpper "COURBET"
+    m_sBaseName "Szarlota"
+    m_sBaseNameUpper "SZARLOTA"
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 100
@@ -2046,7 +2016,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBasePowerPlant {
+ PowerPlant4 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 170
@@ -2078,7 +2048,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseCragPoint {
+ Glochy1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 120
@@ -2110,16 +2080,16 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseSkuaPoint {
+ Varpadany1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 120
    }
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
-    m_iRadius 120
+    m_iRadius 300
     m_bIsControlPoint 1
-    m_sBaseName "Skua Point"
-    m_sBaseNameUpper "SKUA POINT"
+    m_sBaseName "Varpadany"
+    m_sBaseNameUpper "VARPADANY"
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 120
@@ -2129,7 +2099,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
    }
   }
-  coords 15202.134 35.81 5129.702
+  coords 15029.421 58.316 5427.588
   angleY -68.319
   {
    GenericEntity {
@@ -2142,7 +2112,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- MilitaryBaseVilleneuf2 {
+ Harbour1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 125
@@ -2184,7 +2154,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseKervel2 {
+ Falls1 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 120
@@ -2238,7 +2208,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBase_Power_Generator1 {
+ PowerPlant3 {
   components {
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 120
@@ -2272,12 +2242,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords -7.192 -0 0.496
+    coords -7.192 0 0.496
     angleY 0.264
    }
   }
  }
- SmallBaseStPhillipeFactory2 {
+ Village61 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 300
@@ -2331,7 +2301,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- MainBaseNorth2 {
+ MilitaryBase2 {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 150
@@ -2391,15 +2361,15 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
  }
- SmallBaseArgent2 {
+ Valadim_Fishing_vilage {
   components {
    SCR_CampaignBuildingProviderComponent "{5CA897160F09AA9F}" {
     m_fBuildingRadius 150
    }
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 150
-    m_sBaseName "Argent 2"
-    m_sBaseNameUpper "ARGENT 2"
+    m_sBaseName "Valadim harbour"
+    m_sBaseNameUpper "VALADIM HARBOUR"
    }
    SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
     m_iRadius 250
@@ -2446,17 +2416,17 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
  }
 }
 $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRelayRadio.et" {
- Relay4 {
+ Relay3 {
   components {
    SCR_CampaignMilitaryBaseComponent "{5C727AD73024FB00}" {
-    m_sBaseName "#AR-Campaign_MapLocation_Tower_Regina"
-    m_sBaseNameUpper "#AR-Campaign_MapLocation_Tower_Regina-UC"
+    m_sBaseName "Radio Tower"
+    m_sBaseNameUpper "RADIO TOWER"
    }
   }
   coords 11642.863 17.118 16282.581
   angleY 97.32
  }
- Relay15 {
+ Relay1 {
   components {
    SCR_CampaignMilitaryBaseComponent "{5C727AD73024FB00}" {
     m_sBaseName "#AR-Campaign_MapLocation_Tower_EntreDeux"
@@ -2495,7 +2465,43 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
   {
    GenericEntity {
     ID "5C727AD606EB0C1C"
-    coords -6.5 95.352 -83.125
+    coords -11.75 29.742 223.25
+   }
+   GenericEntity : "{03B44EA7652D0D17}Prefabs/Props/Military/Radios/RadioStation_R123M_01.et" {
+    components {
+     SignalsManagerComponent "{5C727AD6344BE9A9}" {
+     }
+     SoundComponent "{5C727AD63C4F48D4}" {
+      Filenames {
+       "{4340FAB152ACD12D}Sounds/Compositions/Slotted/SlotFlatSmall/Compositions_Radio_Chatter.acp"
+      }
+      IncludeInactive 1
+     }
+     ActionsManagerComponent "{5C727AD65C3206FA}" {
+      ActionContexts {
+       UserActionContext "{5C727AD65994845D}" {
+        ContextName "CampaignReconfigureRelay"
+        Position PointInfo "{5C727AD67780F8A4}" {
+        }
+       }
+      }
+      additionalActions {
+       SCR_CampaignReconfigureRelayUserAction "{5C727AD67B0A97A0}" {
+        ParentContextList {
+         "CampaignReconfigureRelay"
+        }
+        UIInfo UIInfo "{5C727AD6914D5B43}" {
+         Name "#AR-Campaign_Action_ReconfigureRelay-UC"
+        }
+        Duration 10
+       }
+      }
+     }
+    }
+    coords 0.312 89.895 -96.75
+    angleX 0.895
+    angleZ 0.895
+    scale 100
    }
    $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
     {
@@ -2555,159 +2561,9 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
      angleZ -3.578
     }
    }
-   StaticModelEntity : "{DBCDEC45DB834E8A}Prefabs/Structures/Infrastructure/Towers/TransmitterTower_01/TransmitterTower_01.et" {
-    coords 0.125 -696.089 -2.625
-    angleY -90
-    {
-     LightEntity {
-      ID "5A42CACBB0302214"
-      coords -1.875 2.476 -1.937
-     }
-    }
-   }
   }
  }
- Relay3 {
-  components {
-   BaseRadioComponent "{5C727AD73024FB2A}" {
-    Transceivers {
-     RelayTransceiver "{5C727AD73024FB39}" {
-      "Transmitting Range" 3000
-     }
-    }
-   }
-   SCR_CampaignMilitaryBaseComponent "{5C727AD73024FB00}" {
-    m_sBaseName "Eastern Sea Relay"
-    m_sBaseNameUpper "EASTERN SEA RELAY"
-   }
-  }
-  coords 12453.354 39.264 15886.886
-  angleX -0.442
-  angleY 179.952
-  angleZ 6.242
-  scale 0.05
-  {
-   GenericEntity {
-    ID "5C727AD606EB0C1C"
-    coords -6.813 -0.014 -1.625
-    angleY -89.951
-   }
-   $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
-    {
-     components {
-      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-       m_eGroupType FIRETEAM
-      }
-     }
-     coords 31.656 10.514 210.031
-     angleX -4.037
-     angleY -179.956
-     angleZ 4.887
-     Flags 524291
-    }
-    {
-     components {
-      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-       m_eGroupType FIRETEAM
-      }
-     }
-     coords 257.844 19.957 -43.188
-     angleX -0.439
-     angleY 179.949
-     angleZ 6.69
-     Flags 524291
-    }
-   }
-  }
- }
- Relay5 {
-  components {
-   BaseRadioComponent "{5C727AD73024FB2A}" {
-    Transceivers {
-     RelayTransceiver "{5C727AD73024FB39}" {
-      "Transmitting Range" 4000
-     }
-    }
-   }
-   SCR_CampaignMilitaryBaseComponent "{5C727AD73024FB00}" {
-    m_sBaseName "Estrapade Tower"
-    m_sBaseNameUpper "ESTRAPADE TOWER"
-   }
-  }
-  coords 8051.177 63.188 11881.44
-  angleX 0.444
-  angleY 89.92
-  angleZ 0.21
-  {
-   GenericEntity {
-    ID "5C727AD606EB0C1C"
-    coords 0.006 0.919 0
-   }
-   $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
-    {
-     components {
-      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-       m_eGroupType FIRETEAM
-      }
-     }
-     coords 25.153 -4.265 141.621
-     angleX 2.386
-     angleY -89.151
-     angleZ 6.712
-    }
-    {
-     components {
-      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-       m_eGroupType FIRETEAM
-      }
-     }
-     coords 114.367 -12.063 -8.211
-     angleX 20.369
-     angleY -94.989
-     angleZ -14.078
-    }
-    {
-     components {
-      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-       m_eGroupType FIRETEAM
-      }
-     }
-     coords -0.453 -0.969 -58.069
-     angleX -7.726
-     angleY -89.394
-     angleZ -4.94
-    }
-    {
-     components {
-      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-       m_eGroupType FIRETEAM
-      }
-     }
-     coords -30.995 -2.896 6.957
-     angleX -6.886
-     angleY -90.217
-     angleZ 1.81
-    }
-    {
-     components {
-      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
-       m_eGroupType FIRETEAM
-       m_bPickRandomGroupType 1
-      }
-     }
-     coords -54.787 -13.318 -71.465
-     angleX -7.068
-     angleY -88.645
-     angleZ -11.541
-    }
-   }
-   StaticModelEntity : "{DBCDEC45DB834E8A}Prefabs/Structures/Infrastructure/Towers/TransmitterTower_01/TransmitterTower_01.et" {
-    coords -0.006 -0.356 -2.624
-    angleY -90
-   }
-  }
- }
- Relay6 {
+ Relay4 {
   components {
    BaseRadioComponent "{5C727AD73024FB2A}" {
     Transceivers {
@@ -2722,6 +2578,49 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
    }
   }
   coords 16161.104 69.813 14501.591
+  angleY 90.581
+  {
+   $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType FIRETEAM
+      }
+     }
+     coords -12.112 -1.166 -4.456
+     angleX 1.233
+     angleY 66.132
+     angleZ -0.531
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_eGroupType FIRETEAM
+      }
+     }
+     coords -23.902 -1.172 26.009
+     angleX 3.172
+     angleY 66.125
+     angleZ 0.582
+    }
+   }
+  }
+ }
+ Relay5 {
+  components {
+   BaseRadioComponent "{5C727AD73024FB2A}" {
+    Transceivers {
+     RelayTransceiver "{5C727AD73024FB39}" {
+      "Transmitting Range" 2500
+     }
+    }
+   }
+   SCR_CampaignMilitaryBaseComponent "{5C727AD73024FB00}" {
+    m_sBaseName "St Phillipe Relay"
+    m_sBaseNameUpper "ST PHILLIPE RELAY"
+   }
+  }
+  coords 14770.44 42.799 2016.963
   angleY 90.581
   {
    $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
