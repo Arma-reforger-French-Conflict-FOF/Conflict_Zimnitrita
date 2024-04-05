@@ -22,24 +22,78 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_bPickRandomGroupType 1
        m_iRespawnPeriod 600
        m_fAILimitThreshold 0.66
-       m_iRespawnWaves -1
        m_iGroupMultiplier 3
       }
      }
-     coords -137.166 10.192 -3.144
-     angleX 2.554
-     angleY 148.938
-     angleZ 0.531
+     coords 112.383 -1.621 337.583
+     angleX 1.749
+     angleY 148.992
+     angleZ -3.862
      {
       SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
        components {
         Hierarchy "{5CD0765889102122}" {
         }
        }
-       coords -142.842 -13.149 36.392
-       angleX -1.936
-       angleY -53.842
-       angleZ 1.749
+       coords 343.904 -30.365 287.789
+       angleX 2.07
+       angleY -53.583
+       angleZ 3.7
+       CompletionRadius 76.2
+      }
+     }
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_bPickRandomGroupType 1
+       m_iRespawnPeriod 600
+       m_fAILimitThreshold 0.66
+       m_iGroupMultiplier 3
+      }
+     }
+     coords 112.383 -1.621 337.583
+     angleX 2.756
+     angleY 165.165
+     angleZ -3.222
+     {
+      SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
+       components {
+        Hierarchy "{5CD0765889102122}" {
+        }
+       }
+       coords 168.354 -19.786 247.547
+       angleX 0.961
+       angleY -53.663
+       angleZ 4.128
+       CompletionRadius 76.2
+      }
+     }
+    }
+    {
+     components {
+      SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
+       m_bPickRandomGroupType 1
+       m_iRespawnPeriod 600
+       m_fAILimitThreshold 0.66
+       m_iGroupMultiplier 3
+      }
+     }
+     coords 112.383 -1.621 337.583
+     angleX 3.545
+     angleY -178.638
+     angleZ -2.326
+     {
+      SCR_DefendWaypoint : "{2A81753527971941}Prefabs/AI/Waypoints/AIWaypoint_Defend_CP.et" {
+       components {
+        Hierarchy "{5CD0765889102122}" {
+        }
+       }
+       coords 50.93 -9.374 144.051
+       angleX -0.224
+       angleY -53.751
+       angleZ 4.233
+       CompletionRadius 76.2
       }
      }
     }
