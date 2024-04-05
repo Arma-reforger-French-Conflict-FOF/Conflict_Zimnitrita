@@ -69,6 +69,10 @@ $grp GenericEntity : "{07D58C64654F71A3}Prefabs/Compositions/Slotted/SlotFlatSma
   coords 16077.332 255.594 9576.176
   angleY -170.452
  }
+ {
+  coords 9282.301 11.719 3493.792
+  angleY -6.605
+ }
 }
 $grp GenericEntity : "{172D03072FE6ECAB}Prefabs/Compositions/Slotted/SlotRoadMedium/Barricade_M_US_01.et" {
  {
@@ -1502,8 +1506,10 @@ $grp GenericEntity : "{B04F2A9C5356C02D}Prefabs/Compositions/Slotted/SlotFlatSma
   angleZ -1.714
  }
  {
-  coords 12016.521 20.893 5911.071
-  angleY -38.896
+  coords 9262.604 11.733 3467.889
+  angleX -6.648
+  angleY -28.645
+  angleZ 3.619
  }
 }
 $grp StaticModelEntity : "{DA1B42FB9AEC02BE}Prefabs/Structures/Military/Fortifications/Dragontooth_01/Dragontooth_01_V3.et" {
@@ -1544,9 +1550,10 @@ $grp GenericEntity : "{E249C09D69AAE6C8}Prefabs/Compositions/Slotted/SlotFlatSma
   angleY -85.979
  }
  {
-  coords 8557.385 48.225 8817.563
-  angleX 2.69
-  angleY 50.231
+  coords 9273.226 11.845 3489.349
+  angleX 5.263
+  angleY -10.726
+  angleZ -0.995
  }
 }
 $grp StaticModelEntity : "{EF39F5715EF2323E}Prefabs/Structures/Walls/BarbedWire/BarbedTape_01/BarbedTape_01_Short.et" {

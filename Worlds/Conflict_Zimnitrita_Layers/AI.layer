@@ -1061,7 +1061,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
   }
  }
  {
-  coords 11298.872 44.215 8893.835
+  coords 11744.855 46.598 8929.127
   angleX -1.79
   angleY 0.014
   angleZ -0.448
@@ -1522,7 +1522,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
   }
-  coords 11061.555 85.313 9083.418
+  coords 11586.261 94.673 9087.272
   angleX -0.659
   angleY 139.513
   angleZ 1.889
@@ -2651,7 +2651,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
   }
  }
  {
-  coords 11633.806 6.092 8270.494
+  coords 11619.193 14.197 8299.896
   angleZ 29.017
   {
    $grp SCR_AIWaypoint : "{FBA8DC8FDA0E770D}Prefabs/AI/Waypoints/AIWaypoint_Patrol_Hierarchy.et" {
