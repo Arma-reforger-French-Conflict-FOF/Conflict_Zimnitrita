@@ -28,10 +28,8 @@ $grp GenericEntity : "{084825E68F0FAF86}Prefabs/Compositions/Slotted/SlotFlatSma
 }
 $grp GenericEntity : "{16148BF23770F1D3}Prefabs/Compositions/Slotted/SlotFlatSmall/MachineGunNest_S_USSR_02.et" {
  {
-  coords 15616.232 50.03 6245.049
-  angleX -0.059
+  coords 15612.854 50.031 6257.805
   angleY 172.421
-  angleZ -0.444
  }
  {
   coords 15689.39 50.031 6873.196
