@@ -1541,16 +1541,17 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
   }
-  coords 9984.865 76.602 8034.168
-  angleX 3.972
-  angleY 146.03
-  angleZ 1.095
+  coords 9987.289 74.968 8060.266
+  angleX 1.73
+  angleY 146.118
+  angleZ -2.238
   {
    SCR_DefendWaypoint : "{AAE8882E0DE0761A}Prefabs/AI/Waypoints/AIWaypoint_Defend_Hierarchy.et" {
-    coords -4.762 -0.026 4.078
-    angleX -1.057
-    angleY -168.949
-    angleZ 0.933
+    coords 0.146 0.264 9.785
+    angleX -3.155
+    angleY -168.948
+    angleZ -0.609
+    CompletionRadius 3
    }
   }
  }

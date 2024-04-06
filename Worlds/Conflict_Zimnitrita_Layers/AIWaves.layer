@@ -1,3 +1,9 @@
+GenericEntity : "{084825E68F0FAF86}Prefabs/Compositions/Slotted/SlotFlatSmall/MachineGunNest_Scoped_S_USSR_01.et" {
+ coords 9993.823 75.695 8050.529
+ angleX 4.938
+ angleY 143.622
+ angleZ -3.077
+}
 $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
  {
   components {
